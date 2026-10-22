@@ -40126,6 +40126,7 @@
                 "adenite_cervical.jpg",
                 "agalactiae_patogenese.jpg",
                 "aire_autoimunidade.jpg",
+                "alfa1_antitripsina.jpg",
                 "ametropias_visao_geral.jpg",
                 "anticorpo_sem_rotulos.jpg",
                 "apc_tipos.jpg",
@@ -40138,6 +40139,7 @@
                 "arteria_muscular_he.jpg",
                 "arteria_muscular_orceina.jpg",
                 "arteria_vs_veia.jpg",
+                "ascite_kwashiorkor.jpg",
                 "ativacao_t_independente.jpg",
                 "aureus_morfologia.jpg",
                 "aureus_virulencia.jpg",
@@ -40194,6 +40196,7 @@
                 "clamidia_lgv_bubao.jpg",
                 "clamidia_microscopia.jpg",
                 "classes_ig.jpg",
+                "coagulacao_superficies_celulares.jpg",
                 "coclea_desenho_rampas.jpg",
                 "coclea_foto_card.jpg",
                 "coclea_fotomicrografia.jpg",
@@ -40240,6 +40243,7 @@
                 "estereocilios_arranjo.jpg",
                 "estrutura_bcr_tcr.jpg",
                 "estrutura_moleculas_adesao.jpg",
+                "estrutura_vasos.jpg",
                 "estruturas_externas_olho.jpg",
                 "etapas_sinapse_quimica.png",
                 "excitotoxicidade_glutamatergica.png",
@@ -40248,6 +40252,7 @@
                 "fagocitose_etapas.jpg",
                 "faringo_diagnostico.jpg",
                 "faringoamigdalite.jpg",
+                "fatores_metabolicos.jpg",
                 "febre_reumatica.jpg",
                 "fig02_determinantes_pa.jpg",
                 "fig03_dc_rvp_setas.jpg",
@@ -40276,6 +40281,7 @@
                 "fluidos_cocleares_esquema.jpg",
                 "fluoxetina_isrs.png",
                 "foliculite_furunculo.jpg",
+                "forcas_starling.jpg",
                 "formacao_granuloma_histologia.jpg",
                 "funcoes_celula_b.jpg",
                 "gaba_benzodiazepinicos_mecanismo.png",
@@ -40309,6 +40315,7 @@
                 "hanseniase_virchoviana.jpg",
                 "hemianopsias.jpg",
                 "hemolise_padroes.jpg",
+                "hemostasia.jpg",
                 "hibridoma.jpg",
                 "histologia_centro_germinativo.jpg",
                 "homunculo_3d.jpg",
@@ -40356,6 +40363,7 @@
                 "labirinto_membranoso_rotulos.jpg",
                 "lancefield.jpg",
                 "lflam_igra_ppd.jpg",
+                "linfa_edema.jpg",
                 "linfonodo_histologia.jpg",
                 "linfonodo_zonas.jpg",
                 "lobos_cerebrais.jpg",
@@ -40364,6 +40372,7 @@
                 "manobra_brudzinski_sem_legenda.jpg",
                 "manobra_kernig_sem_legenda.jpg",
                 "marcadores_cd.jpg",
+                "marcadores_dca_curva.jpg",
                 "mastocito_degranulacao.jpg",
                 "maturacao_afinidade.jpg",
                 "maturacao_selecao_timo.jpg",
@@ -40417,6 +40426,7 @@
                 "paredes_tabela.jpg",
                 "parkinson_cocaina_dopamina.png",
                 "patogenese_fluxograma.jpg",
+                "pcr_pos_cirurgico.jpg",
                 "placa_cuticular_mev.jpg",
                 "plexos_nervosos.jpg",
                 "pneumoniae_intro.jpg",
@@ -40429,6 +40439,7 @@
                 "pyogenes_manifestacoes.jpg",
                 "pyogenes_virulencia.jpg",
                 "receptores_ionotropicos_metabotropicos.png",
+                "resistencia_vascular.jpg",
                 "retina_neural_camadas.jpg",
                 "retroalimentacao.jpg",
                 "retroalimentacao_anticorpos.jpg",
@@ -40454,6 +40465,7 @@
                 "sinalizacao_tlr.jpg",
                 "sintomas_hanseniase.jpg",
                 "sistema_conducao_oculto.jpg",
+                "sistema_linfatico.jpg",
                 "sistema_venoso.jpg",
                 "sna_p09.jpg",
                 "sna_p10.jpg",
@@ -40463,9 +40475,13 @@
                 "somatorio_disparo_sinapses.png",
                 "somatotopia_nucleos_bulbares_talamo.jpg",
                 "staphylococcus_histologia.jpg",
+                "starling_arterial.jpg",
+                "starling_media.jpg",
+                "starling_venosa.jpg",
                 "supradesnivelamento_st.jpg",
                 "tabela_comparativa_mhc.jpg",
                 "tabela_resposta_1a_2a.jpg",
+                "tabela_vasomotricidade.jpg",
                 "tcr_cd3_mhc.jpg",
                 "tcr_peptideo_mhc.jpg",
                 "teste_elek.jpg",
@@ -40490,6 +40506,7 @@
                 "tgi_shigella_patogenese.jpg",
                 "timo_dep_vs_indep.jpg",
                 "tip_links_met.jpg",
+                "tipos_capilares_vias.jpg",
                 "tnf_dose_dependente.jpg",
                 "toxina_ab_mecanismo.jpg",
                 "toxinas_aureus.jpg",
@@ -70408,12 +70425,12 @@
                     "__type__": "Note",
                     "fields": [
                         "Túnica íntima — de que é formada?",
-                        "Endotélio (epitélio simples pavimentoso) sobre membrana basal e camada subendotelial (conjuntivo frouxo), terminando na lâmina elástica interna."
+                        "Do endotélio junto com o tecido elástico subjacente."
                     ],
                     "guid": "mwaoD^+al}",
                     "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
                     "tags": [
-                        "M2::HISTOLOGIA::Histologia_Vasos"
+                        "M2::FISIOLOGIA::Microcirculacao_Vasos"
                     ]
                 },
                 {
@@ -74195,6 +74212,1590 @@
                     "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
                     "tags": [
                         "M2::IMUNOLOGIA::Terapia_Monoclonal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aula de microcirculação e proteínas plasmáticas — qual é o fio condutor que une os dois blocos da aula?",
+                        "<b>Resumo: Líquido atravessa o capilar, proteínas tendem a permanecer, e essa retenção cria a pressão oncótica que equilibra a pressão hidrostática (Starling).</b><br><br>Bloco A: microcirculação (vasos, capilares, regulação, Starling, linfa e edema). Bloco B: proteínas plasmáticas (albumina, fase aguda, enzimas, coagulação, lipoproteínas) como mecanismo e como sinal clínico. A aula vai do mecanismo ao achado clínico."
+                    ],
+                    "guid": "F-mpOBE-3n",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Microcirculacao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Microcirculação — o que é e quais segmentos a compõem, em sequência?",
+                        "<b>Resumo: Vasos de diâmetro menor que 100 µm que conectam a circulação aos tecidos.</b><br><br>Sequência: arteríola → metarteríola → capilares → vênulas. A arteríola é a principal resistência e o capilar é o local das trocas."
+                    ],
+                    "guid": "Lu^R,F.h(Q",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Microcirculacao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Arteríola — qual é o papel funcional na microcirculação?",
+                        "Principal resistência ao fluxo (resistência variável). Ao mudar seu calibre, ajusta o fluxo que chega ao capilar."
+                    ],
+                    "guid": "O3je0cqMG|",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Microcirculacao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Esfíncter pré-capilar — qual é a função?",
+                        "Regular a entrada de sangue nos leitos capilares."
+                    ],
+                    "guid": "rf*@?`P]+]",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Microcirculacao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Capilar — qual é a função e como é a parede?",
+                        "É o local das trocas. A parede é formada por uma única camada de endotélio."
+                    ],
+                    "guid": "EBL#A27);!",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Microcirculacao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parede capilar — qual a espessura segundo o slide e qual divergência existe entre as fontes?",
+                        "Slide: 0,1 a 0,3 µm. A tabela da Silverthorn dá 0,5 µm de espessura e 8 µm de diâmetro, e a figura da Margarida Aires marca 6 µm de diâmetro. Confirmar com o professor qual valor ele cobra."
+                    ],
+                    "guid": "co@ERPJT_f",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Microcirculacao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Artérias sistêmicas elásticas — qual é o papel no circuito (Silverthorn)?",
+                        "São um reservatório de pressão que mantém o fluxo sanguíneo durante o relaxamento ventricular."
+                    ],
+                    "guid": "BgZpp!+Z^a",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Microcirculacao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Veias sistêmicas — qual é o papel no circuito (Silverthorn)?",
+                        "Servem como reservatório de volume expansível."
+                    ],
+                    "guid": "c6^>_DL`_^",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Microcirculacao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Estrutura dos vasos — como variam diâmetro, espessura e componentes da parede de artéria, arteríola, capilar, vênula e veia?",
+                        "<b>Resumo: Quanto mais perto do capilar, menos camadas: o capilar tem só endotélio, a arteríola é a mais muscular em proporção ao diâmetro.</b><br><br>Artéria: 4 mm de diâmetro e 1 mm de parede, com endotélio, elástico, muito músculo liso e fibroso.<br>Arteríola: 30 µm e 6 µm, endotélio e músculo liso.<br>Capilar: 8 µm e 0,5 µm, só endotélio.<br>Vênula: 20 µm e 1 µm, endotélio e tecido fibroso.<br>Veia: 5 mm e 0,5 mm, endotélio, elástico, músculo liso e fibroso.<br><br><img src=\"estrutura_vasos.jpg\">"
+                    ],
+                    "guid": "pZhqZA/G/e",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Microcirculacao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Arteríola — por que é o principal ponto de resistência da árvore vascular?",
+                        "<b>Resumo: Porque tem a maior razão parede/lúmen, isto é, muito músculo liso para um diâmetro pequeno.</b><br><br>Nos capilares a razão cai porque não há camada muscular, e nas veias cai porque o diâmetro é grande em relação ao pouco músculo. A resistência relativa acompanha a razão parede/lúmen e atinge o pico nas arteríolas.<br><br><img src=\"resistencia_vascular.jpg\">"
+                    ],
+                    "guid": "di3:t}~(<R",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Microcirculacao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Circuito sanguíneo — as bombas cardíacas direita e esquerda funcionam em série ou em paralelo?",
+                        "Em série: o sangue sai de uma bomba, percorre um circuito e entra na outra. Cada lado do coração funciona como uma bomba independente. (Questão da Fig. 15.1 da Silverthorn.)"
+                    ],
+                    "guid": "hK*Qo$7Jyq",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Microcirculacao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Troca capilar — como a estrutura dos vasos explica por que a troca ocorre no capilar e não na artéria ou na veia?",
+                        "<b>Resumo: O capilar tem só endotélio e parede finíssima, enquanto artérias e veias têm músculo, elástico e tecido fibroso que as tornam barreiras.</b><br><br>A arteríola, logo antes, regula quanto sangue chega ao leito capilar (resistência variável, com esfíncter pré-capilar)."
+                    ],
+                    "guid": "f{AJv9V6i=",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Microcirculacao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Capilares — quais são os três tipos e qual é a lógica que define o que atravessa cada um?",
+                        "<b>Resumo: Contínuo, fenestrado e sinusoide. A estrutura da parede seleciona o que atravessa, e quanto maiores as aberturas, maior o que passa.</b><br><br>Contínuo: junções de 4 a 5 nm. Fenestrado: poros de cerca de 100 nm. Sinusoide: aberturas maiores que 200 nm.<br><br><img src=\"tipos_capilares_vias.jpg\">"
+                    ],
+                    "guid": "xXp@tEvoS|",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Capilares_Vias_Permeabilidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Capilar contínuo — qual a característica e onde ocorre?",
+                        "Junções de 4 a 5 nm entre as células. Ocorre em músculo e pulmão."
+                    ],
+                    "guid": "N,7i`G?U<#",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Capilares_Vias_Permeabilidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Capilar fenestrado — qual a característica e onde ocorre?",
+                        "Poros de cerca de 100 nm. Ocorre no intestino e no glomérulo."
+                    ],
+                    "guid": "w,M+t~-44|",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Capilares_Vias_Permeabilidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Capilar sinusoide — qual a característica e onde ocorre?",
+                        "Aberturas maiores que 200 nm. Ocorre na medula óssea, baço e fígado."
+                    ],
+                    "guid": "e+O}Q]h[b.",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Capilares_Vias_Permeabilidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parede capilar — quais são as três vias de passagem e o que passa em cada uma?",
+                        "Transcelular: gases. Paracelular: água e íons. Transcitose: proteínas e macromoléculas."
+                    ],
+                    "guid": "b[J<(]l}.V",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Capilares_Vias_Permeabilidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Troca capilar-tecido — defina difusão, filtração e absorção.",
+                        "<b>Resumo: Difusão é passagem através da membrana, filtração e absorção são passagem de líquido pelas fendas em sentidos opostos.</b><br><br>Difusão: passagem de substâncias através da membrana do capilar (exemplo: O₂ e CO₂).<br>Filtração: passagem pelas fendas, do capilar para os tecidos.<br>Absorção: passagem pelas fendas, dos tecidos para os capilares."
+                    ],
+                    "guid": "rlBn&?h[0%",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Capilares_Vias_Permeabilidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fenda intercelular larga — em que situação aparece e qual a consequência?",
+                        "Aparece na inflamação aguda e permite a passagem de moléculas grandes como proteínas, o que favorece o edema."
+                    ],
+                    "guid": "m,VFUBX_&r",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Capilares_Vias_Permeabilidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fig. 34.5 da Margarida Aires — o que representam as letras E, G, L e P?",
+                        "E: endotélio. G: glicocálice. L: membrana plasmática lipídica. P: pericito."
+                    ],
+                    "guid": "jT65O)Z{Nw",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Capilares_Vias_Permeabilidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Permeabilidade relativa (água = 1,00) — quais os valores de NaCl, glicose, mioglobina, hemoglobina e albumina?",
+                        "NaCl 0,96. Glicose 0,6. Mioglobina 0,03. Hemoglobina 0,01. Albumina 0,001 (Pappenheimer, 1953)."
+                    ],
+                    "guid": "Pak!pNEirh",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Capilares_Vias_Permeabilidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Permeabilidade capilar — qual é a relação entre tamanho da molécula e passagem, e qual a consequência para as proteínas?",
+                        "<b>Resumo: Quanto maior a molécula, menor a passagem, então as proteínas ficam predominantemente retidas no capilar.</b><br><br>Essa retenção é o que permite que as proteínas exerçam pressão oncótica no plasma."
+                    ],
+                    "guid": "n=9Kn{?7c~",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Capilares_Vias_Permeabilidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Via transcelular — por que os gases a usam enquanto água e íons usam outra via?",
+                        "Gases como O₂ e CO₂ são lipofílicos e atravessam diretamente a membrana da célula endotelial. Água e íons são hidrofílicos e passam pelas fendas entre as células (via paracelular) ou pelos poros."
+                    ],
+                    "guid": "gXXWB)$ti5",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Capilares_Vias_Permeabilidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fig. 34.5 — qual rótulo da figura está provavelmente trocado e qual seria o correto?",
+                        "A figura chama água, íons e proteínas de moléculas hidrofóbicas, mas esses solutos são hidrofílicos. Só as lipofílicas (O₂ e CO₂) são hidrofóbicas."
+                    ],
+                    "guid": "rju~}08%nU",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Capilares_Vias_Permeabilidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Retenção de proteínas — como a baixa permeabilidade do capilar à albumina prepara o conceito de pressão oncótica?",
+                        "<b>Resumo: A albumina quase não atravessa (0,001), então fica no plasma e atrai água para dentro do capilar.</b><br><br>Esse efeito osmótico das proteínas é a pressão oncótica plasmática, uma das forças de Starling."
+                    ],
+                    "guid": "o#f3tZ!4T2",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Capilares_Vias_Permeabilidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Regulação local do fluxo — quais são os grupos de mecanismos e qual é o alvo comum?",
+                        "<b>Resumo: Miogênico, metabólico e endotelial, todos agindo sobre o calibre da arteríola.</b><br><br>O calibre arteriolar define o fluxo local e influencia a pressão hidrostática no capilar."
+                    ],
+                    "guid": "dGVs!)7C4Q",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Regulacao_Fluxo_Local"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mecanismo miogênico — como funciona?",
+                        "Estiramento da parede → Ca²⁺ entra → o músculo liso contrai."
+                    ],
+                    "guid": "MHc;:?&|6c",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Regulacao_Fluxo_Local"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mecanismo metabólico — quais sinais produzem vasodilatação?",
+                        "Queda de O₂, aumento de CO₂, K⁺, adenosina e lactato, e queda do pH."
+                    ],
+                    "guid": "L~;T1k(!/V",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Regulacao_Fluxo_Local"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Endotélio — qual é o efeito do óxido nítrico (NO) e da endotelina-1?",
+                        "NO: vasodilata. Endotelina-1: vasoconstrição."
+                    ],
+                    "guid": "FE!x~/UYQx",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Regulacao_Fluxo_Local"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Músculo em atividade — quais alterações aparecem no interstício e qual o efeito sobre a arteríola?",
+                        "<b>Resumo: O músculo consome ATP e O₂ e libera metabólitos que vasodilatam a arteríola.</b><br><br>Aparecem CO₂, H⁺, ácido lático, K⁺, fosfato inorgânico, adenosina e nucleotídeos de adenina, com aumento da osmolalidade e queda de O₂. Em repouso ocorre o oposto, com vasoconstrição.<br><br><img src=\"fatores_metabolicos.jpg\">"
+                    ],
+                    "guid": "bGGI&4K3{}",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Regulacao_Fluxo_Local"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fatores de constrição das arteríolas (Tab. 11-1) — quais são locais, endoteliais, hormonais e neurais?",
+                        "<b>Resumo: Locais: temperatura diminuída, autorregulação, serotonina plaquetária. Endotelial: endotelina-1. Hormônios e neural: catecolaminas e vasopressina.</b><br><br>Locais: temperatura local diminuída, autorregulação e serotonina plaquetária liberada localmente.<br>Endotélio: endotelina-1.<br>Hormônios: noradrenalina, adrenalina (exceto em músculo esquelético e fígado), arginina vasopressina, angiotensina II, inibidor circulante da Na⁺/K⁺-ATPase e neuropeptídeo Y.<br>Neural: aumento da descarga de nervos vasomotores noradrenérgicos."
+                    ],
+                    "guid": "Kci/=Zn[{s",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Regulacao_Fluxo_Local"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fatores de dilatação das arteríolas (Tab. 11-1) — quais são locais, hormonais e neurais?",
+                        "<b>Resumo: Locais: metabólitos, queda de O₂ e pH, calor e NO. Hormônios: peptídeos vasoativos e natriuréticos. Neural: fibras colinérgicas e menos descarga noradrenérgica.</b><br><br>Locais: aumento de CO₂, K⁺, adenosina e lactato, diminuição de O₂ e do pH, temperatura aumentada, produtos endoteliais e óxido nítrico.<br>Hormônios: peptídeo intestinal vasoativo, CGRPα, substância P, histamina, cininas, peptídeos natriuréticos (ANP, BNP, CNP) e adrenalina em músculos esqueléticos e fígado.<br>Neural: ativação de fibras dilatadoras colinérgicas para músculo esquelético e diminuição da descarga de nervos vasomotores noradrenérgicos.<br><br><img src=\"tabela_vasomotricidade.jpg\">"
+                    ],
+                    "guid": "t5:^zZGXzH",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Regulacao_Fluxo_Local"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Adrenalina — por que não pode ser classificada simplesmente como vasoconstritora?",
+                        "Ela constringe a maioria dos leitos, mas dilata as arteríolas em músculo esquelético e fígado."
+                    ],
+                    "guid": "jy,$N&n|Y.",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Regulacao_Fluxo_Local"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vasodilatação metabólica — por que faz sentido fisiológico?",
+                        "A perfusão tecidual depende da atividade metabólica momentânea do tecido. Quanto mais ele trabalha, mais O₂ consome e mais metabólitos libera, e esses sinais dilatam a arteríola e aumentam o fluxo, ajustando oferta à demanda."
+                    ],
+                    "guid": "Ed[GptMa1_",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Regulacao_Fluxo_Local"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Exercício — integre mecanismos metabólicos, neurais e hormonais para explicar o aumento de fluxo no músculo esquelético.",
+                        "<b>Resumo: Metabólitos vasodilatam localmente, e há dilatação neural colinérgica e efeito dilatador da adrenalina nesse leito.</b><br><br>Metabólico: queda de O₂, aumento de CO₂, K⁺, adenosina, lactato e queda do pH. Neural: ativação de fibras dilatadoras colinérgicas para o músculo esquelético. Hormonal: a adrenalina dilata arteríolas de músculo esquelético e fígado."
+                    ],
+                    "guid": "%&TJ(2;p>",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Regulacao_Fluxo_Local"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Equilíbrio de Starling — quais são as quatro forças e o que cada uma favorece?",
+                        "<b>Resumo: Pc e πi favorecem filtração, Pli (negativa) também, e πc favorece absorção.</b><br><br>Pc: pressão hidrostática capilar, 30 → 10 mmHg, favorece filtração.<br>Pli: pressão hidrostática intersticial, −3 mmHg.<br>πc: pressão oncótica plasmática, 28 mmHg, favorece absorção.<br>πi: pressão oncótica intersticial, 8 mmHg, favorece filtração.<br><br><img src=\"forcas_starling.jpg\">"
+                    ],
+                    "guid": "QH~%ib21@`",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Forcas_Starling"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pressão hidrostática e pressão oncótica — defina cada uma.",
+                        "Hidrostática: pressão física do líquido, que empurra o líquido para fora do compartimento. Oncótica (coloidosmótica): efeito osmótico das proteínas, que atrai água para o compartimento onde elas estão."
+                    ],
+                    "guid": "c)Q5y#VdDi",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Forcas_Starling"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pc — qual o valor ao longo do capilar e o que favorece?",
+                        "Cai de 30 mmHg (extremidade arterial) para 10 mmHg (extremidade venosa). Favorece a filtração."
+                    ],
+                    "guid": "A_/7~Pn,i%",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Forcas_Starling"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "πc e πi — quais os valores e o que cada uma favorece?",
+                        "πc = 28 mmHg e favorece absorção. πi = 8 mmHg e favorece filtração."
+                    ],
+                    "guid": "h}4Qya0m`M",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Forcas_Starling"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pli — qual o valor e o que isso significa?",
+                        "−3 mmHg. É uma pressão negativa (sucção) que ajuda a tirar líquido do capilar, por isso favorece filtração."
+                    ],
+                    "guid": "x+3KB:-.^Q",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Forcas_Starling"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Extremidade arterial do capilar — some as forças para fora e para dentro e calcule a força efetiva.",
+                        "<b>Resumo: Para fora 41 mmHg, para dentro 28 mmHg, força efetiva de 13 mmHg para fora (filtração).</b><br><br>Para fora: Pc 30 + pressão negativa intersticial 3 + πi 8 = 41.<br>Para dentro: πc 28.<br>41 − 28 = 13 mmHg.<br><br><img src=\"starling_arterial.jpg\">"
+                    ],
+                    "guid": "yckBISd,rI",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Forcas_Starling"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Extremidade venosa do capilar — some as forças para fora e para dentro e calcule a força efetiva.",
+                        "<b>Resumo: Para dentro 28 mmHg, para fora 21 mmHg, força efetiva de 7 mmHg para dentro (absorção).</b><br><br>Para fora: Pc 10 + pressão negativa intersticial 3 + πi 8 = 21.<br>Para dentro: πc 28.<br>28 − 21 = 7 mmHg.<br><br><img src=\"starling_venosa.jpg\">"
+                    ],
+                    "guid": "ljh2TpVfj7",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Forcas_Starling"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Média ao longo do capilar — quais os valores usados e qual a força efetiva?",
+                        "<b>Resumo: Para fora 28,3 mmHg, para dentro 28,0 mmHg, sobra de 0,3 mmHg para fora.</b><br><br>Para fora: pressão capilar média 17,3 + pressão negativa intersticial 3,0 + πi 8,0 = 28,3.<br>Para dentro: πc 28,0.<br>Resultante: 0,3 mmHg para fora.<br><br><img src=\"starling_media.jpg\">"
+                    ],
+                    "guid": "Ju!.OPA>cR",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Forcas_Starling"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Equação de Starling — como se escreve e o que significam Kf e σ? (conteúdo extra)",
+                        "<b>Resumo: Jv = Kf × [(Pc − Pli) − σ(πc − πi)], onde Kf é a condutância da parede e σ o coeficiente de reflexão das proteínas.</b><br><br>Jv é o fluxo líquido de filtração. σ próximo de 1 significa que a parede retém as proteínas e o efeito oncótico é máximo. Dá o mesmo resultado das tabelas dos slides."
+                    ],
+                    "guid": "f<?MJceI0>",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Forcas_Starling"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Capilar — qual das forças de Starling muda da extremidade arterial para a venosa e por que isso inverte o sentido do fluxo?",
+                        "<b>Resumo: Só a Pc cai (30 → 10 mmHg), então a filtração da ponta arterial vira absorção na ponta venosa.</b><br><br>πc, πi e Pli permanecem praticamente constantes. Na ponta arterial a Pc alta vence a oncótica e o líquido sai. Na ponta venosa a Pc caiu e a oncótica vence, e o líquido volta."
+                    ],
+                    "guid": "Rc-oy:fyQP",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Forcas_Starling"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pli negativa — por que nas tabelas do Guyton ela aparece como força para fora?",
+                        "Porque −3 mmHg é uma sucção que puxa líquido para fora do capilar. A mesma informação é escrita como Pli = −3 no slide 14 e como +3 entre as forças para fora nas tabelas."
+                    ],
+                    "guid": "Qnns42rx2j",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Forcas_Starling"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Balanço médio de 0,3 mmHg para fora — qual o destino desse líquido e por que isso importa?",
+                        "Esse pequeno excesso de líquido (com as proteínas que escapam) fica no interstício e precisa ser devolvido à circulação pelos vasos linfáticos. Sem a linfa, o líquido se acumularia como edema."
+                    ],
+                    "guid": "r[p.MN!xZI",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Forcas_Starling"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pressão oncótica — por que as proteínas conseguem gerar efeito oncótico no capilar?",
+                        "Porque a parede quase não deixa as proteínas passarem (albumina 0,001), então elas permanecem concentradas no plasma e atraem água para dentro por efeito osmótico."
+                    ],
+                    "guid": "iG6SXJx6}n",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Forcas_Starling"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Arteríola — como a vasodilatação arteriolar altera o equilíbrio de Starling? (conteúdo extra)",
+                        "A vasodilatação aumenta o fluxo e a Pc capilar, o que aumenta a força de filtração. O inverso vale para a vasoconstrição arteriolar."
+                    ],
+                    "guid": "Jm~mL?GE:Z",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Forcas_Starling"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Linfa e edema — como se relacionam a sobra de filtração, o sistema linfático e o edema?",
+                        "<b>Resumo: A filtração deixa uma sobra de líquido e proteínas no interstício, a linfa a recolhe e devolve ao sangue, e o edema surge quando esse equilíbrio falha.</b><br><br>Edema é o acúmulo anormal de líquido intersticial. Qualquer alteração das forças de Starling, da permeabilidade ou da drenagem linfática pode causá-lo."
+                    ],
+                    "guid": "Kmp,C,&.@d",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Linfa_Edema"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Capilar linfático — quais as características e a função?",
+                        "Tem fundo cego e fica no interstício. Drena a sobra de líquido e proteínas filtradas e devolve as proteínas à circulação.<br><br><img src=\"linfa_edema.jpg\">"
+                    ],
+                    "guid": "v3==CQ!#n$",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Linfa_Edema"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sistema linfático — por onde a linfa passa até a circulação venosa?",
+                        "Passa pelos linfonodos (cervicais, axilares, lombares, pélvicos, inguinais) e chega ao ducto torácico (linfático esquerdo) e ao ducto linfático direito, que desembocam na circulação venosa.<br><br><img src=\"sistema_linfatico.jpg\">"
+                    ],
+                    "guid": "ztkwdf80tS",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Linfa_Edema"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Edema — qual a definição?",
+                        "Acúmulo anormal de líquido intersticial."
+                    ],
+                    "guid": "w5P`Qg7Fai",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Linfa_Edema"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Edema — quais são os quatro mecanismos?",
+                        "<b>Resumo: Aumento da pressão capilar, obstrução linfática, aumento da permeabilidade e hipoproteinemia (menor oncótica).</b><br><br>Aumento da pressão capilar vem de obstrução venosa. A hipoproteinemia reduz a pressão oncótica."
+                    ],
+                    "guid": "uV!LT6L444",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Linfa_Edema"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Edema por aumento da pressão capilar — quais as causas citadas?",
+                        "Obstrução venosa, trombótica ou tumoral."
+                    ],
+                    "guid": "v{y1HuAfQK",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Linfa_Edema"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Edema por obstrução linfática — quais as causas citadas?",
+                        "Neoplasias, infecção ou parasitose e alterações congênitas."
+                    ],
+                    "guid": "rD_6H8:cLl",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Linfa_Edema"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Edema por aumento da permeabilidade capilar arterial — quais os exemplos?",
+                        "Queimaduras, inflamação e alterações hormonais."
+                    ],
+                    "guid": "iM^[4^]QCe",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Linfa_Edema"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Edema por hipoproteinemia — qual o mecanismo?",
+                        "A queda das proteínas diminui a pressão oncótica plasmática, então a absorção cai e o líquido fica no interstício."
+                    ],
+                    "guid": "F5h{_O`xRQ",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Linfa_Edema"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kwashiorkor — o que é e qual o achado clássico?",
+                        "Desnutrição proteica grave que causa hipoalbuminemia e leva à ascite (edema abdominal).<br><br><img src=\"ascite_kwashiorkor.jpg\">"
+                    ],
+                    "guid": "px3&4k?8%o",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Linfa_Edema"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Elefantíase — que tipo de edema exemplifica?",
+                        "Edema por obstrução linfática crônica. (Conteúdo extra: a causa clássica nos trópicos é a filariose linfática.)"
+                    ],
+                    "guid": "F)<QW,X~Ew",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Linfa_Edema"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Linfa — por que só ela pode devolver ao sangue as proteínas que escaparam do capilar? (conteúdo extra)",
+                        "A absorção venosa só move líquido por gradiente de pressão e a permeabilidade à albumina, embora baixíssima, não é zero. As proteínas que escapam não têm caminho de volta pelo capilar e retornam pela linfa."
+                    ],
+                    "guid": "B%V`+1g&4I",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Linfa_Edema"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Edema — como cada mecanismo altera a equação de Starling?",
+                        "<b>Resumo: Aumento de Pc, queda de πc, aumento de permeabilidade e falha de drenagem linfática, todos aumentam o líquido no interstício.</b><br><br>Aumento de Pc: mais filtração. Queda de πc: menos força para dentro. Aumento de permeabilidade: proteínas escapam e a retenção oncótica diminui. Obstrução linfática: a sobra não é drenada."
+                    ],
+                    "guid": "KY0P}29i&8",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Linfa_Edema"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Questão do slide — como a hipoalbuminemia favorece edema mesmo com pressão hidrostática capilar preservada?",
+                        "<b>Resumo: A queda da albumina reduz a πc, enfraquece a força para dentro e a filtração excede a capacidade de drenagem da linfa.</b><br><br>Na ponta arterial a filtração aumenta e na ponta venosa a absorção diminui ou se inverte. A sobra passa de 0,3 mmHg e a linfa não dá conta, gerando edema (ascite nos casos graves). A Pc nem precisa mudar."
+                    ],
+                    "guid": "Nu]*#U63u5",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Linfa_Edema"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Queimadura extensa — por quais mecanismos pode causar edema?",
+                        "Por aumento da permeabilidade capilar (as queimaduras estão entre as causas) e por hipoalbuminemia, já que o estresse metabólico da queimadura aumenta o catabolismo da albumina."
+                    ],
+                    "guid": "w)rv_4!FXP",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Linfa_Edema"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Proteínas plasmáticas — quais as cinco funções que conectam capilar e clínica e quais proteínas a aula cobre?",
+                        "<b>Resumo: Oncótica, transporte, inflamação, coagulação e lesão celular.</b><br><br>Proteínas citadas: albumina, α1-antitripsina, ceruloplasmina, fibrinogênio, proteína C reativa, imunoglobulinas e enzimas/isoenzimas."
+                    ],
+                    "guid": "L>}NqN77a=",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Albumina_Hipoalbuminemia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sangue — qual é o conceito?",
+                        "Sistema complexo constituído de elementos sólidos (células e fragmentos celulares) e de moléculas diluídas no plasma."
+                    ],
+                    "guid": "ypp/CrpI{C",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Albumina_Hipoalbuminemia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Albumina — qual a proporção no plasma, onde é produzida e qual o valor de referência?",
+                        "Cerca de 60% do total de proteínas plasmáticas. Produzida no fígado (14 a 15 g/dia). Referência: 3,5 a 4,5 g/dL."
+                    ],
+                    "guid": "o3(3wwCHD9",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Albumina_Hipoalbuminemia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Albumina — quais as funções principais?",
+                        "Pressão oncótica (deficiência leva a edema), transporte de cerca de 200 ligantes e reserva proteica."
+                    ],
+                    "guid": "zmf+fz|#]p",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Albumina_Hipoalbuminemia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Albumina — que substâncias transporta?",
+                        "Ácidos graxos, bilirrubina, aminoácidos, fármacos e íons."
+                    ],
+                    "guid": "Ds3U|_v_$G",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Albumina_Hipoalbuminemia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hipoalbuminemia — quais as causas associadas?",
+                        "<b>Resumo: Pouca produção, pouca absorção, muita perda ou muita destruição.</b><br><br>Desnutrição proteica e doença celíaca, dano ou disfunção hepática, perda proteica (síndrome nefrótica) e catabolismo aumentado por estresse metabólico (queimaduras)."
+                    ],
+                    "guid": "OTDH{23W;,",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Albumina_Hipoalbuminemia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Albuminemia, albuminúria e microalbuminúria — quais os valores e qual o problema de unidades nos slides?",
+                        "<b>Resumo: Albuminemia 3,5 a 4,5 g/dL. Albuminúria maior que 300 e microalbuminúria até 300.</b><br><br>O slide escreve mg/dL para a albuminemia (o correto é g/dL, como no slide 26) e usa mg/dL e mg/mL na microalbuminúria. Na prática clínica usa-se mg/24 h: microalbuminúria de 30 a 300 mg/24 h e albuminúria acima de 300 mg/24 h. Confirmar com o professor."
+                    ],
+                    "guid": "M@S!U8I.T?",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Albumina_Hipoalbuminemia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Microalbuminúria associada a PCR-us — o que sugere?",
+                        "Dano endotelial."
+                    ],
+                    "guid": "PTZdo2*FfD",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Albumina_Hipoalbuminemia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hipoalbuminemia — por que síndrome nefrótica, hepatopatia, desnutrição e queimadura levam ao mesmo achado?",
+                        "Cada uma interfere em um ponto do ciclo da albumina: o fígado produz (hepatopatia), a nutrição fornece matéria-prima (desnutrição, celíaca), o rim pode perder (nefrótica) e o catabolismo pode destruir (queimadura, estresse metabólico). O resultado é queda da albumina plasmática."
+                    ],
+                    "guid": "CYIg?+cX]6",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Albumina_Hipoalbuminemia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatopatia grave — por que pode se manifestar com edema?",
+                        "O fígado é o local de síntese da albumina. Menos albumina reduz a πc, enfraquece a força que mantém o líquido no capilar e favorece edema e ascite."
+                    ],
+                    "guid": "Q;aTa|710|",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Albumina_Hipoalbuminemia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Resposta de fase aguda — o que desencadeia, o que sobe e o que cai?",
+                        "<b>Resumo: Citocinas inflamatórias estimulam o fígado: PCR, fibrinogênio e α1-antitripsina sobem e a albumina cai.</b><br><br>Infecções, inflamações e carcinomas estimulam a resposta. Os sinais são IL-1, IL-6, TNF-α e IL-8."
+                    ],
+                    "guid": "DOsN+*%.Sd",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Fase_Aguda_PCR_A1AT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fase aguda — quais citocinas sinalizam a resposta?",
+                        "IL-1, IL-6, TNF-α e IL-8."
+                    ],
+                    "guid": "z~vuI)Aja@",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Fase_Aguda_PCR_A1AT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PCR — o que é e em que situações aumenta?",
+                        "Proteína sintetizada no fígado, presente no plasma em doenças inflamatórias agudas. Aumenta em lesão tecidual, infecção ou necrose (até 2000 vezes)."
+                    ],
+                    "guid": "s3IZFs<>UU",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Fase_Aguda_PCR_A1AT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PCR — quais as utilidades clínicas?",
+                        "Acompanhar o curso da doença e a inflamação (presença e extensão), a infecção hospitalar e o risco pós-cirúrgico."
+                    ],
+                    "guid": "bCAUQk:+sc",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Fase_Aguda_PCR_A1AT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PCR em inflamações crônicas — como se comporta?",
+                        "Apresenta flutuações mínimas."
+                    ],
+                    "guid": "FgIcr:nGh%",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Fase_Aguda_PCR_A1AT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PCR-us — qual o valor e para que se usa em conjunto com a microalbuminúria?",
+                        "Até 3 mg/L. Em conjunto com microalbuminúria é sugestiva de dano endotelial."
+                    ],
+                    "guid": "I(]vW&p^sD",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Fase_Aguda_PCR_A1AT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "α1-antitripsina — onde é produzida, onde age e o que inibe?",
+                        "É produzida no hepatócito, age nos alvéolos e inibe proteases, principalmente a elastase dos neutrófilos, protegendo a parede alveolar."
+                    ],
+                    "guid": "wAP4i21V3d",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Fase_Aguda_PCR_A1AT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "α1-antitripsina — qual o valor de referência no adulto?",
+                        "50 a 150 mg/dL."
+                    ],
+                    "guid": "I?+>Gho:)~",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Fase_Aguda_PCR_A1AT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Deficiência de α1-antitripsina — quais as causas e a consequência?",
+                        "Causas: herança genética e tabagismo. Consequência: aumento da degradação de elastina e colágeno, levando a enfisema (DPOC)."
+                    ],
+                    "guid": "LQ5:DD<?EI",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Fase_Aguda_PCR_A1AT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Albumina na fase aguda — qual a diferença em relação a PCR, fibrinogênio e α1-antitripsina?",
+                        "A albumina cai, enquanto PCR, fibrinogênio e α1-antitripsina sobem. O resumo do slide é diminuição de albumina e aumento das proteínas inflamatórias."
+                    ],
+                    "guid": "PU#p61.Z[$",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Fase_Aguda_PCR_A1AT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PCR pós-cirúrgica — como interpretar a trajetória?",
+                        "<b>Resumo: A PCR sobe normalmente após a cirurgia e cai até normalizar, mas se continua subindo sugere infecção.</b><br><br>No gráfico, a resposta normal de fase aguda sobe nos primeiros dias e declina até cerca do dia 10. Se se desenvolve infecção, a PCR segue subindo (cerca de 190 mg/L no dia 5 a 6) e depois cai após o tratamento. A trajetória, e não o valor isolado, é que avisa a complicação.<br><br><img src=\"pcr_pos_cirurgico.jpg\">"
+                    ],
+                    "guid": "sEr??)Wd%p",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Fase_Aguda_PCR_A1AT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "α1-antitripsina — como a deficiência leva ao enfisema?",
+                        "<b>Resumo: O neutrófilo libera elastase nos alvéolos, e sem α1-antitripsina para inibi-la a elastase destrói a elastina do pulmão.</b><br><br>Normalmente a α1-antitripsina inibe a elastase liberada durante a fagocitose pelos neutrófilos nos alvéolos.<br><br><img src=\"alfa1_antitripsina.jpg\">"
+                    ],
+                    "guid": "dMsEF{<gQ)",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Fase_Aguda_PCR_A1AT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tabagismo na deficiência de α1-antitripsina — por que aumenta o risco de enfisema? (conteúdo extra)",
+                        "O fumo oxida e inativa a α1-antitripsina e recruta mais neutrófilos para o pulmão, ou seja, menos inibidor e mais elastase."
+                    ],
+                    "guid": "lX;O^t+In/",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Fase_Aguda_PCR_A1AT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PCR — qual a divergência de classificação eletroforética nos slides?",
+                        "Os slides a chamam de α-globulina, mas pela eletroforese a PCR migra na região β-γ e é uma pentraxina. O termo α-globulina de fase aguda vale para outras, como a α1-antitripsina. Confirmar com o professor."
+                    ],
+                    "guid": "sg#:#$dHa*",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Fase_Aguda_PCR_A1AT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Paciente no pós-operatório com PCR em torno de 190 mg/L no dia 6 — o que isso sugere?",
+                        "Uma resposta maior e mais longa que a fase aguda normal, o que sugere infecção em desenvolvimento. A queda após o tratamento indica resolução."
+                    ],
+                    "guid": "B?0##QJo]d",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Fase_Aguda_PCR_A1AT"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Enzimas no plasma — por que dosamos enzimas intracelulares como marcadores e quais são as principais analisadas?",
+                        "<b>Resumo: Porque a lesão celular faz enzimas intracelulares extravasarem para o plasma, e a dosagem ajuda no diagnóstico e no prognóstico.</b><br><br>Principais: amilase, lipase, fosfatases (alcalina e ácida), transaminases (ALT e AST), γ-glutamil transpeptidase (γ-GT), lactato-desidrogenases (LDH) e creatina quinases (CK)."
+                    ],
+                    "guid": "K>a-g2$}<2",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Enzimas_Marcadores_DCA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Enzimas — qual é a definição e quais os três tipos?",
+                        "Proteínas com atividade catalítica. Tipos: plasma-específicas, secretadas no trato gastrintestinal e endocelulares (as dosadas). Importância clínica: lesão versus extravazamento."
+                    ],
+                    "guid": "O|_5|:/%^_",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Enzimas_Marcadores_DCA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Enzimas celulares no plasma — o que indicam e quanto tempo ficam na circulação?",
+                        "Indicam lesão tecidual ou proliferação celular, servem para diagnóstico e prognóstico e ficam horas ou dias na circulação."
+                    ],
+                    "guid": "jmzISQk?x?",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Enzimas_Marcadores_DCA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Enzimas analisadas — quais associações clássicas valem para amilase, lipase, ALT, AST, fosfatase alcalina, γ-GT e LDH? (conteúdo extra)",
+                        "Amilase e lipase: pâncreas. ALT e AST: fígado. Fosfatase alcalina e γ-GT: vias biliares (a alcalina também osso). LDH: inespecífica, vários tecidos."
+                    ],
+                    "guid": "mt$~:Dlk2o",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Enzimas_Marcadores_DCA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CK — em quais tecidos tem atividade elevada?",
+                        "Cérebro, coração (DCA) e músculo esquelético (distrofia muscular, traumas, estresse muscular)."
+                    ],
+                    "guid": "Kt$mAq?9mJ",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Enzimas_Marcadores_DCA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CK — quais as três isoformas, subunidades e localização?",
+                        "<b>Resumo: CK-BB no cérebro, CK-MB no miocárdio e CK-MM no músculo esquelético.</b><br><br>CK-BB: subunidades B e B, cérebro.<br>CK-MB: M e B, miocárdio (15%) e músculo esquelético (2%).<br>CK-MM: M e M, músculo esquelético (98%) e miocárdio (85%)."
+                    ],
+                    "guid": "J~K_j@83n*",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Enzimas_Marcadores_DCA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "DCA — qual a tríade clássica diagnóstica?",
+                        "Dor pré-cordial, alteração no ECG e marcadores bioquímicos."
+                    ],
+                    "guid": "c39)tjpA(c",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Enzimas_Marcadores_DCA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "DCA — quais marcadores bioquímicos são citados?",
+                        "Mioglobina, CK total (CPK), CK-MB (relação pico versus área), troponina (I ou T) e LDH / LDH-1."
+                    ],
+                    "guid": "ruITCz-~8+",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Enzimas_Marcadores_DCA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Marcadores de IAM — qual a especificidade e a janela diagnóstica de cada um?",
+                        "<b>Resumo: Troponina I tem especificidade altíssima e janela ampla, a CK-MB massa é alta, e mioglobina e LDH têm baixa especificidade.</b><br><br>Mioglobina: baixa, precoce.<br>CK-MB massa: alta, precoce/intermediário.<br>CK total: média, intermediário.<br>LDH: baixa, tardia.<br>Troponina I: altíssima, precoce/intermediário/tardio.<br>IMA (em teste): baixa, isquemia pré-IAM."
+                    ],
+                    "guid": "v*8:QS`N)q",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Enzimas_Marcadores_DCA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "IMA, como marcador (em teste) — o que é e por que não se confunde com IAM? (conteúdo extra)",
+                        "IMA é a albumina modificada pela isquemia (ischemia-modified albumin), que sinalizaria isquemia antes do infarto. IAM é o infarto agudo do miocárdio."
+                    ],
+                    "guid": "ro0(c+Y52B",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Enzimas_Marcadores_DCA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Enzimas no plasma normal — por que aparecem em pequena quantidade mesmo sem doença?",
+                        "Porque a renovação celular normal libera pequenas quantidades de enzimas intracelulares no plasma. Na lesão ou proliferação celular esses níveis aumentam."
+                    ],
+                    "guid": "O,}c0I4MyY",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Enzimas_Marcadores_DCA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CK-MB — por que é mais específica do coração que a CK total, mesmo não sendo exclusiva dele?",
+                        "<b>Resumo: Porque no miocárdio a CK-MB é cerca de 15% da CK e no músculo esquelético só 2%.</b><br><br>A CK total (principalmente CK-MM) pode subir por qualquer músculo, o que reduz a especificidade."
+                    ],
+                    "guid": "u#]EvL+?aH",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Enzimas_Marcadores_DCA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Troponina — por que é considerada o melhor marcador de infarto?",
+                        "Combina especificidade altíssima com janela diagnóstica longa (precoce, intermediária e tardia), permitindo diagnosticar inclusive quem chega tarde."
+                    ],
+                    "guid": "gKNZ3Bh@&@",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Enzimas_Marcadores_DCA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mioglobina — por que sobe cedo mas tem baixa especificidade? (conteúdo extra)",
+                        "É uma proteína pequena (permeabilidade 0,03) e abundante, então escapa rápido da célula lesada. Mas existe em todo músculo, então não indica o coração especificamente."
+                    ],
+                    "guid": "la,J%%V?dO",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Enzimas_Marcadores_DCA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Curva dos marcadores de DCA — qual a ordem de subida e quanto tempo cada um fica acima do corte?",
+                        "<b>Resumo: Mioglobina sobe e cai primeiro, depois CK-MB e por último a troponina I, que fica alta por mais tempo.</b><br><br>Mioglobina: pico rápido e volta em cerca de 1 dia.<br>CK-MB: pico em cerca de 1 dia e normaliza em cerca de 3 dias.<br>Troponina I: pico em cerca de 2 dias e acima do corte até cerca de 7 dias.<br><br><img src=\"marcadores_dca_curva.jpg\">"
+                    ],
+                    "guid": "diPF%X7!Dd",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Enzimas_Marcadores_DCA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Paciente com dor pré-cordial que procura atendimento 4 dias após o início — qual marcador ainda seria útil e por quê?",
+                        "A troponina I, porque permanece acima do corte por cerca de 7 dias. A mioglobina e a CK-MB já teriam retornado ao normal."
+                    ],
+                    "guid": "o-33[2fi]D",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Enzimas_Marcadores_DCA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Atleta com CK total muito elevada — por que isso não prova infarto?",
+                        "Porque a CK total inclui a CK-MM, que está em 98% do músculo esquelético. Estresse muscular ou trauma elevam a CK total sem lesão cardíaca. A CK-MB e principalmente a troponina são mais específicas."
+                    ],
+                    "guid": "uLFYLQT9*:",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Enzimas_Marcadores_DCA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hemostasia — quais as quatro etapas e o resultado de cada uma?",
+                        "<b>Resumo: Adesão, agregação, coagulação e fibrinólise.</b><br><br>1. Adesão: colágeno + fator de von Willebrand prendem a plaqueta.<br>2. Agregação: a GPIIb/IIIa liga fibrinogênio.<br>3. Coagulação: fator I vira fibrina.<br>4. Fibrinólise: t-PA e plasmina digerem a fibrina.<br><br><img src=\"hemostasia.jpg\">"
+                    ],
+                    "guid": "P1y9vx_JC*",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Hemostasia_Coagulacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Adesão plaquetária — o que participa?",
+                        "Colágeno exposto e fator de von Willebrand."
+                    ],
+                    "guid": "CkI#BgextO",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Hemostasia_Coagulacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Agregação plaquetária — qual receptor e qual ligante participam?",
+                        "O receptor GPIIb/IIIa da plaqueta liga o fibrinogênio."
+                    ],
+                    "guid": "if^W50N=a%",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Hemostasia_Coagulacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coagulação — qual conversão define essa etapa?",
+                        "Fator I (fibrinogênio) → fibrina."
+                    ],
+                    "guid": "rxZ(4YJi-{",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Hemostasia_Coagulacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fibrinólise — quem participa e o que faz?",
+                        "O t-PA leva à formação de plasmina, que digere a fibrina. (Conteúdo extra: o t-PA converte plasminogênio em plasmina.)"
+                    ],
+                    "guid": "D?g^QvjW4g",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Hemostasia_Coagulacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Modelo da coagulação em superfícies celulares — quais as três fases e onde ocorrem?",
+                        "<b>Resumo: Iniciação (células que expressam fator tecidual), amplificação e propagação (ambas na superfície das plaquetas ativadas).</b><br><br>Iniciação: FVIIa liga o FT e ativa X e IX, gerando pouca trombina.<br>Amplificação: a trombina ativa VIII (separando do FvW), V e XI.<br>Propagação: complexo tenase (IXa + VIIIa) e complexo protrombinase (Xa + Va) geram muita trombina, que converte fibrinogênio em fibrina.<br><br><img src=\"coagulacao_superficies_celulares.jpg\">"
+                    ],
+                    "guid": "i2W=bpIXHk",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Hemostasia_Coagulacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coagulação — quais são os complexos tenase e protrombinase?",
+                        "Tenase: IXa + VIIIa, ativa o fator X. Protrombinase: Xa + Va, converte a protrombina (II) em trombina (IIa)."
+                    ],
+                    "guid": "CDg?>y>*O-",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Hemostasia_Coagulacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fatores de coagulação I a IV — quais os nomes?",
+                        "I: fibrinogênio. II: protrombina. III: tromboplastina tecidual (fator tecidual). IV: cálcio."
+                    ],
+                    "guid": "g$0w6G.`by",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Hemostasia_Coagulacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fatores de coagulação V, VI e VII — quais os nomes?",
+                        "V: pró-acelerina (fator lábil). VI: acelerina (participação duvidosa). VII: SPCA, pró-convertina (fator estável)."
+                    ],
+                    "guid": "v?!k(8fT?4",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Hemostasia_Coagulacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fator VIII — quais os outros nomes?",
+                        "Fator anti-hemofílico (AHF), globulina anti-hemofílica (AHG) e fator A anti-hemofílico."
+                    ],
+                    "guid": "b-g,PL!KjJ",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Hemostasia_Coagulacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fator IX — quais os outros nomes?",
+                        "Componente tromboplastínico plasmático (PTC), fator Christmas e fator B anti-hemofílico."
+                    ],
+                    "guid": "nM*7pDnK-,",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Hemostasia_Coagulacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fatores X, XI, XII e XIII — quais os nomes?",
+                        "X: fator Stuart (Stuart-Prower). XI: PTA, fator C anti-hemofílico. XII: fator Hageman. XIII: fator estabilizador da fibrina."
+                    ],
+                    "guid": "JF*}C7iPLe",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Hemostasia_Coagulacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pré-calicreína e cininogênio de alto peso molecular — quais os nomes alternativos?",
+                        "Pré-calicreína: fator Fletcher. Cininogênio de alto peso molecular: fator Fitzgerald (HMWK)."
+                    ],
+                    "guid": "yWH}eVHKK/",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Hemostasia_Coagulacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fibrinogênio — por que aparece em dois momentos da hemostasia?",
+                        "Na agregação plaquetária ele é o ligante da GPIIb/IIIa que une plaquetas entre si. Na coagulação ele é convertido em fibrina, que forma a malha do coágulo."
+                    ],
+                    "guid": "nv+16h.wTy",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Hemostasia_Coagulacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fator VIII — qual a relação com o fator de von Willebrand?",
+                        "O fator de von Willebrand participa da adesão plaquetária, e na amplificação a trombina ativa o fator VIII separando-o do FvW (VIII + FvW → VIIIa)."
+                    ],
+                    "guid": "pt5k$3,Nbe",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Hemostasia_Coagulacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Trombina — por que é central na fase de amplificação?",
+                        "Porque ativa os fatores VIII, V e XI, que alimentam a formação dos complexos tenase e protrombinase e ampliam a geração de trombina."
+                    ],
+                    "guid": "IK}r2wWP5(",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Hemostasia_Coagulacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fibrinogênio — por que também aparece entre as proteínas de fase aguda?",
+                        "Porque sobe na resposta inflamatória (junto com PCR e α1-antitripsina). O par PCR + fibrinogênio relaciona inflamação e risco cardiovascular."
+                    ],
+                    "guid": "Qe&.]o8i,,",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Hemostasia_Coagulacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hemostasia e lesão celular — o que o fibrinogênio e a troponina representam no slide 42?",
+                        "Fibrinogênio representa o mecanismo (forma a fibrina do coágulo) e a troponina representa o sinal laboratorial de lesão miocárdica."
+                    ],
+                    "guid": "y}neog/r(0",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Hemostasia_Coagulacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "SBC 2025 — que proteínas refinam o risco e o tratamento e o que mudou nas categorias de risco?",
+                        "<b>Resumo: ApoB e Lp(a) refinam o risco, e há uma nova categoria, risco extremo.</b><br><br>O PREVENT incorpora obesidade e diabetes. As metas de LDL e ApoB ficam mais baixas conforme o risco sobe."
+                    ],
+                    "guid": "q&1U.3s*F<",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Dislipidemias_Integracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lp(a) — quando dosar e qual o ponto de corte de alteração?",
+                        "Dosar ao menos uma vez. Alterada acima de 75 nmol/L ou 30 mg/dL."
+                    ],
+                    "guid": "hMZk~c[u0.",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Dislipidemias_Integracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "SBC 2025 — quais as metas de ApoB (mg/dL) por categoria de risco?",
+                        "Baixo 100. Intermediário 90. Alto 70. Muito alto 55. Extremo 45."
+                    ],
+                    "guid": "dIlq1jb$`/",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Dislipidemias_Integracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "SBC 2025 — quais as metas de LDL (mg/dL) por categoria de risco?",
+                        "Baixo 115. Intermediário 100. Alto 70. Muito alto 50. Extremo menor que 40."
+                    ],
+                    "guid": "k_:/z@#`;c",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Dislipidemias_Integracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PREVENT — o que incorpora e que categoria de risco nova aparece?",
+                        "Incorpora obesidade e diabetes. A nova categoria é o risco extremo."
+                    ],
+                    "guid": "ricl(w/T&+",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Dislipidemias_Integracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ApoB — por que reflete o número de partículas aterogênicas? (conteúdo extra)",
+                        "Cada partícula aterogênica (LDL, VLDL, IDL e Lp(a)) carrega uma molécula de ApoB, então a dosagem conta partículas, enquanto o LDL-colesterol mede a massa de colesterol e pode subestimar o risco."
+                    ],
+                    "guid": "iQb:mP#WwF",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Dislipidemias_Integracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Metas de LDL e ApoB — qual a lógica entre categoria de risco e meta?",
+                        "Quanto maior o risco cardiovascular, menor a meta, e agora existe uma categoria acima de muito alto (extremo), com LDL menor que 40 e ApoB de 45."
+                    ],
+                    "guid": "NIuHJ@SM,C",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Dislipidemias_Integracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aula inteira — quais os quatro pares de proteína ou marcador, mecanismo e achado clínico da síntese final?",
+                        "<b>Resumo: Albumina ↔ oncótica ↔ edema. PCR + fibrinogênio ↔ inflamação ↔ risco cardiovascular. ApoB + Lp(a) ↔ aterosclerose. Troponina ↔ lesão miocárdica.</b><br><br>Cada par liga uma proteína plasmática a um mecanismo fisiológico e a um achado clínico, que é o fio condutor da aula: do mecanismo ao achado clínico."
+                    ],
+                    "guid": "cd-#g@{KQ*",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::Dislipidemias_Integracao"
                     ]
                 }
             ],
