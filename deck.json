@@ -40192,6 +40192,7 @@
                 "cce_met.jpg",
                 "celula_ciliada_esquema.jpg",
                 "circulacao_fetal_neonatal.jpg",
+                "circulo_hexaxial.jpg",
                 "citometria.jpg",
                 "clamidia_lgv_bubao.jpg",
                 "clamidia_microscopia.jpg",
@@ -40421,6 +40422,7 @@
                 "p41a_bulbo_terco_inferior.jpg",
                 "p41b_transicao_ponto_mesencefalica.jpg",
                 "p41c_bulbo_nivel_vago_olivas.jpg",
+                "papel_ecg_fc.jpg",
                 "parede_cardiaca_atlas.jpg",
                 "parede_celular.jpg",
                 "paredes_tabela.jpg",
@@ -40438,6 +40440,7 @@
                 "purpura_meningococcemia_3.jpg",
                 "pyogenes_manifestacoes.jpg",
                 "pyogenes_virulencia.jpg",
+                "quadrantes_eixo.jpg",
                 "receptores_ionotropicos_metabotropicos.png",
                 "resistencia_vascular.jpg",
                 "retina_neural_camadas.jpg",
@@ -40465,7 +40468,6 @@
                 "sinalizacao_tlr.jpg",
                 "sintomas_hanseniase.jpg",
                 "sistema_conducao_oculto.jpg",
-                "sistema_linfatico.jpg",
                 "sistema_venoso.jpg",
                 "sna_p09.jpg",
                 "sna_p10.jpg",
@@ -66506,6 +66508,7 @@
                     "guid": "gLmQMK4>%H",
                     "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
                     "tags": [
+                        "leech",
                         "M2::IMUNOLOGIA::Macrofagos_M1_vs_M2"
                     ]
                 },
@@ -74830,7 +74833,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Sistema linfático — por onde a linfa passa até a circulação venosa?",
-                        "Passa pelos linfonodos (cervicais, axilares, lombares, pélvicos, inguinais) e chega ao ducto torácico (linfático esquerdo) e ao ducto linfático direito, que desembocam na circulação venosa.<br><br><img src=\"sistema_linfatico.jpg\">"
+                        "Passa pelos linfonodos (cervicais, axilares, lombares, pélvicos, inguinais) e chega ao ducto torácico (linfático esquerdo) e ao ducto linfático direito, que desembocam na circulação venosa."
                     ],
                     "guid": "ztkwdf80tS",
                     "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
@@ -75796,6 +75799,2218 @@
                     "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
                     "tags": [
                         "M2::FISIOLOGIA::Dislipidemias_Integracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ECG (papel) — qual a velocidade e a calibração padrão, e como elas transformam quadradinhos em tempo e voltagem?",
+                        "<b>25 mm/s e 10 mm = 1 mV: 1 quadradinho (1 mm) = 0,04 s e 0,1 mV, 1 quadrão (5 mm) = 0,2 s e 0,5 mV.</b><br><br>Cinco quadrões somam 1 s. Toda medida do ECG (FC, PR, QRS, voltagem) é feita contando quadradinhos."
+                    ],
+                    "guid": "kXNJ/U*&d|",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Papel_FC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Frequência cardíaca — como calcular em ritmo regular a partir do intervalo R-R?",
+                        "<b>FC = 300 ÷ nº de quadrões entre dois R (ou 1500 ÷ nº de quadradinhos).</b><br><br>Sequência para decorar: 1 quadrão = 300, 2 = 150, 3 = 100, 4 = 75, 5 = 60, 6 = 50 bpm.<br><img src=\"papel_ecg_fc.jpg\">"
+                    ],
+                    "guid": "yOJ2E4w:y]",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Papel_FC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Frequência cardíaca — por que a regra dos 300 não serve na arritmia e o que usar no lugar?",
+                        "<b>Porque o R-R varia, então uma única medida engana. Conte os QRS em 6 s (30 quadrões) e multiplique por 10.</b>"
+                    ],
+                    "guid": "P?MMV>z<-T",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Papel_FC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ritmo sinusal — que critérios confirmam esse ritmo no traçado?",
+                        "<b>O nó SA comanda: P antes de todo QRS, P positiva em D1, D2 e aVF e negativa em aVR, PR constante e R-R regular.</b><br><br>Se falhar algum item, o ritmo não é sinusal (ou há bloqueio, ou arritmia)."
+                    ],
+                    "guid": "mAIHH>gDN,",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Papel_FC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Onda P — por que é negativa em aVR no ritmo sinusal?",
+                        "<b>Porque o vetor atrial vai do SA (alto e à direita) em direção ao AV (baixo e à esquerda), afastando-se de aVR e aproximando-se de D2.</b><br><br>Lembre: vetor se afastando do polo positivo gera traçado negativo."
+                    ],
+                    "guid": "K:)r?JInlz",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Papel_FC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Eixo elétrico (cálculo) — quais são os dois métodos e o que cada um entrega?",
+                        "<b>Quadrantes: dá rápido a região do eixo (olhando D1 e aVF, com D2 para desempate). QRS isodifásico: dá o ângulo, pois o eixo é perpendicular à derivação isodifásica.</b>"
+                    ],
+                    "guid": "sNCWWwu8u!",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Eixo_Calculo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Círculo hexaxial — onde fica 0° e em que sentido crescem os ângulos positivos?",
+                        "<b>0° aponta para a direita e os ângulos positivos crescem no sentido horário, então +90° fica embaixo (aVF).</b><br><img src=\"circulo_hexaxial.jpg\">"
+                    ],
+                    "guid": "fD&.KWQ$66",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Eixo_Calculo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Derivações do plano frontal — quais são os três pares perpendiculares e por que isso importa?",
+                        "<b>D1 e aVF, D2 e aVL, D3 e aVR.</b><br><br>Importa porque, se o QRS é isodifásico em uma derivação, o eixo é perpendicular a ela, e a derivação perpendicular diz para qual dos dois lados."
+                    ],
+                    "guid": "C#x.%V_vTi",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Eixo_Calculo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Método dos quadrantes — que derivações são usadas e o que significa cada combinação de polaridade?",
+                        "<b>D1 e aVF: ++ = normal (0° a +90°), +− = olhar D2, −+ = desvio para a direita (+90° a +180°), −− = desvio extremo (−90° a ±180°).</b><br><img src=\"quadrantes_eixo.jpg\">"
+                    ],
+                    "guid": "N?aDUli=jG",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Eixo_Calculo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Método dos quadrantes — com D1 positivo e aVF negativo, por que é preciso olhar D2 e o que ele decide?",
+                        "<b>O eixo está entre 0° e −90°, mas o normal vai só até −30°. D2 (+60°) é positivo para eixos de −30° até +150°.</b><br><br>D2 positivo = eixo entre 0° e −30° (normal). D2 negativo = entre −30° e −90° (desvio para a esquerda)."
+                    ],
+                    "guid": "oR1(=iy9T?",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Eixo_Calculo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "QRS isodifásico — como achar o eixo por esse método?",
+                        "<b>Ache a derivação com QRS isodifásico (R igual a S). O eixo é perpendicular a ela, o que dá dois ângulos possíveis. Escolha o lado em que a derivação perpendicular é positiva.</b>"
+                    ],
+                    "guid": "CU$`CST+rW",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Eixo_Calculo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Eixo — QRS isodifásico em aVL e positivo em D2. Qual o eixo e por quê?",
+                        "<b>+60° (normal).</b><br><br>Perpendiculares a aVL (−30°) são +60° e −120°, e D2 (+60°) positivo indica o lado de +60°."
+                    ],
+                    "guid": "lX<6R&K[^Z",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Eixo_Calculo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Eixo — QRS isodifásico em D2 e negativo em aVL. Qual o eixo e que conclusão?",
+                        "<b>+150°: desvio para a direita.</b><br><br>Perpendiculares a D2 (+60°) são −30° e +150°, e aVL negativo descarta −30°."
+                    ],
+                    "guid": "r/^sA/LuO2",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Eixo_Calculo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Eixo — D1 negativo e aVF positivo. Que desvio é esse e qual causa clássica da aula?",
+                        "<b>Desvio para a direita (+90° a +180°). Causa clássica: HVD por DPOC/enfisema.</b>"
+                    ],
+                    "guid": "Og+)uvSWnz",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Eixo_Calculo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Eixo — D1 positivo, aVF negativo e D2 negativo. Qual a conclusão e uma causa clássica da aula?",
+                        "<b>Desvio para a esquerda (−30° a −90°). Causa clássica: HVE (atleta como variante fisiológica, hipertenso mal tratado como patológica).</b>"
+                    ],
+                    "guid": "t:UH9S7$[G",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Eixo_Calculo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Eixo — antes de concluir desvio extremo ou para a direita com D1 negativo, que erro técnico excluir e como reconhecê-lo?",
+                        "<b>Troca dos eletrodos dos braços: P, QRS e T ficam todos negativos em D1 e aVR fica positivo.</b><br><br>Lembre da aula: inverter eletrodos inverte o traçado inteiro."
+                    ],
+                    "guid": "v?9.@sT&?z",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Eixo_Calculo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Eixo — qual a regra que decide para onde ele desvia e como ela se aplica a hipertrofia e a infarto?",
+                        "<b>O eixo aponta para o lado com mais massa funcionante e se afasta da massa perdida.</b><br><br>Hipertrofia atrai o vetor para o seu lado. Área de infarto não gera corrente, então o vetor se afasta dela."
+                    ],
+                    "guid": "r</[5Fgyr=",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Eixo_Interpretacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Desvio do eixo para a esquerda — quais as principais causas?",
+                        "<b>HVE (atleta ou hipertenso), bloqueio divisional anterossuperior, infarto inferior e horizontalização do coração (obesidade, gestação, ascite).</b>"
+                    ],
+                    "guid": "l(.#kEYk9x",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Eixo_Interpretacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Desvio do eixo para a direita — quais as principais causas?",
+                        "<b>HVD (DPOC, embolia pulmonar, outras causas de hipertensão pulmonar), bloqueio divisional posteroinferior, infarto lateral e dextrocardia.</b><br><br>Em pessoa longilínea, eixo próximo de +90° pode ser normal."
+                    ],
+                    "guid": "EKzPV2ZCyA",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Eixo_Interpretacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Infarto inferior — por que o eixo desvia para cima e para a esquerda?",
+                        "<b>Porque a parede inferior perde massa funcionante e o vetor se afasta dela.</b><br><br>Use a regra: o eixo se afasta da massa morta."
+                    ],
+                    "guid": "L2??9ra;e;",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Eixo_Interpretacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HVE no ECG — além do eixo, qual o critério de voltagem mais usado?",
+                        "<b>Sokolow-Lyon: S em V1 + R em V5 ou V6 maior ou igual a 35 mm (voltagem aumentada).</b><br><br>Confirmar com o professor: a aula descreve o traçado da HVE como menor ou achatado."
+                    ],
+                    "guid": "D*(1Yuc@pS",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Eixo_Interpretacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HVD no ECG — quais achados acompanham o desvio do eixo para a direita?",
+                        "<b>R dominante em V1 (R maior que S) com desvio do eixo para a direita.</b>"
+                    ],
+                    "guid": "fHfgLe,EA5",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Eixo_Interpretacao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Onda P — quais os valores normais de duração e altura?",
+                        "Duração menor que 0,12 s (3 quadradinhos) e altura menor que 2,5 mm. P larga ou alta sugere sobrecarga atrial."
+                    ],
+                    "guid": "Oy6Tt|=eA/",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Valores_Normais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Intervalo PR — qual o valor normal em tempo e em quadradinhos, e o que significa estar prolongado?",
+                        "<b>0,12 a 0,20 s (3 a 5 quadradinhos). Maior que 0,20 s = BAV (1º grau se todos os impulsos são conduzidos).</b>"
+                    ],
+                    "guid": "BT[@jS)k<q",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Valores_Normais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Complexo QRS — qual a duração normal e o que significa estar alargado?",
+                        "<b>Menor que 0,12 s (3 quadradinhos). Alargado indica condução ventricular lenta, por exemplo bloqueio de ramo.</b>"
+                    ],
+                    "guid": "IJOr>/u]d!",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Valores_Normais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Onda Q patológica — quais os critérios e o que ela indica?",
+                        "<b>Largura de 0,04 s ou mais, ou profundidade maior que cerca de 1/4 da onda R. Indica necrose.</b><br><br>Lembre da aula: supra de ST é lesão aguda, a necrose estabelecida é a onda Q."
+                    ],
+                    "guid": "EKksca#T8=",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Valores_Normais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Intervalo QT — por que se usa o QTc e quais os limites e o risco do prolongamento?",
+                        "<b>O QT varia com a FC, então se corrige (Bazett: QTc = QT ÷ √R-R em segundos).</b><br><br>Limites aproximados: menor que 450 ms em homens e menor que 460 ms em mulheres. QTc prolongado aumenta o risco de arritmia ventricular."
+                    ],
+                    "guid": "r]SuBB^r?:",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Valores_Normais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Análise do ECG — qual a sequência de passos e por que sempre na mesma ordem?",
+                        "<b>1 Frequência, 2 Ritmo, 3 Eixo, 4 P e PR, 5 QRS (duração, voltagem, Q patológica), 6 ST, 7 T e QT.</b><br><br>A ordem fixa impede de esquecer um achado. Frequência e ritmo vêm primeiro porque definem como medir o resto."
+                    ],
+                    "guid": "u@=QICoAQl",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Roteiro_Analise"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ECG — ritmo regular com P positiva em D2 antes de cada QRS e R-R de 6 quadrões. Qual a FC e como classificar?",
+                        "<b>FC = 300 ÷ 6 = 50 bpm: bradicardia sinusal.</b><br><br>Pode ser fisiológica (atleta em repouso) ou patológica, a clínica decide."
+                    ],
+                    "guid": "uD=DAPD=e-",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Roteiro_Analise"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ECG — hipertenso de longa data, ritmo regular com P antes de cada QRS, R-R de 4 quadrões, D1 positivo, aVF negativo, D2 negativo e R alta em V5. Descreva o laudo.",
+                        "<b>Ritmo sinusal, FC de 75 bpm, desvio do eixo para a esquerda e voltagem aumentada: achados compatíveis com HVE por sobrecarga de pressão.</b><br><br>O ECG mostra o achado e a clínica dá o significado (um hígido pode ter ECG alterado e um cardiopata pode ter ECG normal)."
+                    ],
+                    "guid": "t0wHe(uY//",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::FISIOLOGIA::ECG_Roteiro_Analise"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "16c3a26c-d256-11f1-a4c8-3e20219029c8",
+            "deck_config_uuid": "9da74442-cdaa-11f1-a746-3e20219029c8",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "cardio_A_perg.jpg",
+                "cardio_A_resp.jpg",
+                "cardio_B_perg.jpg",
+                "cardio_B_resp.jpg",
+                "cardio_C_perg.jpg",
+                "cardio_C_resp.jpg",
+                "cardio_D_perg.jpg",
+                "cardio_D_resp.jpg",
+                "cardio_E_perg.jpg",
+                "cardio_E_resp.jpg",
+                "cardio_F_perg.jpg",
+                "cardio_F_resp.jpg",
+                "cardio_G_perg.jpg",
+                "cardio_G_resp.jpg",
+                "cardio_H_perg.jpg",
+                "cardio_H_resp.jpg",
+                "cardio_I_perg.jpg",
+                "cardio_I_resp.jpg",
+                "cardio_J_perg.jpg",
+                "cardio_J_resp.jpg",
+                "cardio_K_perg.jpg",
+                "cardio_K_resp.jpg",
+                "cardio_L_resp.jpg",
+                "cardio_S18_resp.jpg",
+                "cardio_S19_resp.jpg",
+                "cardio_p01_1_perg.jpg",
+                "cardio_p01_1_resp.jpg",
+                "cardio_p02_1_perg.jpg",
+                "cardio_p02_1_resp.jpg",
+                "cardio_p04_1_perg.jpg",
+                "cardio_p04_1_resp.jpg",
+                "cardio_p04_2_perg.jpg",
+                "cardio_p04_2_resp.jpg",
+                "cardio_p05_1_perg.jpg",
+                "cardio_p05_1_resp.jpg",
+                "cardio_p05_2_perg.jpg",
+                "cardio_p05_2_resp.jpg",
+                "cardio_p06_1_perg.jpg",
+                "cardio_p06_1_resp.jpg",
+                "cardio_p06_2_perg.jpg",
+                "cardio_p06_2_resp.jpg",
+                "cardio_p07_1_perg.jpg",
+                "cardio_p07_1_resp.jpg",
+                "cardio_p07_2_perg.jpg",
+                "cardio_p07_2_resp.jpg",
+                "cardio_p08_1_perg.jpg",
+                "cardio_p08_1_resp.jpg",
+                "cardio_p08_2_perg.jpg",
+                "cardio_p08_2_resp.jpg",
+                "cardio_p09_1_perg.jpg",
+                "cardio_p09_1_resp.jpg",
+                "cardio_p09_2_perg.jpg",
+                "cardio_p09_2_resp.jpg",
+                "cardio_p10_1_perg.jpg",
+                "cardio_p10_1_resp.jpg",
+                "cardio_p10_2_perg.jpg",
+                "cardio_p10_2_resp.jpg",
+                "cardio_p11_2_resp.jpg",
+                "cardio_p12_1_perg.jpg",
+                "cardio_p12_1_resp.jpg",
+                "cardio_p12_2_perg.jpg",
+                "cardio_p12_2_resp.jpg",
+                "cardio_p13_1_perg.jpg",
+                "cardio_p13_1_resp.jpg",
+                "cardio_p13_2_perg.jpg",
+                "cardio_p13_2_resp.jpg",
+                "cardio_p14_1_perg.jpg",
+                "cardio_p14_1_resp.jpg",
+                "cardio_p14_2_perg.jpg",
+                "cardio_p14_2_resp.jpg",
+                "cardio_p15_2_perg.jpg",
+                "cardio_p15_2_resp.jpg",
+                "cardio_p16_1_perg.jpg",
+                "cardio_p16_1_resp.jpg",
+                "cardio_p16_2_perg.jpg",
+                "cardio_p16_2_resp.jpg",
+                "cardio_p17_1_perg.jpg",
+                "cardio_p17_1_resp.jpg",
+                "cardio_p17_2_perg.jpg",
+                "cardio_p17_2_resp.jpg",
+                "cardio_p18_1_perg.jpg",
+                "cardio_p18_1_resp.jpg",
+                "cardio_p18_2_perg.jpg",
+                "cardio_p18_2_resp.jpg",
+                "cardio_p19_1_perg.jpg",
+                "cardio_p19_1_resp.jpg",
+                "cardio_p19_2_perg.jpg",
+                "cardio_p19_2_resp.jpg",
+                "cardio_p20_1_perg.jpg",
+                "cardio_p20_1_resp.jpg"
+            ],
+            "name": "anatom2pr2",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mediastino (corte sagital) — identifique as divisões e os pontos de referência legendados<br><img src=\"cardio_p09_1_perg.jpg\">",
+                        "<img src=\"cardio_p09_1_resp.jpg\"><br><br><b>Legendas:</b><br>• Mediastino superior<br>• Ângulo esternal (T4-T5), limite entre mediastino superior e inferior<br>• Mediastino inferior<br>• Diafragma (limite inferior do mediastino)<br><br>Sua anotação original trazia \"ângulo esternal (?)\". A anotação de aula confirma: ângulo esternal (T4 e T5) separa o mediastino superior do inferior."
+                    ],
+                    "guid": "stc+UR^S*C",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Mediastino"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mediastino — o que está contido em cada divisão (superior, médio, inferior anterior e posterior)?",
+                        "<img src=\"cardio_p11_2_resp.jpg\"><br><br><b>Resumo: o ângulo esternal (T4-T5) divide em superior e inferior. O superior guarda traqueia, esôfago, arco aórtico e timo. O coração fica no mediastino médio. O inferior se subdivide em anterior, médio e posterior.</b><br><br>• Superior: traqueia, esôfago, arco aórtico, timo<br>• Médio: coração<br>• Inferior: subdividido em anterior e posterior (e médio)<br>• Posterior: aorta, esôfago, brônquios principais (conforme sua anotação)<br><br>⚠️ ATENÇÃO: nos livros-texto (ex: Moore) os brônquios principais costumam ser descritos no mediastino médio (junto do coração), e o posterior tem aorta descendente, esôfago, ducto torácico, veias ázigos. Confirmar com o professor qual divisão ele cobra.<br>📎 Sua anotação deixou o \"anterior\" em branco: tipicamente só gordura, linfonodos e ligamentos esternopericárdicos."
+                    ],
+                    "guid": "v$dNZJBPBh",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Mediastino"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Grandes vasos do mediastino superior (vista anterior) — identifique as estruturas legendadas<br><img src=\"cardio_p09_2_perg.jpg\">",
+                        "<img src=\"cardio_p09_2_resp.jpg\"><br><br><b>Legendas:</b><br>• Veia subclávia<br>• Veia jugular interna<br>• Tronco braquiocefálico<br>• Arco da aorta<br>• Veia cava superior"
+                    ],
+                    "guid": "fe[tk^meIe",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Mediastino"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (interior das câmaras direitas) — identifique as estruturas legendadas<br><img src=\"cardio_p05_1_perg.jpg\">",
+                        "<img src=\"cardio_p05_1_resp.jpg\"><br><br><b>Legendas:</b><br>• Septo interatrial<br>• Fossa oval<br>• Óstio do seio coronário<br>• Septo interventricular, porção muscular<br>• Músculos pectíneos"
+                    ],
+                    "guid": "g:xBg8n{zT",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Interno"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (interior das câmaras direitas, outra vista) — identifique as estruturas legendadas<br><img src=\"cardio_p05_2_perg.jpg\">",
+                        "<img src=\"cardio_p05_2_resp.jpg\"><br><br><b>Legendas:</b><br>• Músculos pectíneos<br>• Fossa oval<br>• Óstio do seio coronário<br>• Septo interventricular, porção membranosa<br>• Miocárdio do ventrículo esquerdo (parede muscular do ventrículo esquerdo)<br>• Trabéculas cárneas"
+                    ],
+                    "guid": "eKT-Ul@@wj",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Interno"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (corte, ventrículos abertos) — identifique as estruturas legendadas<br><img src=\"cardio_p04_1_perg.jpg\">",
+                        "<img src=\"cardio_p04_1_resp.jpg\"><br><br><b>Legendas:</b><br>• Músculos pectíneos<br>• Septo interventricular, porção membranosa<br>• Cordas tendíneas<br>• Septo interventricular, porção muscular<br>• Músculos papilares<br>• Ápice (anotado à mão na foto)"
+                    ],
+                    "guid": "f@?dBNLiqU",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Interno"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ventrículos — identifique a parede indicada e relacione o número de músculos papilares de cada lado com as valvas atrioventriculares<br><img src=\"cardio_p04_2_perg.jpg\">",
+                        "<img src=\"cardio_p04_2_resp.jpg\"><br><br><b>Legendas:</b><br>• Parede do ventrículo esquerdo (miocárdio)<br><br><b>Lado direito: 3 músculos papilares, por conta das 3 cúspides (valva tricúspide). Lado esquerdo: 2 músculos papilares, por conta das 2 cúspides (valva bicúspide/mitral).</b>"
+                    ],
+                    "guid": "Ed&&5g-&up",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Interno"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Base do coração — identifique as duas valvas semilunares legendadas<br><img src=\"cardio_p07_2_perg.jpg\">",
+                        "<img src=\"cardio_p07_2_resp.jpg\"><br><br><b>Legendas:</b><br>• Valva semilunar aórtica (ou da aorta)<br>• Valva semilunar da troncopulmonar"
+                    ],
+                    "guid": "khCj-0dgI}",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Interno"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (vista anterior) — identifique as estruturas legendadas<br><img src=\"cardio_p07_1_perg.jpg\">",
+                        "<img src=\"cardio_p07_1_resp.jpg\"><br><br><b>Legendas:</b><br>• Artéria troncopulmonar<br>• Aorta ascendente<br>• Aurícula direita<br>• Ramo interventricular anterior da artéria coronária esquerda<br>• Ramos diagonais da artéria interventricular anterior<br><br>⚠️ Na sua anotação há uma seta roxa que sai de um ponto vermelho e ficou sem legenda. Vale completar."
+                    ],
+                    "guid": "xrkf`*RU2-",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Artérias coronárias (face anterior do coração) — identifique as estruturas legendadas<br><img src=\"cardio_p06_2_perg.jpg\">",
+                        "<img src=\"cardio_p06_2_resp.jpg\"><br><br><b>Legendas:</b><br>• Artéria coronária esquerda<br>• Artéria interventricular anterior<br>• Ramos diagonais"
+                    ],
+                    "guid": "OMx:ki`v0U",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração — qual artéria está indicada pela seta (irriga o nó do marca-passo cardíaco)?<br><img src=\"cardio_p02_1_perg.jpg\">",
+                        "<img src=\"cardio_p02_1_resp.jpg\"><br><br><b>Legendas:</b><br>• Artéria para o nodo/nó sinoatrial<br><br>📎 Em cerca de 60% das pessoas é ramo da artéria coronária direita, nas demais, da circunflexa (Moore)."
+                    ],
+                    "guid": "s9GUuvq.:7",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (vista posterior, veias) — identifique as estruturas legendadas<br><img src=\"cardio_p06_1_perg.jpg\">",
+                        "<img src=\"cardio_p06_1_resp.jpg\"><br><br><b>Legendas:</b><br>• Veia cardíaca magna<br>• Veia cardíaca parva<br>• Seio coronário<br>• Veia interventricular posterior<br>• Veia posterior do ventrículo esquerdo<br>• Veia marginal esquerda"
+                    ],
+                    "guid": "PX&<?e-u?-",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (identifique a vista) — identifique as veias e o seio legendados<br><img src=\"cardio_p01_1_perg.jpg\">",
+                        "<img src=\"cardio_p01_1_resp.jpg\"><br><br><b>Legendas:</b><br>• Vista posterior<br>• Veia cardíaca magna<br>• Seio coronário<br>• Veia cardíaca parva<br>• Veia interventricular posterior<br>• Veia posterior do ventrículo esquerdo (sua anotação tem \"?\" nessa legenda)<br><br>⚠️ Você marcou a \"veia posterior do ventrículo esquerdo\" com interrogação. Conferir com o professor ou o atlas."
+                    ],
+                    "guid": "pMi}yoT8.#",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cabeça e pescoço (artérias, vista lateral) — identifique as estruturas legendadas<br><img src=\"cardio_p08_1_perg.jpg\">",
+                        "<img src=\"cardio_p08_1_resp.jpg\"><br><br><b>Legendas:</b><br>• Artéria temporal superficial<br>• Artéria maxilar<br>• Artéria auricular posterior<br>• Artéria meníngea média<br>• Artéria alveolar inferior<br>• Artéria occipital<br>• Artéria carótida interna<br>• Artéria facial<br>• Artéria carótida externa<br>• Artéria carótida comum esquerda<br>• Artéria labial inferior<br>• Artéria tireóidea superior<br><br>Na sua anotação aparece \"occiptal\": o correto é occipital."
+                    ],
+                    "guid": "qzzOiz~<60",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Cabeca_Pescoco"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cabeça e pescoço (dissecção) — qual artéria está marcada pelo alfinete amarelo?<br><img src=\"cardio_p08_2_perg.jpg\">",
+                        "<img src=\"cardio_p08_2_resp.jpg\"><br><br><b>Legendas:</b><br>• Artéria temporal superficial<br><br>⚠️ Sua anotação diz \"parece estar marcando a artéria temporal superficial\", então não é certeza. Conferir com o professor."
+                    ],
+                    "guid": "ufGx&cdr7g",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Cabeca_Pescoco"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Face (vasos, vista lateral) — identifique as estruturas legendadas<br><img src=\"cardio_p12_2_perg.jpg\">",
+                        "<img src=\"cardio_p12_2_resp.jpg\"><br><br><b>Legendas:</b><br>• Artéria angular<br>• Artéria labial superior<br>• Artéria facial<br>• Artéria labial inferior<br>• Veia facial"
+                    ],
+                    "guid": "Kn(,EQVME>",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Cabeca_Pescoco"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Face (dissecção) — qual veia está indicada?<br><img src=\"cardio_p13_1_perg.jpg\">",
+                        "<img src=\"cardio_p13_1_resp.jpg\"><br><br><b>Legendas:</b><br>• Veia facial"
+                    ],
+                    "guid": "gKH/l}/?jK",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Cabeca_Pescoco"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Veia jugular externa — para qual veia ela drena e como é seu calibre em relação à jugular interna?",
+                        "<b>Drena para a veia subclávia e é menor que a jugular interna.</b><br><br>Sua anotação: \"veia jugular externa é um ramo da veia subclávia (é menor)\". 📎 O termo mais preciso é afluente (tributária) da veia subclávia."
+                    ],
+                    "guid": "N:6.h%0#Dx",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Cabeca_Pescoco"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parede torácica anterior (vista interna) — identifique as estruturas legendadas<br><img src=\"cardio_p12_1_perg.jpg\">",
+                        "<img src=\"cardio_p12_1_resp.jpg\"><br><br><b>Legendas:</b><br>• Veia torácica interna<br>• Artéria torácica interna<br>• Artéria intercostal anterior<br>• Artéria epigástrica superior"
+                    ],
+                    "guid": "LOM`;L(8!J",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Torax_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parede torácica anterior (vista interna, região do esterno) — identifique as estruturas legendadas<br><img src=\"cardio_p14_1_perg.jpg\">",
+                        "<img src=\"cardio_p14_1_resp.jpg\"><br><br><b>Legendas:</b><br>• Artéria torácica interna<br>• Veia torácica interna<br>• Artéria musculofrênica<br>• Artéria epigástrica superior<br>• Processo xifoide"
+                    ],
+                    "guid": "gU>ebaWZaO",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Torax_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aorta descendente e ramos (vista anterior, tórax e abdome) — identifique as estruturas legendadas<br><img src=\"cardio_p14_2_perg.jpg\">",
+                        "<img src=\"cardio_p14_2_resp.jpg\"><br><br><b>Legendas:</b><br>• Aorta descendente, porção torácica<br>• Artéria frênica inferior<br>• Artéria gástrica esquerda<br>• Artéria esplênica<br>• Tronco celíaco<br>• Artéria mesentérica superior<br>• Artérias renais (esquerda e direita)<br>• Artéria mesentérica inferior<br>• Artéria ilíaca comum"
+                    ],
+                    "guid": "A?]]p8o6|-",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Aorta_Ramos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Artérias frênicas inferiores — de onde saem em relação ao tronco celíaco?",
+                        "<b>Saem da aorta imediatamente antes (acima) do tronco celíaco.</b><br><br>Sua anotação: \"artérias frênicas (direita e esquerda) são ramos da aorta descendente porção torácica, imediatamente antes do tronco celíaco\".<br><br>⚠️ ATENÇÃO: nos livros-texto as artérias frênicas inferiores saem da aorta abdominal (logo acima do tronco celíaco, às vezes do próprio tronco celíaco), e não da porção torácica. Confirmar com o professor como ele cobra."
+                    ],
+                    "guid": "l{L27ChZ-)",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Aorta_Ramos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aorta abdominal (vista anterior) — identifique as estruturas legendadas<br><img src=\"cardio_p15_2_perg.jpg\">",
+                        "<img src=\"cardio_p15_2_resp.jpg\"><br><br><b>Legendas:</b><br>• Artéria mesentérica superior<br>• Artéria renal (direita e esquerda)"
+                    ],
+                    "guid": "yLS&2480/x",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Aorta_Ramos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aorta descendente e ramos viscerais — identifique as estruturas legendadas<br><img src=\"cardio_p10_1_perg.jpg\">",
+                        "<img src=\"cardio_p10_1_resp.jpg\"><br><br><b>Legendas:</b><br>• Artéria ilíaca comum<br>• Artéria esplênica<br>• Artéria renal (direita ou esquerda, conferir o lado)<br>• Aorta descendente, porção abdominal<br>• Artéria mesentérica superior<br>• Artéria hepática comum<br>• Artéria gástrica esquerda<br>• Aorta descendente, porção torácica"
+                    ],
+                    "guid": "B1WA-GO[gi",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Aorta_Ramos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bifurcação da aorta e vasos ilíacos — identifique as estruturas legendadas<br><img src=\"cardio_p10_2_perg.jpg\">",
+                        "<img src=\"cardio_p10_2_resp.jpg\"><br><br><b>Legendas:</b><br>• Artéria mesentérica inferior<br>• Artéria ilíaca comum<br>• Artéria ilíaca externa<br>• Artéria ilíaca interna<br>• Veia cava inferior"
+                    ],
+                    "guid": "G#|[.itPOf",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Aorta_Ramos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Braço (dissecção) — qual artéria está indicada?<br><img src=\"cardio_p16_1_perg.jpg\">",
+                        "<img src=\"cardio_p16_1_resp.jpg\"><br><br><b>Legendas:</b><br>• Artéria braquial"
+                    ],
+                    "guid": "F#oj!80Ucr",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Braço e antebraço (artérias) — identifique as estruturas legendadas<br><img src=\"cardio_p16_2_perg.jpg\">",
+                        "<img src=\"cardio_p16_2_resp.jpg\"><br><br><b>Legendas:</b><br>• Artéria braquial<br>• Artéria ulnar<br>• Artéria radial"
+                    ],
+                    "guid": "lp;yaWk#Hq",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Região axilar e braço (proximal) — identifique as estruturas legendadas<br><img src=\"cardio_p17_1_perg.jpg\">",
+                        "<img src=\"cardio_p17_1_resp.jpg\"><br><br><b>Legendas:</b><br>• Artéria circunflexa anterior e posterior do úmero (você anotou que acha que marcou as duas, conferir no esquema)<br>• Veia axilar<br>• Veia cefálica do braço<br>• Artéria braquial<br><br>⚠️ Há uma seta vermelha sem legenda na sua anotação. Vale completar."
+                    ],
+                    "guid": "jV=f(7EiqL",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Membro superior (vasos do braço e antebraço) — identifique as estruturas legendadas<br><img src=\"cardio_p17_2_perg.jpg\">",
+                        "<img src=\"cardio_p17_2_resp.jpg\"><br><br><b>Legendas:</b><br>• Veia cefálica do braço<br>• Artéria braquial<br>• Artéria braquial (continuação, trecho mais distal)<br>• Artéria ulnar<br>• Artéria radial<br><br>⚠️ ATENÇÃO: na sua anotação a primeira legenda diz \"artéria cefálica do braço\", mas a cefálica é veia (aparece como veia cefálica nas outras fotos). Corrigido aqui."
+                    ],
+                    "guid": "bdDV//duwv",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Braço (vasos) — identifique as estruturas legendadas<br><img src=\"cardio_p18_1_perg.jpg\">",
+                        "<img src=\"cardio_p18_1_resp.jpg\"><br><br><b>Legendas:</b><br>• Artéria circunflexa anterior do úmero<br>• Artéria braquial (trecho proximal)<br>• Artéria braquial profunda<br>• Veia cefálica<br>• Artéria braquial (trecho distal)<br>• Veia basílica"
+                    ],
+                    "guid": "QK<5(@9*$8",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Artérias do membro superior — esquematize a sequência da subclávia até a braquial profunda e os ramos circunflexos do úmero",
+                        "<img src=\"cardio_S18_resp.jpg\"><br><br><b>Subclávia → axilar → braquial. Circunflexa anterior e posterior do úmero saem da axilar, braquial profunda sai da braquial.</b><br><br>⚠️ No seu esquema a transição subclávia → axilar está na clavícula. Nos livros-texto é na margem lateral da 1ª costela (axilar → braquial na margem inferior do redondo maior). Confirmar com o professor."
+                    ],
+                    "guid": "I<<1j9%aFT",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Antebraço e braço (veias superficiais) — identifique as estruturas legendadas<br><img src=\"cardio_p18_2_perg.jpg\">",
+                        "<img src=\"cardio_p18_2_resp.jpg\"><br><br><b>Legendas:</b><br>• Veia basílica<br>• Veia cefálica"
+                    ],
+                    "guid": "bSsG)}ZykO",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Região axilar e braço proximal — identifique as estruturas legendadas<br><img src=\"cardio_p19_1_perg.jpg\">",
+                        "<img src=\"cardio_p19_1_resp.jpg\"><br><br><b>Legendas:</b><br>• Artéria circunflexa posterior do úmero (sua anotação tem \"?\" nessa legenda)<br>• Artéria braquial profunda<br><br>⚠️ Você marcou a circunflexa posterior com interrogação. Conferir no esquema."
+                    ],
+                    "guid": "Ixp$OEervN",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Veias superficiais do membro superior — esquematize o padrão (cefálica, basílica, intermédias, perfurantes) e onde desembocam",
+                        "<img src=\"cardio_S19_resp.jpg\"><br><br><b>Cefálica e basílica do braço descem de cada lado. No cotovelo se conectam pela veia intermédia do cotovelo. No antebraço há cefálica, basílica e intermédia do antebraço, e as perfurantes ligam o sistema superficial ao profundo.</b><br><br>⚠️ No seu esquema a cefálica do braço \"desemboca na veia subclávia\" e a basílica \"na veia axilar\". Nos livros-texto a cefálica desemboca na veia axilar e a basílica se une às veias braquiais para formar a axilar. Confirmar com o professor."
+                    ],
+                    "guid": "BN6kPK#U]=",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cotovelo e antebraço (veias) — identifique as estruturas legendadas<br><img src=\"cardio_p19_2_perg.jpg\">",
+                        "<img src=\"cardio_p19_2_resp.jpg\"><br><br><b>Legendas:</b><br>• Veia basílica do braço<br>• Veia intermédia do cotovelo<br>• Veia intermédia do antebraço<br>• Veia basílica do antebraço<br><br>⚠️ Há uma seta amarela sem legenda na sua anotação. Vale completar."
+                    ],
+                    "guid": "y*Og0lod>A",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Membros superiores (veia superficial) — identifique as estruturas legendadas<br><img src=\"cardio_p13_2_perg.jpg\">",
+                        "<img src=\"cardio_p13_2_resp.jpg\"><br><br><b>Legendas:</b><br>• Veia cefálica do braço<br>• Veia cefálica do antebraço"
+                    ],
+                    "guid": "GLT:|V>uGW",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Região inguinal e coxa proximal (vasos) — identifique as estruturas legendadas<br><img src=\"cardio_p20_1_perg.jpg\">",
+                        "<img src=\"cardio_p20_1_resp.jpg\"><br><br><b>Legendas:</b><br>• Artéria ilíaca externa<br>• Veia ilíaca externa<br>• Artéria femoral<br>• Artéria epigástrica (na sua anotação: \"superior\")<br>• Veia femoral<br>• Artéria femoral profunda<br>• Veia femoral profunda<br><br>⚠️ ATENÇÃO: nessa região (acima do ligamento inguinal, saindo da ilíaca externa) a artéria é a epigástrica inferior. A epigástrica superior é a continuação da torácica interna, na parede anterior do tórax/abdome. Confirmar com o professor."
+                    ],
+                    "guid": "ox2we7HB/T",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Membro_Inferior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Radiografia de tórax — qual incidência (PA ou AP) é melhor para avaliar o coração e por quê?",
+                        "<img src=\"cardio_L_resp.jpg\"><br><br><b>A incidência PA (póstero-anterior) é melhor, porque na AP (ântero-posterior) o coração fica com tamanho distorcido (maior).</b><br><br>📎 Na AP o coração (anterior) fica mais distante do detector, por isso aumenta na imagem."
+                    ],
+                    "guid": "qqhS0nj>m:",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_RX_Torax"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "RX de tórax em PA — identifique as estruturas legendadas<br><img src=\"cardio_A_perg.jpg\">",
+                        "<img src=\"cardio_A_resp.jpg\"><br><br><b>Legendas:</b><br>• V. cava sup.<br>• Arco aórtico<br>• Tronco pulm.<br>• A. pulm. esq.<br>• Vv. pulm. esq.<br>• A. pulm. dir.<br>• V. cava inf.<br>• A. aorta descendente"
+                    ],
+                    "guid": "p19]9kru5P",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_RX_Torax"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "RX de tórax em PA — identifique a silhueta cardiovascular e os seios legendados<br><img src=\"cardio_B_perg.jpg\">",
+                        "<img src=\"cardio_B_resp.jpg\"><br><br><b>Legendas:</b><br>• Arco da aorta (ou crossa da aorta)<br>• Aorta ascendente<br>• Tronco pulmonar<br>• Aurícula esquerda<br>• Átrio direito<br>• Borda do ventrículo esquerdo<br>• Borda do ventrículo direito<br>• Ápice do coração<br>• Seio costofrênico<br>• Seio cardiofrênico"
+                    ],
+                    "guid": "QY_|}<@wXf",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_RX_Torax"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "RX de tórax em PA — identifique as estruturas legendadas<br><img src=\"cardio_C_perg.jpg\">",
+                        "<img src=\"cardio_C_resp.jpg\"><br><br><b>Legendas:</b><br>• Ápice pulmonar<br>• Veia braquiocefálica<br>• Veia cava superior<br>• Hilo pulmonar<br>• Veia cava inferior<br>• Aorta descendente<br>• Seio costofrênico<br>• Cúpula diafragmática"
+                    ],
+                    "guid": "g~>/!pVp=@",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_RX_Torax"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "RX de tórax em PA — identifique as estruturas legendadas (lado direito do coração)<br><img src=\"cardio_D_perg.jpg\">",
+                        "<img src=\"cardio_D_resp.jpg\"><br><br><b>Legendas:</b><br>• Veia cava superior<br>• Átrio direito<br>• Valva tricúspide<br>• Veia cava inferior"
+                    ],
+                    "guid": "Ip.;5}*]]v",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_RX_Torax"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "RX de tórax em perfil — identifique as câmaras cardíacas legendadas<br><img src=\"cardio_E_perg.jpg\">",
+                        "<img src=\"cardio_E_resp.jpg\"><br><br><b>Legendas:</b><br>• AD (átrio direito)<br>• VD (ventrículo direito)<br>• AE (átrio esquerdo)<br>• VE (ventrículo esquerdo)"
+                    ],
+                    "guid": "h,.%|j}<`v",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_RX_Torax"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "RX de tórax em perfil — identifique as estruturas legendadas<br><img src=\"cardio_F_perg.jpg\">",
+                        "<img src=\"cardio_F_resp.jpg\"><br><br><b>Legendas:</b><br>• A. pulm. dir.<br>• A. pulm. esq."
+                    ],
+                    "guid": "LOpjaem@tm",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_RX_Torax"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "RX de tórax em perfil — identifique as estruturas legendadas<br><img src=\"cardio_G_perg.jpg\">",
+                        "<img src=\"cardio_G_resp.jpg\"><br><br><b>Legendas:</b><br>• Traqueia<br>• Arco aórtico<br>• A. pulm. dir.<br>• A. pulm. esq."
+                    ],
+                    "guid": "l`K`jK?--I",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_RX_Torax"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "TC de tórax (corte axial, nível dos grandes vasos) — identifique as estruturas legendadas<br><img src=\"cardio_H_perg.jpg\">",
+                        "<img src=\"cardio_H_resp.jpg\"><br><br><b>Legendas:</b><br>• Veia cava superior<br>• Aorta (duas setas: aorta ascendente e aorta descendente)<br>• Artéria pulmonar<br>• Traqueia<br><br>📎 As duas setas para \"Aorta\" apontam para as duas seções do vaso nesse corte, a ascendente (maior, anterior) e a descendente (menor, posterior)."
+                    ],
+                    "guid": "zkdbT+EH|/",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_TC_Torax"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "TC de tórax (corte axial, nível dos brônquios) — identifique as estruturas legendadas<br><img src=\"cardio_I_perg.jpg\">",
+                        "<img src=\"cardio_I_resp.jpg\"><br><br><b>Legendas:</b><br>• Aorta (duas setas)<br>• Artéria pulmonar<br>• Brônquio direito<br>• Brônquio esquerdo"
+                    ],
+                    "guid": "P(L^h:,P*^",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_TC_Torax"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "TC de tórax (corte axial, nível das câmaras inferiores) — identifique as estruturas legendadas<br><img src=\"cardio_J_perg.jpg\">",
+                        "<img src=\"cardio_J_resp.jpg\"><br><br><b>Legendas:</b><br>• Ventrículo direito<br>• Ventrículo esquerdo<br>• Veia cava inferior<br>• Aorta<br>• Veia ázigo"
+                    ],
+                    "guid": "i-ySk?6VKW",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_TC_Torax"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "TC de tórax (corte axial) — identifique as câmaras cardíacas delimitadas<br><img src=\"cardio_K_perg.jpg\">",
+                        "<img src=\"cardio_K_resp.jpg\"><br><br><b>Legendas:</b><br>• V.D (ventrículo direito)<br>• A.D (átrio direito)<br>• V.E (ventrículo esquerdo)<br>• A.E (átrio esquerdo)"
+                    ],
+                    "guid": "d)Q.,D#~rH",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_TC_Torax"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "16c3d610-d256-11f1-a4c8-3e20219029c8",
+            "deck_config_uuid": "9da74442-cdaa-11f1-a746-3e20219029c8",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "hist_p03a_a.jpg",
+                "hist_p03a_q.jpg",
+                "hist_p03b_a.jpg",
+                "hist_p03b_q.jpg",
+                "hist_p03c_a.jpg",
+                "hist_p03c_q.jpg",
+                "hist_p03d_a.jpg",
+                "hist_p03d_q.jpg",
+                "hist_p04a_a.jpg",
+                "hist_p04a_q.jpg",
+                "hist_p04b_a.jpg",
+                "hist_p04b_q.jpg",
+                "hist_p04c_a.jpg",
+                "hist_p04c_q.jpg",
+                "hist_p04d_a.jpg",
+                "hist_p04d_q.jpg",
+                "hist_p05a_a.jpg",
+                "hist_p05a_q.jpg",
+                "hist_p05b_a.jpg",
+                "hist_p05b_q.jpg",
+                "hist_p05c_a.jpg",
+                "hist_p05c_q.jpg",
+                "hist_p06a_a.jpg",
+                "hist_p06a_q.jpg",
+                "hist_p06b_a.jpg",
+                "hist_p06b_q.jpg",
+                "hist_p06c_a.jpg",
+                "hist_p06c_q.jpg",
+                "hist_p07a_a.jpg",
+                "hist_p07a_q.jpg",
+                "hist_p07b_a.jpg",
+                "hist_p07b_q.jpg",
+                "hist_p08a_a.jpg",
+                "hist_p08a_q.jpg",
+                "hist_p08b_a.jpg",
+                "hist_p08b_q.jpg",
+                "hist_p08c_a.jpg",
+                "hist_p08c_q.jpg",
+                "hist_p09a_a.jpg",
+                "hist_p09a_q.jpg",
+                "hist_p09b_a.jpg",
+                "hist_p09b_q.jpg",
+                "hist_p11a_a.jpg",
+                "hist_p11a_q.jpg",
+                "hist_p12a_a.jpg",
+                "hist_p12a_q.jpg",
+                "hist_p12b_a.jpg",
+                "hist_p12b_q.jpg",
+                "hist_p12c_a.jpg",
+                "hist_p12c_q.jpg",
+                "hist_p13a_a.jpg",
+                "hist_p13a_q.jpg",
+                "hist_p13b_a.jpg",
+                "hist_p13b_q.jpg",
+                "hist_p13c_a.jpg",
+                "hist_p13c_q.jpg",
+                "hist_p14a_a.jpg",
+                "hist_p14a_q.jpg",
+                "hist_p14b_a.jpg",
+                "hist_p14b_q.jpg",
+                "hist_p14c_a.jpg",
+                "hist_p14c_q.jpg",
+                "hist_p15a_a.jpg",
+                "hist_p15a_q.jpg",
+                "hist_p15b_a.jpg",
+                "hist_p15b_q.jpg",
+                "hist_p15c_a.jpg",
+                "hist_p15c_q.jpg",
+                "hist_p16a_a.jpg",
+                "hist_p16a_q.jpg",
+                "hist_p16b_a.jpg",
+                "hist_p16b_q.jpg",
+                "hist_p16c_a.jpg",
+                "hist_p16c_q.jpg",
+                "hist_p16d_a.jpg",
+                "hist_p16d_q.jpg",
+                "hist_p17a_a.jpg",
+                "hist_p17a_q.jpg",
+                "hist_p17b_a.jpg",
+                "hist_p17b_q.jpg",
+                "hist_p17c_a.jpg",
+                "hist_p17c_q.jpg",
+                "hist_p18a_a.jpg",
+                "hist_p18a_q.jpg",
+                "hist_p18b_a.jpg",
+                "hist_p18b_q.jpg",
+                "hist_p18c_a.jpg",
+                "hist_p18c_q.jpg",
+                "hist_p20a_a.jpg",
+                "hist_p20a_q.jpg",
+                "hist_p20b_a.jpg",
+                "hist_p20b_q.jpg",
+                "hist_p20c_a.jpg",
+                "hist_p20c_q.jpg",
+                "hist_p21a_a.jpg",
+                "hist_p21a_q.jpg",
+                "hist_p21b_a.jpg",
+                "hist_p21b_q.jpg",
+                "hist_p21c_a.jpg",
+                "hist_p21c_q.jpg",
+                "hist_p22a_a.jpg",
+                "hist_p22a_q.jpg",
+                "hist_p22b_a.jpg",
+                "hist_p22b_q.jpg",
+                "hist_p22c_a.jpg",
+                "hist_p22c_q.jpg",
+                "hist_p23a_a.jpg",
+                "hist_p23a_q.jpg",
+                "hist_p23b_a.jpg",
+                "hist_p23b_q.jpg",
+                "hist_p23c_a.jpg",
+                "hist_p23c_q.jpg",
+                "hist_p23d_a.jpg",
+                "hist_p23d_q.jpg",
+                "hist_p23e_a.jpg",
+                "hist_p23e_q.jpg",
+                "hist_p24a_a.jpg",
+                "hist_p24a_q.jpg",
+                "hist_p24b_a.jpg",
+                "hist_p24b_q.jpg",
+                "hist_p24c_a.jpg",
+                "hist_p24c_q.jpg",
+                "hist_p24d_a.jpg",
+                "hist_p24d_q.jpg",
+                "hist_p25a_a.jpg",
+                "hist_p25a_q.jpg",
+                "hist_p25b_a.jpg",
+                "hist_p25b_q.jpg",
+                "hist_p25c_a.jpg",
+                "hist_p25c_q.jpg",
+                "hist_p26a_a.jpg",
+                "hist_p26a_q.jpg",
+                "hist_p26b_a.jpg",
+                "hist_p26b_q.jpg",
+                "hist_p26c_a.jpg",
+                "hist_p26c_q.jpg",
+                "hist_p26d_a.jpg",
+                "hist_p26d_q.jpg",
+                "hist_p27a_a.jpg",
+                "hist_p27a_q.jpg",
+                "hist_p27b_a.jpg",
+                "hist_p27b_q.jpg",
+                "hist_p27c_a.jpg",
+                "hist_p27c_q.jpg",
+                "hist_p28a_a.jpg",
+                "hist_p28a_q.jpg",
+                "hist_p28b_a.jpg",
+                "hist_p28b_q.jpg",
+                "hist_p29a_a.jpg",
+                "hist_p29a_q.jpg",
+                "hist_p29b_a.jpg",
+                "hist_p29b_q.jpg",
+                "hist_p29c_a.jpg",
+                "hist_p29c_q.jpg",
+                "hist_p29d_a.jpg",
+                "hist_p29d_q.jpg",
+                "hist_p30a_a.jpg",
+                "hist_p30a_q.jpg",
+                "hist_p30b_a.jpg",
+                "hist_p30b_q.jpg",
+                "hist_p30c_a.jpg",
+                "hist_p30c_q.jpg"
+            ],
+            "name": "histom2pr2",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p03a_q.jpg\">",
+                        "<img src=\"hist_p03a_a.jpg\"><br><br><b>Artéria elástica (grande calibre)</b><br>• Luz do vaso<br>• Túnica íntima<br>• Túnica média — + muita lâmina e fibra elástica, + fibras musculares circularmente"
+                    ],
+                    "guid": "z;ZLB-21cU",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p03b_q.jpg\">",
+                        "<img src=\"hist_p03b_a.jpg\"><br><br><b>Artéria elástica (grande calibre)</b><br>• Túnica média (à esquerda, entre as barras)<br>• Túnica adventícia (barra à direita)<br>• Vasa vasorum (círculo na adventícia)"
+                    ],
+                    "guid": "qztSY`#^H|",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p03c_q.jpg\">",
+                        "<img src=\"hist_p03c_a.jpg\"><br><br><b>Artéria elástica (grande calibre)</b><br>• Lâmina elástica"
+                    ],
+                    "guid": "G`f,^4_#^_",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p03d_q.jpg\">",
+                        "<img src=\"hist_p03d_a.jpg\"><br><br><b>Artéria elástica (grande calibre)</b><br>• Túnica íntima (à esquerda)<br>• Túnica média (chave, com muitas lâminas elásticas)"
+                    ],
+                    "guid": "lrKRtca.~>",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p04a_q.jpg\">",
+                        "<img src=\"hist_p04a_a.jpg\"><br><br><b>Artéria elástica (grande calibre)</b><br>• Lâmina elástica<br>• Fibras elásticas (círculo)<br>• Obs.: a elastina é sintetizada pelas fibras musculares lisas"
+                    ],
+                    "guid": "m5BxXJob>2",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p04b_q.jpg\">",
+                        "<img src=\"hist_p04b_a.jpg\"><br><br><b>Artéria elástica (grande calibre)</b><br>• Vasa nervorum (círculos pequenos) — inervação, estimulam a vasoconstrição ou dilatação<br>• Túnica adventícia (barra)<br>• Vasa vasorum (círculo grande) — irrigam a túnica adventícia e parte da túnica média"
+                    ],
+                    "guid": "d[n#78V3`l",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p04c_q.jpg\">",
+                        "<img src=\"hist_p04c_a.jpg\"><br><br><b>Artéria elástica (grande calibre)</b><br>• Túnica íntima<br>• Túnica média<br>• Túnica adventícia"
+                    ],
+                    "guid": "j;jFX{O`cY",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p04d_q.jpg\">",
+                        "<img src=\"hist_p04d_a.jpg\"><br><br><b>Artéria elástica (grande calibre)</b><br>• Túnica íntima<br>• Túnica média<br>• Túnica adventícia"
+                    ],
+                    "guid": "d_v;=gmbz$",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p05a_q.jpg\">",
+                        "<img src=\"hist_p05a_a.jpg\"><br><br><b>Artéria elástica (grande calibre)</b><br>• + muita fibra e lâmina elástica na túnica média"
+                    ],
+                    "guid": "di?=yQS&Cy",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p05b_q.jpg\">",
+                        "<img src=\"hist_p05b_a.jpg\"><br><br><b>Artéria elástica (grande calibre)</b><br>• Túnica adventícia (barra, foto da esquerda)<br>• Túnica média (círculo, ampliada na foto da direita)<br>• Lâmina elástica (linhas onduladas, foto da direita)"
+                    ],
+                    "guid": ")`KMEvTwM",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p05c_q.jpg\">",
+                        "<img src=\"hist_p05c_a.jpg\"><br><br><b>Artéria elástica (grande calibre)</b><br>• Túnica íntima (setas nas duas fotos)"
+                    ],
+                    "guid": "AR&h4<>^%B",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p06a_q.jpg\">",
+                        "<img src=\"hist_p06a_a.jpg\"><br><br><b>Artéria muscular (pequeno/médio calibre)</b><br>• Túnica adventícia<br>• Túnica média<br>• Predominância maior de fibras musculares lisas"
+                    ],
+                    "guid": "IXsdiT8~Z8",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p06b_q.jpg\">",
+                        "<img src=\"hist_p06b_a.jpg\"><br><br><b>Artéria muscular (pequeno/médio calibre)</b><br>• Lâmina elástica interna (nas três fotos)"
+                    ],
+                    "guid": "MOzY/)rfa~",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p06c_q.jpg\">",
+                        "<img src=\"hist_p06c_a.jpg\"><br><br><b>Artéria muscular (pequeno/médio calibre)</b><br>• Túnica adventícia<br>• Túnica média"
+                    ],
+                    "guid": "t.({B5PD$g",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p07a_q.jpg\">",
+                        "<img src=\"hist_p07a_a.jpg\"><br><br><b>Veia de pequeno/médio calibre</b><br>• Túnica adventícia<br>• Túnica íntima<br>• Túnica média<br>• Obs.: na veia de pequeno/médio calibre a média é delgada, a adventícia é a mais desenvolvida e pode haver válvulas venosas (projeção da túnica íntima)"
+                    ],
+                    "guid": "zuoL-wb~cA",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p07b_q.jpg\">",
+                        "<img src=\"hist_p07b_a.jpg\"><br><br><b>Veia de pequeno/médio calibre</b><br>• Túnica média<br>• Túnica adventícia<br>• Túnica íntima"
+                    ],
+                    "guid": "FSMVD$a%SS",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p08a_q.jpg\">",
+                        "<img src=\"hist_p08a_a.jpg\"><br><br><b>Veia de pequeno/médio calibre</b><br>• Válvula venosa — evita o refluxo do sangue<br>• Túnica íntima (a válvula é projeção da íntima)"
+                    ],
+                    "guid": "H_{PzKcW6s",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p08b_q.jpg\">",
+                        "<img src=\"hist_p08b_a.jpg\"><br><br><b>Veia de pequeno/médio calibre</b><br>• Túnica adventícia (chave)<br>• Túnica íntima (setas)"
+                    ],
+                    "guid": "lRF8tKnCn@",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p08c_q.jpg\">",
+                        "<img src=\"hist_p08c_a.jpg\"><br><br><b>Veia de grande calibre</b><br>• Fibra muscular lisa posicionada longitudinalmente (pontilhado)<br>• Túnica adventícia<br>• Túnica íntima<br>• Obs.: na veia de grande calibre a média é pouco desenvolvida e a adventícia é bem desenvolvida, com fibras musculares lisas longitudinais"
+                    ],
+                    "guid": "qxf7zw3*mg",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p09a_q.jpg\">",
+                        "<img src=\"hist_p09a_a.jpg\"><br><br><b>Veia de grande calibre</b><br>• Túnica íntima<br>• Túnica média<br>• Algumas fibras musculares lisas posicionadas circularmente"
+                    ],
+                    "guid": "DMeyJ[gzG",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p09b_q.jpg\">",
+                        "<img src=\"hist_p09b_a.jpg\"><br><br><b>Veia de grande calibre</b><br>• Endotélio<br>• Tecido subendotelial<br>• Endotélio + tecido subendotelial = túnica íntima"
+                    ],
+                    "guid": "u|i=&9hy2R",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p11a_q.jpg\">",
+                        "<img src=\"hist_p11a_a.jpg\"><br><br><b>Coração (corte átrio-ventrículo)</b><br>• Epicárdio<br>• Miocárdio atrial<br>• Endocárdio atrial<br>• Esqueleto fibroso<br>• Válvula atrioventricular<br>• Músculo papilar<br>• Miocárdio ventricular"
+                    ],
+                    "guid": "QLaw$nyb?v",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p12a_q.jpg\">",
+                        "<img src=\"hist_p12a_a.jpg\"><br><br><b>Coração (corte átrio-ventrículo)</b><br>• Epicárdio<br>• Miocárdio<br>• Endocárdio<br>• Esqueleto fibroso<br>• Válvula atrioventricular<br>• Miocárdio (ventricular)<br>• Obs.: na prova não vem nesse aumento, foi colocado para facilitar a visualização das estruturas"
+                    ],
+                    "guid": "Iq8<o2GGw^",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p12b_q.jpg\">",
+                        "<img src=\"hist_p12b_a.jpg\"><br><br><b>Miocárdio</b><br>• Miocárdio<br>• Endomísio (círculo vermelho) — promove a vascularização"
+                    ],
+                    "guid": "PI2sQDYI9q",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p12c_q.jpg\">",
+                        "<img src=\"hist_p12c_a.jpg\"><br><br><b>Miocárdio</b><br>• Discos intercalares (tracejados) — complexo de junções: zônulas de adesão, junções GAP e desmossomos"
+                    ],
+                    "guid": "ebQJS1u{pK",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p13a_q.jpg\">",
+                        "<img src=\"hist_p13a_a.jpg\"><br><br><b>Miocárdio (corte transversal)</b><br>• Corte transversal<br>• Endomísio<br>• Miocárdio"
+                    ],
+                    "guid": "kYhb)b8]>*",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p13b_q.jpg\">",
+                        "<img src=\"hist_p13b_a.jpg\"><br><br><b>Miocárdio / epicárdio</b><br>• Miocárdio<br>• Espaço subepicárdico"
+                    ],
+                    "guid": "h9ZBnJJ1G:",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p13c_q.jpg\">",
+                        "<img src=\"hist_p13c_a.jpg\"><br><br><b>Endocárdio / miocárdio</b><br>• Endotélio<br>• Endocárdio<br>• Miocárdio"
+                    ],
+                    "guid": "iwd^NU*!;[",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p14a_q.jpg\">",
+                        "<img src=\"hist_p14a_a.jpg\"><br><br><b>Endocárdio / miocárdio (câmara cardíaca)</b><br>• Câmara cardíaca<br>• Endocárdio<br>• Miocárdio"
+                    ],
+                    "guid": "dBfK1,L7.K",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p14b_q.jpg\">",
+                        "<img src=\"hist_p14b_a.jpg\"><br><br><b>Endocárdio (espaço subendocárdico)</b><br>• Câmara cardíaca<br>• Espaço subendocárdico (círculo)<br>• Endocárdio"
+                    ],
+                    "guid": "I#QV|]fRB=",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p14c_q.jpg\">",
+                        "<img src=\"hist_p14c_a.jpg\"><br><br><b>Fibras de Purkinje (espaço subendocárdico)</b><br>• Fibras de Purkinje (círculos) — fibras musculares especializadas do sistema de condução e geração do impulso elétrico<br>• As fibras de Purkinje têm o citoplasma rico em glicogênio<br>• Espaço subendocárdico (chave na foto da direita)"
+                    ],
+                    "guid": "L&BagI||2=",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p15a_q.jpg\">",
+                        "<img src=\"hist_p15a_a.jpg\"><br><br><b>Endocárdio (fibras de condução)</b><br>• Fibras do sistema de condução e geração do impulso elétrico do coração (Purkinje)<br>• Endotélio<br>• Endocárdio"
+                    ],
+                    "guid": "N72f%%Mf}t",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p15b_q.jpg\">",
+                        "<img src=\"hist_p15b_a.jpg\"><br><br><b>Miocárdio / epicárdio</b><br>• Miocárdio<br>• Epicárdio"
+                    ],
+                    "guid": "c[f#0uEcg)",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p15c_q.jpg\">",
+                        "<img src=\"hist_p15c_a.jpg\"><br><br><b>Epicárdio</b><br>• Epicárdio (título)<br>• Tecido adiposo (círculo)<br>• Espaço subepicárdico<br>• Mesotélio"
+                    ],
+                    "guid": "vfpc:e49YH",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p16a_q.jpg\">",
+                        "<img src=\"hist_p16a_a.jpg\"><br><br><b>Átrio (endocárdio, miocárdio e epicárdio)</b><br>• Endocárdio<br>• Miocárdio<br>• Epicárdio<br>• Átrio"
+                    ],
+                    "guid": "MF*`C2#]ns",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p16b_q.jpg\">",
+                        "<img src=\"hist_p16b_a.jpg\"><br><br><b>Vaso no espaço subepicárdico</b><br>• Vaso no espaço subepicárdico (círculo)"
+                    ],
+                    "guid": "qVpc{ic?GY",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p16c_q.jpg\">",
+                        "<img src=\"hist_p16c_a.jpg\"><br><br><b>Válvula atrioventricular / esqueleto fibroso</b><br>• Válvula atrioventricular<br>• Esqueleto fibroso (círculo)"
+                    ],
+                    "guid": "fZjkuOd&zF",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p16d_q.jpg\">",
+                        "<img src=\"hist_p16d_a.jpg\"><br><br><b>Válvula atrioventricular / esqueleto fibroso</b><br>• Válvula atrioventricular<br>• Esqueleto fibroso (círculo)"
+                    ],
+                    "guid": "Hm+P.~=8}8",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p17a_q.jpg\">",
+                        "<img src=\"hist_p17a_a.jpg\"><br><br><b>Válvula atrioventricular</b><br>• Válvula atrioventricular (título)<br>• TCPD denso não modelado (miolo da válvula)<br>• Endotélio + TCPD frouxo (revestimento)"
+                    ],
+                    "guid": "jE:NN0uTWU",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p17b_q.jpg\">",
+                        "<img src=\"hist_p17b_a.jpg\"><br><br><b>Válvula atrioventricular</b><br>• Obs.: a parte irregular da válvula fica voltada para o ventrículo<br>• Câmara ventricular"
+                    ],
+                    "guid": "e~%Z)WXYu>",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p17c_q.jpg\">",
+                        "<img src=\"hist_p17c_a.jpg\"><br><br><b>Corda tendínea</b><br>• Corda tendínea<br>• + TCPD denso modelado"
+                    ],
+                    "guid": "f6#aAUAxlj",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p18a_q.jpg\">",
+                        "<img src=\"hist_p18a_a.jpg\"><br><br><b>Esqueleto fibroso / válvula atrioventricular</b><br>• Esqueleto fibroso (círculo)<br>• Válvula atrioventricular"
+                    ],
+                    "guid": "k<.TDxx5rN",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p18b_q.jpg\">",
+                        "<img src=\"hist_p18b_a.jpg\"><br><br><b>Músculo papilar</b><br>• Músculo papilar (título)<br>• Tecido conjuntivo denso (porção apical)<br>• Miocárdio (porção central)"
+                    ],
+                    "guid": "bU73!74r/)",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p18c_q.jpg\">",
+                        "<img src=\"hist_p18c_a.jpg\"><br><br><b>Músculo papilar / válvula atrioventricular</b><br>• Válvula atrioventricular<br>• Músculo papilar"
+                    ],
+                    "guid": "CZ_I<JLh{<",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p20a_q.jpg\">",
+                        "<img src=\"hist_p20a_a.jpg\"><br><br><b>Cavidade nasal (mucosa respiratória)</b><br>• Epitélio respiratório<br>• Lâmina própria<br>• Mucosa respiratória (epitélio respiratório + lâmina própria)<br>• Parte óssea do septo nasal"
+                    ],
+                    "guid": "e;VBR(K`Ri",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p20b_q.jpg\">",
+                        "<img src=\"hist_p20b_a.jpg\"><br><br><b>Cavidade nasal (mucosa respiratória)</b><br>• Mucosa respiratória<br>• Epitélio respiratório (círculos vermelhos)"
+                    ],
+                    "guid": "n#L}icQMVc",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p20c_q.jpg\">",
+                        "<img src=\"hist_p20c_a.jpg\"><br><br><b>Cavidade nasal (mucosa respiratória)</b><br>• Plexo vascular na lâmina própria"
+                    ],
+                    "guid": "i.D7)3Y5MU",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p21a_q.jpg\">",
+                        "<img src=\"hist_p21a_a.jpg\"><br><br><b>Cavidade nasal (mucosa respiratória)</b><br>• Glândulas mistas (seromucosas)<br>• Epitélio respiratório"
+                    ],
+                    "guid": "wedLnY/DoH",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p21b_q.jpg\">",
+                        "<img src=\"hist_p21b_a.jpg\"><br><br><b>Cavidade nasal (septo nasal)</b><br>• Parte cartilaginosa do septo nasal<br>• Mucosa respiratória<br>• Glândulas mistas"
+                    ],
+                    "guid": "NL*Rd]E#MA",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p21c_q.jpg\">",
+                        "<img src=\"hist_p21c_a.jpg\"><br><br><b>Cavidade nasal (mucosa respiratória)</b><br>• Lâmina própria<br>• Epitélio respiratório<br>• Célula caliciforme"
+                    ],
+                    "guid": "h$:EZ^E$lx",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p22a_q.jpg\">",
+                        "<img src=\"hist_p22a_a.jpg\"><br><br><b>Cavidade nasal (transição respiratória/olfativa)</b><br>• Epitélio respiratório (E.R.)<br>• Área respiratória<br>• Área olfativa<br>• Epitélio olfatório (E.O.) — não tem mais célula caliciforme"
+                    ],
+                    "guid": "JREm+9u|v<",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p22b_q.jpg\">",
+                        "<img src=\"hist_p22b_a.jpg\"><br><br><b>Cavidade nasal (mucosa olfatória)</b><br>• Glândulas de Bowman<br>• Lâmina própria<br>• Epitélio olfatório"
+                    ],
+                    "guid": "ej$UlW[~W9",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p22c_q.jpg\">",
+                        "<img src=\"hist_p22c_a.jpg\"><br><br><b>Cavidade nasal (transição respiratória/olfativa)</b><br>• Mucosa respiratória<br>• E.R. (epitélio respiratório)<br>• Mucosa olfatória<br>• E.O. (epitélio olfatório)<br>• Glândula de Bowman"
+                    ],
+                    "guid": "Q2c_;q~/4[",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p23a_q.jpg\">",
+                        "<img src=\"hist_p23a_a.jpg\"><br><br><b>Cavidade nasal (mucosa olfatória)</b><br>• E.O. (epitélio olfatório)<br>• Lâmina própria<br>• Septo cartilaginoso"
+                    ],
+                    "guid": "g,;-3|E8oc",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p23b_q.jpg\">",
+                        "<img src=\"hist_p23b_a.jpg\"><br><br><b>Cavidade nasal (mucosa olfatória)</b><br>• Mucosa olfativa"
+                    ],
+                    "guid": "cV;OZYX-w4",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p23c_q.jpg\">",
+                        "<img src=\"hist_p23c_a.jpg\"><br><br><b>Cavidade nasal (mucosa olfatória)</b><br>• Mucosa olfativa<br>• Glândulas de Bowman (círculos)<br>• Feixe de axônios (axônios dos neurônios bipolares)"
+                    ],
+                    "guid": ")ho+q+E3R",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p23d_q.jpg\">",
+                        "<img src=\"hist_p23d_a.jpg\"><br><br><b>Concha nasal superior</b><br>• Mucosa olfativa<br>• Mucosa respiratória<br>• Concha nasal superior<br>• Osso<br>• Obs.: a parte superior da concha nasal superior é de mucosa olfatória e a inferior é de mucosa respiratória"
+                    ],
+                    "guid": "s|/Mfs~5|u",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique as regiões indicadas neste esquema (legendas borradas)<br><img src=\"hist_p23e_q.jpg\">",
+                        "<img src=\"hist_p23e_a.jpg\"><br><br><b>Concha nasal superior (esquema)</b><br>• Mucosa olfativa (parte superior)<br>• Mucosa respiratória (parte inferior)"
+                    ],
+                    "guid": "Bx5nA2#H=k",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p24a_q.jpg\">",
+                        "<img src=\"hist_p24a_a.jpg\"><br><br><b>Traqueia (região posterior)</b><br>• Região posterior da traqueia<br>• Músculo liso (músculo traqueal)<br>• Anel de cartilagem<br>• Obs.: na parte posterior o anel é incompleto, há músculo liso (músculo traqueal) no lugar"
+                    ],
+                    "guid": "J3.Ci/pNec",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p24b_q.jpg\">",
+                        "<img src=\"hist_p24b_a.jpg\"><br><br><b>Traqueia</b><br>• Mucosa<br>• Submucosa (chave)"
+                    ],
+                    "guid": "s)@S^s}*rh",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p24c_q.jpg\">",
+                        "<img src=\"hist_p24c_a.jpg\"><br><br><b>Traqueia</b><br>• Mucosa<br>• Submucosa"
+                    ],
+                    "guid": "bY`$*zglG;",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p24d_q.jpg\">",
+                        "<img src=\"hist_p24d_a.jpg\"><br><br><b>Traqueia (epitélio respiratório)</b><br>• Cílios<br>• Epitélio respiratório<br>• Lâmina própria"
+                    ],
+                    "guid": "P25a#S:y|^",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p25a_q.jpg\">",
+                        "<img src=\"hist_p25a_a.jpg\"><br><br><b>Traqueia</b><br>• Anel de cartilagem<br>• Mucosa<br>• Submucosa<br>• Glândulas mistas (círculo)"
+                    ],
+                    "guid": "yQ<w~e^>C?",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p25b_q.jpg\">",
+                        "<img src=\"hist_p25b_a.jpg\"><br><br><b>Traqueia</b><br>• Mucosa<br>• Submucosa<br>• Glândulas mistas<br>• Anel cartilaginoso"
+                    ],
+                    "guid": "Nn@a%?@/&p",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p25c_q.jpg\">",
+                        "<img src=\"hist_p25c_a.jpg\"><br><br><b>Traqueia (corte longitudinal)</b><br>• Corte longitudinal<br>• Glândulas mistas na submucosa<br>• Anel de cartilagem<br>• Adventícia"
+                    ],
+                    "guid": "n.7|$uS#(m",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p26a_q.jpg\">",
+                        "<img src=\"hist_p26a_a.jpg\"><br><br><b>Brônquio intrapulmonar</b><br>• Músculo liso<br>• Epitélio respiratório<br>• Placa de cartilagem"
+                    ],
+                    "guid": "A|{}::;55%",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p26b_q.jpg\">",
+                        "<img src=\"hist_p26b_a.jpg\"><br><br><b>Brônquio intrapulmonar</b><br>• Placa de cartilagem (seta para o alto)<br>• MALT — tecido linfoide associado à mucosa (círculo), não é permanente"
+                    ],
+                    "guid": "Gd2-[vw_>(",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p26c_q.jpg\">",
+                        "<img src=\"hist_p26c_a.jpg\"><br><br><b>Brônquio intrapulmonar</b><br>• Placa de cartilagem<br>• Epitélio respiratório<br>• Músculo liso"
+                    ],
+                    "guid": "jHBNgxW5%2",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p26d_q.jpg\">",
+                        "<img src=\"hist_p26d_a.jpg\"><br><br><b>Brônquio intrapulmonar</b><br>• Glândulas mistas (círculo)<br>• Músculo liso"
+                    ],
+                    "guid": "Anvl;m-[$o",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p27a_q.jpg\">",
+                        "<img src=\"hist_p27a_a.jpg\"><br><br><b>Bronquíolo propriamente dito</b><br>• Bronquíolo propriamente dito (círculo)"
+                    ],
+                    "guid": "Ec`^`u,z1i",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p27b_q.jpg\">",
+                        "<img src=\"hist_p27b_a.jpg\"><br><br><b>Bronquíolo propriamente dito</b><br>• Músculo liso (tracejado)<br>• Epitélio"
+                    ],
+                    "guid": "z669Y=KT!B",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p27c_q.jpg\">",
+                        "<img src=\"hist_p27c_a.jpg\"><br><br><b>Bronquíolo propriamente dito</b><br>• Músculo liso — broncoconstrição e broncodilatação"
+                    ],
+                    "guid": "uZV2KlVX0%",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p28a_q.jpg\">",
+                        "<img src=\"hist_p28a_a.jpg\"><br><br><b>Bronquíolo terminal / respiratório</b><br>• Bronquíolo terminal<br>• Bronquíolo respiratório"
+                    ],
+                    "guid": "lz3{,L3~:.",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p28b_q.jpg\">",
+                        "<img src=\"hist_p28b_a.jpg\"><br><br><b>Ducto alveolar / saco alveolar</b><br>• Saco alveolar<br>• Ducto alveolar"
+                    ],
+                    "guid": "kjUav7=5R6",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p29a_q.jpg\">",
+                        "<img src=\"hist_p29a_a.jpg\"><br><br><b>Alvéolos</b><br>• Saco alveolar<br>• Septo interalveolar<br>• Alvéolo"
+                    ],
+                    "guid": "eF0,JiV,LR",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p29b_q.jpg\">",
+                        "<img src=\"hist_p29b_a.jpg\"><br><br><b>Alvéolos (pneumócito tipo I)</b><br>• Septo interalveolar<br>• Alvéolo<br>• Pneumócito tipo I"
+                    ],
+                    "guid": "E}knmreuNg",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p29c_q.jpg\">",
+                        "<img src=\"hist_p29c_a.jpg\"><br><br><b>Alvéolos (pneumócito tipo II / macrófago)</b><br>• Pneumócito tipo II<br>• Macrófago (alveolar, célula de poeira)"
+                    ],
+                    "guid": "c~/29G1RF1",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p29d_q.jpg\">",
+                        "<img src=\"hist_p29d_a.jpg\"><br><br><b>Alvéolos</b><br>• Septo interalveolar"
+                    ],
+                    "guid": "j!=dNeri2$",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p30a_q.jpg\">",
+                        "<img src=\"hist_p30a_a.jpg\"><br><br><b>Ducto alveolar</b><br>• Ducto alveolar<br>• Coxim — resquícios da parede do bronquíolo respiratório"
+                    ],
+                    "guid": "Q&6?y[LS/7",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p30b_q.jpg\">",
+                        "<img src=\"hist_p30b_a.jpg\"><br><br><b>Pleura visceral</b><br>• Pulmão<br>• Pleura visceral<br>• Mesotélio<br>• TCPD frouxo"
+                    ],
+                    "guid": "P)bUO4)/l]",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — identifique a lâmina e todas as estruturas legendadas (legendas borradas)<br><img src=\"hist_p30c_q.jpg\">",
+                        "<img src=\"hist_p30c_a.jpg\"><br><br><b>Pleura visceral</b><br>• Mesotélio<br>• Pleura visceral<br>• Pulmão"
+                    ],
+                    "guid": "K)|!:Qz=pi",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Sistema_Respiratorio"
                     ]
                 }
             ],
