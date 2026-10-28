@@ -40192,6 +40192,7 @@
                 "cce_met.jpg",
                 "celula_ciliada_esquema.jpg",
                 "circulacao_fetal_neonatal.jpg",
+                "circulacao_sazonal.jpg",
                 "circulo_hexaxial.jpg",
                 "citometria.jpg",
                 "clamidia_lgv_bubao.jpg",
@@ -40206,7 +40207,9 @@
                 "coclea_tres_rampas.jpg",
                 "codominancia.jpg",
                 "corineforme_gram.jpg",
+                "coronavirus_humanos.jpg",
                 "corte_transversal_olho.jpg",
+                "covid_fases.jpg",
                 "cr2_tlr.jpg",
                 "cranio_base_fossas.jpg",
                 "cranio_fossas_cranianas.jpg",
@@ -40227,6 +40230,7 @@
                 "difteria_cutanea.jpg",
                 "dobramento_septacao_openstax.jpg",
                 "dopamina_sintese_vias.png",
+                "drift_shift.jpg",
                 "ecg_12_derivacoes.jpg",
                 "efeitos_celula_b.jpg",
                 "eixo_eletrico.jpg",
@@ -40235,6 +40239,7 @@
                 "embrio_labirinto_membranoso.jpg",
                 "embrio_orelha_desenvolvimento.jpg",
                 "embrio_placoide_vesicula.jpg",
+                "emergencia_virus.jpg",
                 "endocardio.jpg",
                 "endotelio_funcoes.jpg",
                 "epicardio_sem_rotulos.jpg",
@@ -40247,6 +40252,7 @@
                 "estrutura_vasos.jpg",
                 "estruturas_externas_olho.jpg",
                 "etapas_sinapse_quimica.png",
+                "evolucao_epidemias.jpg",
                 "excitotoxicidade_glutamatergica.png",
                 "fab_fc_papaina.jpg",
                 "fago_lisogenico.jpg",
@@ -40358,6 +40364,8 @@
                 "inato_x_adaptativo_comparacao.jpg",
                 "infarto_agudo_oculto.jpg",
                 "infeccoes_invasivas.jpg",
+                "influenza_estrutura.jpg",
+                "influenza_hospedeiros.jpg",
                 "interacao_tb.jpg",
                 "interacao_timocitos_estroma.jpg",
                 "labirinto_janelas.jpg",
@@ -40389,6 +40397,7 @@
                 "migracao_leucocitaria_detalhada.jpg",
                 "miocardio.jpg",
                 "montes_auriculares.jpg",
+                "mortalidade_idade.jpg",
                 "mrsa_antibiograma.jpg",
                 "musculos_extraoculares.jpg",
                 "mycobacterium_leprae.jpg",
@@ -40422,6 +40431,7 @@
                 "p41a_bulbo_terco_inferior.jpg",
                 "p41b_transicao_ponto_mesencefalica.jpg",
                 "p41c_bulbo_nivel_vago_olivas.jpg",
+                "pandemias_linha_tempo.jpg",
                 "papel_ecg_fc.jpg",
                 "parede_cardiaca_atlas.jpg",
                 "parede_celular.jpg",
@@ -40446,6 +40456,7 @@
                 "retina_neural_camadas.jpg",
                 "retroalimentacao.jpg",
                 "retroalimentacao_anticorpos.jpg",
+                "sars_cov2_estrutura.jpg",
                 "sc_ativacao_extracelular.jpg",
                 "sc_cascata_completa.jpg",
                 "sc_formacao_mac.jpg",
@@ -76159,6 +76170,1038 @@
                     "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
                     "tags": [
                         "M2::FISIOLOGIA::ECG_Roteiro_Analise"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza e Coronavírus — qual é o fio condutor desta aula?",
+                        "<b>Resumo: vírus respiratórios de RNA que mudam (Influenza) ou saltam de espécie (coronavírus) encontram população sem imunidade, gerando epidemias e pandemias.</b><br><br>O Influenza muda por drift (anual) e shift (10–30 anos). Os coronavírus emergem por salto de um animal (reservatório → hospedeiro intermediário → humano). Para cada vírus a aula segue a mesma trilha: estrutura, origem e mudança, transmissão, patogênese, clínica, diagnóstico, tratamento e prevenção."
+                    ],
+                    "guid": "tOkbh;]/Ry",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Integracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza — qual é a lógica da estrutura do vírus e por que HA e NA são as proteínas centrais?",
+                        "<b>Resumo: o Influenza é um vírus envelopado de RNA com duas glicoproteínas de superfície com funções complementares — HA para entrar e NA para sair.</b><br><br>São justamente HA e NA que mudam (drift e shift) e que definem o subtipo, por isso estão no centro da epidemiologia, da vacina e do tratamento."
+                    ],
+                    "guid": "iJ~Z_;6F+.",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Estrutura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza — família, tipos e características gerais do vírus",
+                        "Família Orthomyxoviridae. Tipos A, B e C. Todos envelopados e com genoma de RNA."
+                    ],
+                    "guid": "A1o8{sqAv1",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Estrutura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza — qual tipo causa epidemias e é caracterizado por hemaglutinina e neuraminidase?",
+                        "Influenza A (é o mais importante epidemiologicamente e também o causador de pandemias)."
+                    ],
+                    "guid": "vkiVLK>Ml8",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Estrutura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza B e C — como se comparam ao A quanto ao potencial epidêmico? 📎",
+                        "O B infecta basicamente humanos e causa epidemias sazonais. O C causa doença leve. Nenhum dos dois causa pandemias, que são exclusivas do Influenza A."
+                    ],
+                    "guid": "h60cgqez@c",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Estrutura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza — como é o genoma e por que isso importa para a variação do vírus? 📎",
+                        "<b>Resumo: RNA de fita simples de sentido negativo e segmentado em 8 segmentos.</b><br><br>A segmentação permite o rearranjo (reassortment) de segmentos quando dois vírus infectam a mesma célula, base do shift."
+                    ],
+                    "guid": "I4?I($pv;;",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Estrutura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hemaglutinina — qual a função?",
+                        "Liga-se ao ácido siálico presente nas glicoproteínas e glicolipídeos da membrana celular (adesão e entrada do vírus)."
+                    ],
+                    "guid": "t`gu&5R*dF",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Estrutura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Neuraminidase — qual a função?",
+                        "<b>Resumo: remove o ácido siálico da superfície da célula infectada, liberando as partículas virais.</b><br><br>Isso facilita a saída dos vírus e impede sua agregação ou adesão à célula infectada."
+                    ],
+                    "guid": "r<+N]li4QD",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Estrutura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hemaglutinina e neuraminidase — por que o vírus precisa de uma proteína que destrói o receptor que a outra usa?",
+                        "<b>Resumo: a HA se liga ao ácido siálico para entrar, mas isso também prenderia os vírus novos à célula que os produziu — a NA corta o ácido siálico e libera a progênie.</b><br><br>Mnemônico: HA = entrada, NA = saída."
+                    ],
+                    "guid": "qR|!ZKF9/b",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Estrutura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza A — quais são os componentes da partícula viral mostrados no esquema?",
+                        "<b>Resumo: HA, NA, canal iônico M2, proteína de matriz M2, bicamada lipídica e 8 segmentos de RNA.</b><br><br>Os segmentos de RNA codificam PB2, PB1, PA, HA, NP, NA, M (M1 + M2) e NS (NS1 + NS2).<br><img src=\"influenza_estrutura.jpg\">"
+                    ],
+                    "guid": "Ndm#,S0KHc",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Estrutura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza A — como é classificado em subtipos e em quais hospedeiros circula?",
+                        "<b>Resumo: subtipos são definidos pela combinação H × N e o vírus circula em vários animais além do homem.</b><br><br>Aves aquáticas são o reservatório natural, e há infecção de patos, frangos, porcos, baleias, cavalos e focas."
+                    ],
+                    "guid": "JO,2]3nM}7",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Subtipos_Hospedeiros"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza A — quantos tipos de hemaglutinina e de neuraminidase existem?",
+                        "Hemaglutininas: 18 tipos (H1 a H18). Neuraminidases: 11 tipos (N1 a N11)."
+                    ],
+                    "guid": "nt9DXn!F$G",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Subtipos_Hospedeiros"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza A — quais animais, além do homem, o vírus infecta?",
+                        "Patos, frangos, porcos, baleias, cavalos e focas.<br><img src=\"influenza_hospedeiros.jpg\">"
+                    ],
+                    "guid": "wetN|}>aC)",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Subtipos_Hospedeiros"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza A — quais subtipos circulam no homem?",
+                        "H1N1, H1N2 e H3N2."
+                    ],
+                    "guid": "b!5?>p{V^U",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Subtipos_Hospedeiros"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gripe aviária — quais subtipos de vírus animais podem infectar eventualmente o homem?",
+                        "<b>Resumo: o slide cita H5N1 e H3N9.</b><br><br>⚠️ Os exemplos clássicos de gripe aviária em humanos são H5N1, H7N9 e H9N2. H3N9 não consta como subtipo de infecção humana estabelecida e pode ser erro do slide — confirme com a professora."
+                    ],
+                    "guid": "m@]sj4v0Q9",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Subtipos_Hospedeiros"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza A — por que a presença de aves e porcos é relevante para o surgimento de vírus novos? 📎",
+                        "<b>Resumo: aves aquáticas são o reservatório natural e o porco pode ser infectado por vírus aviários e humanos ao mesmo tempo.</b><br><br>Na coinfecção os segmentos de RNA se misturam (reassortment), podendo gerar HA e/ou NA inéditas para o homem."
+                    ],
+                    "guid": "g,d5ZuNPPz",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Subtipos_Hospedeiros"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Variação antigênica do Influenza — qual é a ideia central e quais são os dois tipos?",
+                        "<b>Resumo: mudança nos antígenos de superfície (HA e NA) que o sistema imune reconhece — pequena (drift) ou grande (shift).</b><br><br>O grau da mudança define quanta imunidade prévia a população ainda tem e, portanto, se teremos epidemia sazonal ou pandemia."
+                    ],
+                    "guid": "L-$DH_MGNi",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Variacao_Antigenica"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Drift — o que é e com que frequência ocorre?",
+                        "Modificações pequenas que ocorrem anualmente.<br><img src=\"drift_shift.jpg\">"
+                    ],
+                    "guid": "QA:[fZ$d>$",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Variacao_Antigenica"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Shift — o que é e com que frequência ocorre?",
+                        "<b>Resumo: surge um novo vírus para o qual a maioria da população não tem imunidade.</b><br><br>Essa modificação ocorre a cada 10 a 30 anos."
+                    ],
+                    "guid": "dkU:jmkv%9",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Variacao_Antigenica"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Drift — qual o mecanismo molecular? 📎",
+                        "Mutações pontuais acumuladas, pois a polimerase de RNA do vírus comete erros e não os corrige."
+                    ],
+                    "guid": "MT{g0B,}H3",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Variacao_Antigenica"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Shift — qual o mecanismo molecular? 📎",
+                        "Rearranjo (reassortment) de segmentos do genoma quando dois vírus diferentes infectam a mesma célula, gerando HA e/ou NA completamente novas."
+                    ],
+                    "guid": "b#XrmD4Vk4",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Variacao_Antigenica"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Drift e shift — por que um gera epidemias sazonais e o outro pandemias?",
+                        "<b>Resumo: no drift a população tem imunidade parcial, no shift não tem imunidade nenhuma.</b><br><br>Drift = pouco diferente do vírus conhecido, então epidemias anuais. Shift = vírus novo para quase todos, então circulação mundial (pandemia)."
+                    ],
+                    "guid": "t3pc*3M3U>",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Variacao_Antigenica"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pandemia de influenza — como se define e em que difere de epidemia?",
+                        "<b>Resumo: introdução de um novo vírus A (mudança no tipo de HA e NA) com circulação e transmissão em todo o planeta.</b><br><br>📎 Epidemia é ocorrência acima do esperado numa região ou população. Endemia é a circulação habitual e constante."
+                    ],
+                    "guid": "y-;F&}zd2E",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Pandemias"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pandemias de gripe — quais subtipos e nomes marcaram o último século?",
+                        "<b>Resumo: 1889 Russa H2N2, 1900 Hong Kong antiga H3N8, 1918 Espanhola H1N1, 1957 Asiática H2N2, 1968 Hong Kong H3N2, 2009 pandêmica H1N1.</b><br><img src=\"pandemias_linha_tempo.jpg\">"
+                    ],
+                    "guid": "C%X])9%%vB",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Pandemias"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gripe espanhola (1918) — subtipo, origem, letalidade, mortes e faixa etária mais afetada",
+                        "<b>Resumo: H1N1, origem incerta, a mais letal das quatro (2–3%), atingiu adultos jovens.</b><br><br>Nº reprodutivo estimado 1,2–3,0. Excesso de mortalidade de 20 a 50 milhões. O slide ilustra com a foto de um hospital improvisado em Kansas (EUA)."
+                    ],
+                    "guid": "P+^,$Bclol",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Pandemias"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gripe asiática (1957–58) — subtipo, origem, letalidade, mortes e faixa etária",
+                        "H2N2 (aviária), sul da China. Nº reprodutivo 1,5. Letalidade menor que 0,2%. Excesso de mortalidade de 1 a 4 milhões. Todas as idades."
+                    ],
+                    "guid": "C@5r?{YSL>",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Pandemias"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gripe de Hong Kong (1968–69) — subtipo, origem, letalidade, mortes e faixa etária",
+                        "H3N2 (aviária), sul da China. Nº reprodutivo 1,3–1,6. Letalidade menor que 0,2%. Excesso de mortalidade de 1 a 4 milhões. Todas as idades."
+                    ],
+                    "guid": "D9W<_+crR?",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Pandemias"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza A(H1N1) 2009 — subtipo, origem, letalidade, mortes e faixa etária",
+                        "<b>Resumo: H1N1 de origem suína, América do Norte, a menos letal (0,02%), atingiu crianças e adultos jovens.</b><br><br>Nº reprodutivo 1,1–1,8. Excesso de mortalidade de 100 mil a 400 mil."
+                    ],
+                    "guid": "L.hb!MgGF$",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Pandemias"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pandemias de gripe de 1957 a 2009 — o que têm em comum quanto à origem do vírus?",
+                        "<b>Resumo: todas vieram de vírus de animais (aviário em 1957 e 1968, suíno em 2009), coerente com shift por contribuição animal.</b><br><br>Duas delas tiveram origem no sul da China."
+                    ],
+                    "guid": "G#vvc-ND}]",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Pandemias"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza A (H3N2) sazonal — de onde parte e como se espalha pelo mundo?",
+                        "<b>Resumo: parte do leste/sudeste da Ásia e se espalha para Europa e América do Norte e depois para América do Sul e Oceania.</b><br><br>A estrutura da rede dentro da Ásia é desconhecida.<br><img src=\"circulacao_sazonal.jpg\">"
+                    ],
+                    "guid": "oq,%~Xn6WD",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Pandemias"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza A — como evolui naturalmente o ciclo de epidemias e pandemias com a imunidade da população?",
+                        "<b>Resumo: vírus novo (HxNy) gera grande pico, a imunidade cresce, os picos diminuem (epidêmico e depois endêmico, com períodos interpandêmicos) até surgir outro vírus novo (HqNw).</b><br><br>Vírus e imunidade da população 'correm atrás um do outro' até o próximo shift reiniciar o ciclo.<br><img src=\"evolucao_epidemias.jpg\">"
+                    ],
+                    "guid": "E0JZ.1EhhU",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Pandemias"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mortalidade por influenza — quem morre mais na pandemia e quem morre mais na gripe sazonal?",
+                        "<b>Resumo: na pandemia os óbitos se distribuem em faixas mais jovens (25–64 anos), na sazonal se concentram em idosos (≥65 anos, cerca de 70%).</b><br><br>Dados da Inglaterra. Na pandemia a taxa por milhão tem pico em menores de 1 ano e em 45–64 anos.<br><img src=\"mortalidade_idade.jpg\">"
+                    ],
+                    "guid": "eJ3GIGC(v2",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Epidemiologia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mortalidade por influenza (por 100.000) — quais os valores segundo o estado de saúde?",
+                        "<b>Resumo: adultos saudáveis 2, doença cardiovascular 104, doença pulmonar 240, cardiovascular + diabetes 481, cardiovascular + pulmonar 870.</b><br><br>Adaptado de Barney e Mullooy, 1982."
+                    ],
+                    "guid": "k;OGJ*`7:F",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Epidemiologia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mortalidade por influenza — o que a tabela por estado de saúde ensina sobre comorbidades e vacinação?",
+                        "<b>Resumo: gripe é pouco letal em saudáveis, muito mais em quem tem doença de base, e o risco se soma quando há duas comorbidades.</b><br><br>Por isso doenças crônicas estão entre as indicações prioritárias de vacina."
+                    ],
+                    "guid": "x]!Pu]@0Q4",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Epidemiologia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza — como é a transmissão?",
+                        "Aerossóis, secreções respiratórias e contato com o epitélio respiratório."
+                    ],
+                    "guid": "GX~,=|-4:1",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Transmissao_Patogenese"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza — quando a transmissão é maior e por quanto tempo há partículas virais?",
+                        "<b>Resumo: maior nas primeiras 48 horas de doença, começando 24 horas antes do adoecimento.</b><br><br>As partículas virais ficam indetectáveis em 5 a 10 dias."
+                    ],
+                    "guid": "yE6v<X(ORT",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Transmissao_Patogenese"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza — por que transmitir antes dos sintomas dificulta o controle? 📎",
+                        "O doente já contamina cerca de 24 horas antes de adoecer, então isolar apenas quem tem sintomas não interrompe toda a cadeia de transmissão."
+                    ],
+                    "guid": "Q|l>X$QKif",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Transmissao_Patogenese"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza — qual é a sequência da patogênese?",
+                        "<b>Resumo: incubação de 18 a 72 horas, apoptose das células na replicação viral, intensa inflamação do epitélio respiratório e efeitos sistêmicos.</b><br><br>Efeitos sistêmicos mediados por IL-1, IL-6, TNF-α e IFN α e β."
+                    ],
+                    "guid": "mrN+7vYoj1",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Transmissao_Patogenese"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza — por que há febre e mialgia se o vírus fica no trato respiratório? 📎",
+                        "As citocinas liberadas na inflamação (IL-1, IL-6, TNF-α e interferons) agem à distância, causando febre e mialgia. Os sintomas sistêmicos refletem principalmente a resposta imune."
+                    ],
+                    "guid": "uO7q+z;!An",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Transmissao_Patogenese"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza — quais são os sintomas do quadro clássico?",
+                        "<b>Resumo: febre, calafrios, cefaleia, mialgia, tosse seca, dor de garganta, coriza e congestão nasal.</b><br><br>O esquema do slide ainda lista letargia, falta de apetite, dor articular, náuseas, vômitos e diarreia."
+                    ],
+                    "guid": "keVFY>n*En",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Clinica"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza — quais são as complicações descritas?",
+                        "<b>Resumo: pneumonia viral e bacteriana secundária, exacerbação de DPOC, miosite, miocardite, Guillain-Barré e síndrome de Reye.</b>"
+                    ],
+                    "guid": "n@R8#~]/_4",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Clinica"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Síndrome de Reye — com que medicamento e com que faixa etária se associa e qual a implicação preventiva? 📎",
+                        "<b>Resumo: associa-se ao uso de ácido acetilsalicílico (AAS) em crianças e adolescentes com infecção viral.</b><br><br>É por isso que crianças e adolescentes em uso de AAS são grupo prioritário de vacinação contra influenza."
+                    ],
+                    "guid": "noE}{]~pzn",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Clinica"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza — quais são os métodos diagnósticos?",
+                        "Isolamento viral, pesquisa de antígenos (imunocromatografia), PCR e sorologia."
+                    ],
+                    "guid": "kVaM8os=8x",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Diagnostico_Tratamento"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pesquisa de antígenos do Influenza — qual a sensibilidade e o que isso implica?",
+                        "<b>Resumo: sensibilidade de 40% a 80%, então um resultado negativo não exclui gripe.</b><br><br>📎 O PCR é o método mais sensível e específico."
+                    ],
+                    "guid": "JZyrTn2`V%",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Diagnostico_Tratamento"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza — qual é o tratamento específico?",
+                        "Inibidores da neuraminidase: oseltamivir (Tamiflu) e zanamivir. 📎 Oseltamivir é oral, zanamivir é inalatório."
+                    ],
+                    "guid": "hy7$:!ISxZ",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Diagnostico_Tratamento"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Inibidores da neuraminidase — por que bloquear essa enzima trata a gripe?",
+                        "<b>Resumo: sem a neuraminidase os vírus novos ficam presos à célula e se disseminam menos.</b><br><br>📎 O benefício é maior quando o início é precoce, idealmente nas primeiras 48 horas de sintomas."
+                    ],
+                    "guid": "vB1~Itty$8",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Diagnostico_Tratamento"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza — quais são as estratégias de profilaxia?",
+                        "<b>Resumo: vacina inativada (anual), vacina atenuada intranasal (não disponível no Brasil), quimioprofilaxia pós-exposição e medidas gerais (mãos e máscaras).</b>"
+                    ],
+                    "guid": "OqX20$AYBx",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Profilaxia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vacina inativada contra influenza — como é a composição e qual a resposta?",
+                        "<b>Resumo: composição varia anualmente e a resposta é de 70% a 90% em adultos e 58% em idosos.</b>"
+                    ],
+                    "guid": "x4fY{N=1a3",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Profilaxia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vacina atenuada contra influenza — via de administração e situação no Brasil",
+                        "Intranasal. Não disponível no Brasil."
+                    ],
+                    "guid": "jNhM1=L.G:",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Profilaxia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vacina contra influenza — por que a composição precisa ser atualizada todo ano?",
+                        "<b>Resumo: porque o vírus muda por drift e a vacina precisa acompanhar as cepas circulantes.</b><br><br>De 2025 para 2026 foram trocadas as cepas A (H1N1 e H3N2) e a B foi mantida, como esperado para o vírus A."
+                    ],
+                    "guid": "G,y7cz9{,G",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Profilaxia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vacina de influenza do Hemisfério Sul 2026 (trivalente) — quais cepas e o que mudou em relação a 2025?",
+                        "<b>Resumo: A/Missouri/11/2025 (H1N1)pdm09 e A/Singapura/GP20238/2024 (H3N2) mudaram, B/Austria/1359417/2021 (B/Victoria) foi mantida.</b><br><br>Em 2025 eram A/Victoria/4897/2022 (H1N1)pdm09 e A/Croatia/10136RV/2023 (H3N2). A cepa adicional da quadrivalente, B/Phuket/3073/2013 (B/Yamagata), foi igual nos dois anos. Fonte: Nota Técnica SBIm, 10/04/2026."
+                    ],
+                    "guid": "u~D-dZw1uL",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Profilaxia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vacinação contra influenza — quem são os grupos indicados?",
+                        "<b>Resumo: maiores de 60 anos, abrigos e asilos, doenças crônicas e imunodeficiências, uso de AAS, gestantes, crianças de 6 a 23 meses e quem pode transmitir à população de risco.</b><br><br>Doenças crônicas: metabólicas, alteração da função renal, hemoglobinopatias e imunodeficiências. Uso de AAS: adolescentes e crianças."
+                    ],
+                    "guid": "H}$.N=|$Rk",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Profilaxia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vacina contra influenza — por que crianças e adolescentes em uso de AAS entram nos grupos indicados?",
+                        "Porque o AAS em infecção viral pode causar síndrome de Reye e a gripe é uma das infecções associadas, então prevenir a gripe reduz esse risco. 📎"
+                    ],
+                    "guid": "LQ=jVI)+Sa",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Profilaxia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vacina contra influenza — quais são os efeitos colaterais e as contraindicações?",
+                        "Efeitos colaterais: hipersensibilidade, reação no local da aplicação e síndrome óculo-respiratória.<br>Contraindicações: história de hipersensibilidade e alergia a timerosal."
+                    ],
+                    "guid": "gh11OUHS|m",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Profilaxia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Quimioprofilaxia na influenza — quando é indicada?",
+                        "Após exposição, quando a vacinação não pode ser realizada."
+                    ],
+                    "guid": "NLP/[KUd0,",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Profilaxia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza — quais medidas gerais de prevenção as figuras do slide mostram?",
+                        "Lavagem correta das mãos (sabão e água, palmas, entre os dedos, polegar, dorso e punhos), evitar contato com superfícies contaminadas e uso de máscaras (de pano, cirúrgicas e respiradores)."
+                    ],
+                    "guid": "s+&^1DTleH",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Profilaxia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza — idoso com doença cardiovascular e doença pulmonar: como se explica o risco e qual a prevenção prioritária?",
+                        "<b>Resumo: mortalidade de 870/100.000 com as duas comorbidades (contra 2 em adultos saudáveis), então a vacina anual é prioritária.</b><br><br>Ele cumpre dois critérios do grupo de risco (idade acima de 60 anos e doença crônica). Medidas gerais (mãos e máscara) complementam e a quimioprofilaxia entra se houver exposição sem vacinação."
+                    ],
+                    "guid": "bIhFpTp=&L",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Influenza_Profilaxia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coronavírus — qual é a ideia central sobre sua origem e emergência?",
+                        "<b>Resumo: são uma família zoonótica cujo risco está no salto entre espécies (reservatório → hospedeiro intermediário → humano).</b><br><br>Cada salto exige vencer uma barreira de espécie e, uma vez no homem, o vírus pode se adaptar e se disseminar numa população sem imunidade."
+                    ],
+                    "guid": "FPWpa_9Y/+",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Coronavirus_Familia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "COVID-19 — como foi o início da emergência da doença?",
+                        "<b>Resumo: em dezembro de 2019 houve um aglomerado de casos de pneumonia na China causado por um vírus até então desconhecido, o 2019 Novel Coronavirus.</b><br><br>O slide da OMS destaca que o conhecimento pode mudar e que é preciso consultar fontes atualizadas."
+                    ],
+                    "guid": "PIaAzu8/o6",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Coronavirus_Familia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coronaviridae — quantos gêneros e espécies e o que é uma zoonose?",
+                        "Cerca de 5 gêneros e 40 espécies. São zoonoses, ou seja, infectam animais e humanos (com intensidade variável da infecção)."
+                    ],
+                    "guid": "rP{*B6r;h]",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Coronavirus_Familia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Emergência de um vírus novo — quais são os 5 estágios?",
+                        "<b>Resumo: vírus, reservatório animal, hospedeiros intermediários, transmissão a humanos e entre humanos, disseminação.</b><br><br>Reservatório: onde o vírus vive naturalmente (morcegos para SARS e Ebola). Intermediário: civeta na SARS. Entre os estágios 2→3 e 3→4 há barreiras de espécie. No estágio 4 o vírus pode se adaptar e mutar. A disseminação é ajudada por populações móveis.<br><img src=\"emergencia_virus.jpg\">"
+                    ],
+                    "guid": "mcO?sZBk>e",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Coronavirus_Familia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coronavírus humanos — quais são, o ano, a doença e a gravidade?",
+                        "<b>Resumo: 229E/OC43 síndromes gripais (moderada), SARS-CoV 2003 SRAG (grave), NL63 2004 bronquiolite (moderada), HKU-1 2005 síndrome respiratória (moderada), MERS-CoV 2012 (grave), COVID-19 2019 (moderada?).</b><br><br>229E e OC43 são de 1960–2002.<br><img src=\"coronavirus_humanos.jpg\">"
+                    ],
+                    "guid": "b.1U-PxwjZ",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Coronavirus_Familia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coronavírus humanos — quais são os dois mais graves antes do SARS-CoV-2 e seus hospedeiros intermediários?",
+                        "SARS-CoV (2003): morcego → civeta → homem. MERS-CoV (2012): morcego → camelo → homem."
+                    ],
+                    "guid": "G@!PC!tf7z",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Coronavirus_Familia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coronavírus humanos — qual a cadeia animal sugerida para 229E, OC43, NL63 e HKU-1 e para o SARS-CoV-2?",
+                        "229E: morcego → lhama → homem. OC43: roedor → bovino → homem. NL63: morcego → ? → homem. HKU-1: roedor → ? → homem. SARS-CoV-2: origem incerta (interrogação na figura)."
+                    ],
+                    "guid": "O>ax6/RU$J",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Coronavirus_Familia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "SARS-CoV-2 — qual é a lógica da estrutura e da porta de entrada na célula?",
+                        "<b>Resumo: vírus envelopado de RNA de sentido positivo, cuja proteína spike se liga ao ACE-2 da célula humana.</b><br><br>Como o ACE-2 faz parte da regulação da PA, ele existe em vários órgãos, o que ajuda a entender manifestações além do pulmão."
+                    ],
+                    "guid": "HIvX`r]~}M",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::SARS_CoV_2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "SARS-CoV-2 — quais são os componentes estruturais do vírion?",
+                        "<b>Resumo: proteína N, ssRNA, proteína de matriz, proteína E (envelope) e proteína Spike.</b><br><br>A spike forma as espículas que dão aparência de coroa.<br><img src=\"sars_cov2_estrutura.jpg\">"
+                    ],
+                    "guid": "QmBJ]cR-1u",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::SARS_CoV_2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "SARS-CoV-2 — qual o tipo de genoma e se é envelopado?",
+                        "Envelopado, RNA de sentido positivo."
+                    ],
+                    "guid": "nQ!_y9r1t)",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::SARS_CoV_2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "SARS-CoV-2 — qual o sítio de ligação na célula e que função fisiológica tem essa molécula?",
+                        "<b>Resumo: ACE-2, a enzima conversora da angiotensina, responsável pela regulação da PA.</b><br><br>📎 A ligação é feita pela proteína spike."
+                    ],
+                    "guid": "wUAy4*O(zK",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::SARS_CoV_2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "COVID-19 — qual é a lógica da evolução clínica?",
+                        "<b>Resumo: a doença tem duas fases, uma viral (replicação do vírus) e uma inflamatória (resposta exagerada do hospedeiro).</b><br><br>Isso explica por que o tratamento muda ao longo da doença."
+                    ],
+                    "guid": "thdzunG}l*",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::COVID19_Clinica"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "COVID-19 — quais são os sintomas e o período da fase viral?",
+                        "<b>Resumo: aproximadamente dias 1 a 7 após os primeiros sintomas, com febre, tosse, fadiga, anorexia, mialgias e diarreia.</b><br><img src=\"covid_fases.jpg\">"
+                    ],
+                    "guid": "A,ilnz%hm_",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::COVID19_Clinica"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "COVID-19 — quais são as características da fase inflamatória?",
+                        "<b>Resumo: a partir de cerca de 7 dias dos sintomas, com dispneia em 40% dos sintomáticos, doença grave em 14% e crítica em 5%.</b>"
+                    ],
+                    "guid": "g.ucM3|=1N",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::COVID19_Clinica"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "COVID-19 — por que se diz que o tratamento depende da fase da doença? 📎",
+                        "Na fase viral o problema é a replicação do vírus (faz sentido antiviral). Na fase inflamatória o dano vem em grande parte da resposta inflamatória exagerada (entram antiinflamatórios)."
+                    ],
+                    "guid": "gxwO|quy}K",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::COVID19_Clinica"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "COVID-19 — qual a dimensão da pandemia segundo o painel da Johns Hopkins (acesso em 03/10/2023)?",
+                        "<b>Resumo: cerca de 676,6 milhões de casos, 6,88 milhões de mortes e 13,3 bilhões de doses de vacina.</b><br><br>As curvas semanais mostram picos de casos em 2022, mortes concentradas antes disso e doses de vacina crescendo e depois caindo."
+                    ],
+                    "guid": "o-^b~Cz]/)",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::COVID19_Clinica"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "COVID-19 — como é o tratamento de casos leves e graves?",
+                        "Casos leves: isolamento domiciliar e tratamento sintomático.<br>Casos graves: suporte respiratório e hemodiálise."
+                    ],
+                    "guid": "u%DGXt^M&L",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::COVID19_Tratamento_Prevencao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "COVID-19 — quais são os medicamentos citados?",
+                        "<b>Resumo: nirmatrelvir + ritonavir e antiinflamatórios.</b><br><br>📎 O nirmatrelvir é o antiviral (inibidor de protease) e o ritonavir reforça seus níveis por inibir seu metabolismo."
+                    ],
+                    "guid": "Jm:1CUgy;s",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::COVID19_Tratamento_Prevencao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "COVID-19 — quais são as medidas de prevenção do slide?",
+                        "Máscaras (cirúrgicas e respiradores), lavar as mãos com água e sabão, evitar levar as mãos ao rosto (principalmente à boca) e levar álcool em gel."
+                    ],
+                    "guid": "sV;?(z(N+8",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::COVID19_Tratamento_Prevencao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vacinas contra COVID-19 — qual a tecnologia de cada uma (CoronaVac, AstraZeneca, Pfizer e Janssen)?",
+                        "<b>Resumo: CoronaVac = vírus inativado, AstraZeneca = vetor viral, Pfizer = RNA mensageiro, Janssen = vetor viral.</b>"
+                    ],
+                    "guid": "BscpSt|[Zo",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::COVID19_Vacinas"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "CoronaVac — eficácia, intervalo entre doses e armazenamento",
+                        "Eficácia global de até 62,3% se o intervalo entre as doses for igual ou superior a 21 dias e de 83,7% a 100% em casos que requerem assistência médica. Intervalo de 14 a 28 dias. Armazenamento de 2 a 8 ºC."
+                    ],
+                    "guid": "q[OxC`k[Y|",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::COVID19_Vacinas"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "AstraZeneca — eficácia, intervalo entre doses e armazenamento",
+                        "Eficácia de 76% após a primeira dose e 81% após a segunda. Intervalo de 12 semanas. Armazenamento de 2 a 8 ºC."
+                    ],
+                    "guid": "x+^(Fe[i3i",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::COVID19_Vacinas"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pfizer — eficácia, intervalo entre doses e armazenamento",
+                        "<b>Resumo: 95% de eficácia após a segunda dose, intervalo de até 12 semanas após a primeira.</b><br><br>Armazenamento: até 5 dias a 2–8 ºC, entre −25 e −15 ºC por até 2 semanas e entre −90 e −60 ºC depois desse período."
+                    ],
+                    "guid": "AbZOT/QSOv",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::COVID19_Vacinas"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Janssen — eficácia, esquema e armazenamento",
+                        "Eficácia de 66,9% para casos leves e moderados e 76,7% contra casos graves 14 dias após a aplicação. Dose única. Armazenamento de 2 a 8 ºC."
+                    ],
+                    "guid": "y#@~`:Dgl5",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::COVID19_Vacinas"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vacina Comirnaty atualizada (cepa LP.8.1) — qual a composição e a via?",
+                        "<b>Resumo: mRNA de cadeia simples envolvido em nanopartículas lipídicas, que codifica a proteína S (spike), por via intramuscular.</b><br><br>Uso adulto e pediátrico a partir de 6 meses."
+                    ],
+                    "guid": "uL]/FV!{R/",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::COVID19_Vacinas"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vacina Comirnaty atualizada — qual a dose, a tampa e a diluição em cada faixa etária?",
+                        "12 anos ou mais: tampa cinza, 30 mcg, não diluir.<br>5 a menos de 12 anos: tampa azul, 10 mcg, não diluir.<br>6 meses a menos de 5 anos: tampa amarela, 3 mcg, diluir antes de usar."
+                    ],
+                    "guid": "G1r%.yxXkP",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::COVID19_Vacinas"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza × SARS-CoV-2 — compare família, genoma, proteína de entrada e antiviral",
+                        "<b>Resumo: Orthomyxoviridae com RNA negativo segmentado, HA (ácido siálico) e inibidores da neuraminidase versus Coronaviridae com RNA positivo, spike (ACE-2) e nirmatrelvir + ritonavir.</b><br><br>O Influenza muda por drift e shift. O SARS-CoV-2 emergiu por salto de espécie."
+                    ],
+                    "guid": "j(asn0hxfj",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Integracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza e SARS-CoV-2 — por que prevenção por vacina e medidas gerais continua essencial nos dois?",
+                        "<b>Resumo: os dois são vírus respiratórios de RNA que se transmitem por secreções e aerossóis e encontram populações sem imunidade quando mudam ou emergem.</b><br><br>A vacina reduz a gravidade, e mãos e máscara reduzem a transmissão, que ocorre inclusive antes dos sintomas no Influenza."
+                    ],
+                    "guid": "wu*O?L~UBX",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Integracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ACE-2 e SARS-CoV-2 — por que um vírus pode afetar além do pulmão se usa um receptor ligado à regulação da PA? 📎",
+                        "O ACE-2 faz parte do sistema renina-angiotensina-aldosterona e existe em outros órgãos como coração, rins e intestino, então a entrada nessas células ajuda a explicar manifestações extrapulmonares."
+                    ],
+                    "guid": "HYjy~p)F8l",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Integracao"
                     ]
                 }
             ],
