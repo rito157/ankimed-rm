@@ -40131,6 +40131,7 @@
                 "anticorpo_sem_rotulos.jpg",
                 "apc_tipos.jpg",
                 "apresentacao_cruzada.jpg",
+                "arco_faringeo.jpg",
                 "arcos_29d_7sem.jpg",
                 "arcos_8sem.jpg",
                 "arcos_faringeos_folhetos.jpg",
@@ -40148,6 +40149,13 @@
                 "brodmann.jpg",
                 "capilares_tipos.jpg",
                 "caracteristicas_ligacao_peptideo.jpg",
+                "card_bowman_he.jpg",
+                "card_epitelio_resp_he.jpg",
+                "card_face_primordios.jpg",
+                "card_mev_celula_escova.jpg",
+                "card_mev_ciliadas_caliciformes.jpg",
+                "card_saliencias_nasais.jpg",
+                "card_traqueia_he.jpg",
                 "cardio_01_duas_bombas.jpg",
                 "cardio_02_circulacao_pulmonar_sistemica.jpg",
                 "cardio_04_miocardio_discos_intercalares.jpg",
@@ -40371,6 +40379,7 @@
                 "labirinto_janelas.jpg",
                 "labirinto_membranoso_rotulos.jpg",
                 "lancefield.jpg",
+                "laringe_divisoes.jpg",
                 "lflam_igra_ppd.jpg",
                 "linfa_edema.jpg",
                 "linfonodo_histologia.jpg",
@@ -40401,6 +40410,7 @@
                 "mrsa_antibiograma.jpg",
                 "musculos_extraoculares.jpg",
                 "mycobacterium_leprae.jpg",
+                "nariz_externo.jpg",
                 "negligencia_contralateral_testes.jpg",
                 "nervo_esquema.jpg",
                 "nervo_he_detalhe.jpg",
@@ -40431,6 +40441,7 @@
                 "p41a_bulbo_terco_inferior.jpg",
                 "p41b_transicao_ponto_mesencefalica.jpg",
                 "p41c_bulbo_nivel_vago_olivas.jpg",
+                "palato_fusao.jpg",
                 "pandemias_linha_tempo.jpg",
                 "papel_ecg_fc.jpg",
                 "parede_cardiaca_atlas.jpg",
@@ -40464,6 +40475,7 @@
                 "sc_via_calicreina_angioedema.jpg",
                 "selecao_negativa_treg.jpg",
                 "septacao_atrial.jpg",
+                "septo_nasal.jpg",
                 "sequencia_t_dependente.jpg",
                 "serotonina_vias_sintese.png",
                 "sifilis_congenita_hutchinson.jpg",
@@ -40524,6 +40536,7 @@
                 "toxina_ab_mecanismo.jpg",
                 "toxinas_aureus.jpg",
                 "transmissao_tb.jpg",
+                "traqueia_anatomia.jpg",
                 "tratamento_hanseniase_pqt.jpg",
                 "tratamento_tb_mecanismo.jpg",
                 "treponema_campo_escuro.jpg",
@@ -77202,6 +77215,1158 @@
                     "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
                     "tags": [
                         "M2::MICROBIOLOGIA::Integracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sistema respiratório — em que duas porções ele se divide e qual critério separa uma da outra?",
+                        "<b>Condutora (só leva e condiciona o ar) × respiratória (onde ocorre a troca gasosa).</b><br><br>Esta aula é toda sobre a porção condutora, desde a cavidade nasal até a traqueia. A porção respiratória começa nos bronquíolos respiratórios, onde o ar passa a encostar em capilares para a hematose."
+                    ],
+                    "guid": "FCoN.R0E%:",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Organizacao_Geral"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Porção condutora — quais estruturas a compõem, na ordem do ar?",
+                        "Cavidade nasal, nasofaringe, laringe, traqueia, brônquios e bronquíolos."
+                    ],
+                    "guid": "LsMyn5kq8D",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Organizacao_Geral"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Porção respiratória — quais estruturas a compõem?",
+                        "Bronquíolos respiratórios, ductos alveolares, sacos alveolares e alvéolos."
+                    ],
+                    "guid": "fYXI=n%OA,",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Organizacao_Geral"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Porção condutora — quais as funções dela sobre o ar inspirado?",
+                        "Permite a entrada e saída do ar e <b>limpa, umedece e aquece</b> o ar inspirado."
+                    ],
+                    "guid": "w8RBnD?>8,",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Organizacao_Geral"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Porção condutora — qual epitélio reveste a parede e de que é feita a parede?",
+                        "Revestimento: <b>epitélio respiratório</b>.<br>Parede: cartilagem, tecido conjuntivo e músculo liso."
+                    ],
+                    "guid": "tt8ID@fr.-",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Organizacao_Geral"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Porção condutora — o que cada componente da parede garante ao tubo?",
+                        "A <b>cartilagem</b> dá suporte (impede o colapso). O <b>conjuntivo e o músculo liso</b> dão flexibilidade e extensibilidade."
+                    ],
+                    "guid": "w=tq![EdOk",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Organizacao_Geral"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Epitélio respiratório — qual é a classificação completa e o que significa cada termo?",
+                        "<b>Pseudoestratificado cilíndrico ciliado com células caliciformes.</b><br><br>Pseudoestratificado: uma camada só (todas as células tocam a membrana basal), mas de alturas diferentes, então os núcleos ficam em níveis variados e parecem várias camadas. Cilíndrico ciliado: células altas com cílios. Caliciformes: células em cálice produtoras de muco."
+                    ],
+                    "guid": "F3gqrL8GD;",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Epitélio respiratório — quais são os 5 tipos celulares?",
+                        "Cilíndrica ciliada, caliciforme, em escova, basal e granular."
+                    ],
+                    "guid": "NtG)M7jW[D",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Epitélio respiratório — qual a proporção aproximada das células ciliada, caliciforme e basal?",
+                        "Cerca de <b>30% cada</b> (ciliada ~30%, caliciforme ~30%, basal ~30%)."
+                    ],
+                    "guid": "kigNMex{x{",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Célula cilíndrica ciliada — o que a caracteriza e qual a função?",
+                        "Tem <b>cílios</b> e <b>numerosas mitocôndrias</b>. Função: <b>transportar o muco</b>."
+                    ],
+                    "guid": "ekZ]~u#4US",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Célula caliciforme — qual o conteúdo apical e a função?",
+                        "Gotículas de <b>muco composto por glicoproteínas</b> no ápice. Função: <b>produzir muco</b>."
+                    ],
+                    "guid": "Lu3Jgv*zAA",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Célula em escova — o que a caracteriza e qual a função?",
+                        "Célula cilíndrica com <b>microvilosidades</b> e, na base, <b>terminações nervosas aferentes</b>. Atua como <b>receptor sensorial</b>."
+                    ],
+                    "guid": "lOaDlQq(Ma",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Célula basal do epitélio respiratório — qual a função?",
+                        "É a <b>célula germinativa</b> (pequena e arredondada), que repõe os demais tipos celulares."
+                    ],
+                    "guid": "Ra1DX#k5NF",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Célula granular do epitélio respiratório — o que a caracteriza, a qual sistema pertence e onde é mais frequente?",
+                        "Pequena, com <b>numerosos grânulos citoplasmáticos</b>. Pertence ao <b>DNES</b> (sistema neuroendócrino difuso). É mais frequente na <b>bifurcação dos brônquios lobares</b>."
+                    ],
+                    "guid": "A;sA,^1@iD",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Epitélio respiratório — por que ele precisa tanto de células caliciformes quanto de células ciliadas?",
+                        "<b>Formam o tapete mucociliar: o muco captura partículas e microrganismos e os cílios empurram esse muco.</b><br><br>Sem caliciformes, nada é capturado. Sem cílios, o muco fica parado e não é removido da via aérea."
+                    ],
+                    "guid": "B~QjptU1&E",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Célula ciliada — por que tem muitas mitocôndrias?",
+                        "O batimento ciliar contínuo (para transportar o muco) <b>gasta muita energia</b>, fornecida pelas mitocôndrias."
+                    ],
+                    "guid": "uNskLdlSn)",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Epitélio respiratório — por que ele é pseudoestratificado e não estratificado?",
+                        "Porque <b>todas as células apoiam na membrana basal</b> (é uma camada só). A impressão de camadas vem dos núcleos em alturas diferentes, já que as células têm alturas diferentes."
+                    ],
+                    "guid": "y|?rg5$*^i",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Epitélio respiratório (HE) — <img src=\"card_epitelio_resp_he.jpg\"><br>classifique o epitélio e nomeie as duas células de superfície cujas funções são transportar e produzir muco.",
+                        "<b>Epitélio pseudoestratificado cilíndrico ciliado com caliciformes.</b><br><br>Célula <b>ciliada</b>: transporte de muco (cílios no ápice). Célula <b>caliciforme</b>: produção de muco (citoplasma apical cheio de grânulos de muco). Abaixo fica o tecido conjuntivo (lâmina própria)."
+                    ],
+                    "guid": "pk&5,x+E9-",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Epitélio respiratório (MEV) — <img src=\"card_mev_ciliadas_caliciformes.jpg\"><br>o que são as células de superfície lisa e arredondada marcadas com C e o que forma o tapete ao redor delas?",
+                        "As células com C são <b>caliciformes</b>. O tapete de projeções longas ao redor é formado pelos <b>cílios das células cilíndricas ciliadas</b>."
+                    ],
+                    "guid": "d*@pM-p}B/",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Epitélio respiratório (MEV) — <img src=\"card_mev_celula_escova.jpg\"><br>qual célula tem a superfície com um pequeno tufo de microvilosidades (seta preta grossa na borda inferior) e qual sua função?",
+                        "<b>Célula em escova.</b><br><br>Tem microvilosidades curtas e terminações nervosas aferentes na base, funcionando como receptor sensorial. Os tufos grandes de projeções longas na mesma figura são cílios (células ciliadas)."
+                    ],
+                    "guid": "FD]M:B`D#z",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Epitélio respiratório — o que acontece com a depuração de partículas se os cílios não batem direito? (📎 correlação)",
+                        "O muco com partículas e microrganismos <b>deixa de ser movido</b> em direção à faringe, e a via aérea fica mais sujeita a acúmulo de secreção e infecções (ex.: discinesia ciliar, danos do tabagismo)."
+                    ],
+                    "guid": "w{B%`<|K>?",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cavidade nasal — quais as 3 áreas e o que caracteriza cada uma, em linhas gerais?",
+                        "<b>Vestibular (pele queratinizada com pelos), olfativa (neuroepitélio) e respiratória (epitélio respiratório).</b><br><br>A lógica é a função: o vestíbulo protege a entrada, a área olfativa capta cheiros e a área respiratória condiciona o ar."
+                    ],
+                    "guid": "lMi_ZGyDfo",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Cavidade_Nasal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Área vestibular da cavidade nasal — qual o epitélio e o que mais a caracteriza?",
+                        "<b>Epitélio estratificado pavimentoso queratinizado</b> e <b>presença de pelos</b>."
+                    ],
+                    "guid": "dgf8nO?csV",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Cavidade_Nasal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Área vestibular — por que o epitélio é queratinizado e há pelos?",
+                        "É a porta de entrada, exposta ao atrito e ao ambiente. A <b>queratina resiste ao desgaste</b> e os <b>pelos retêm partículas grandes</b> antes de o ar chegar ao epitélio ciliado."
+                    ],
+                    "guid": "J~@C~VxQRY",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Cavidade_Nasal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nariz externo — quais estruturas formam o esqueleto?",
+                        "Osso nasal (parte superior) e cartilagem nasal (parte inferior).<br><br><img src=\"nariz_externo.jpg\">"
+                    ],
+                    "guid": "ftHu9VLa=n",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Cavidade_Nasal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Septo nasal — quais estruturas o formam?",
+                        "<b>Lâmina perpendicular do osso etmoide, cartilagem hialina e vômer.</b><br><br><img src=\"septo_nasal.jpg\">"
+                    ],
+                    "guid": "O>pxp+y[*W",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Cavidade_Nasal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Seios paranasais — quais são os grupos mostrados na aula?",
+                        "Seio <b>frontal</b>, <b>maxilar</b>, <b>esfenoidal</b> e <b>células etmoidais</b>."
+                    ],
+                    "guid": "Ol4V8[@O!p",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Cavidade_Nasal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parede lateral da cavidade nasal — o que se abre no meato nasal inferior?",
+                        "O <b>óstio do ducto nasolacrimal</b>."
+                    ],
+                    "guid": "JVZD_Vo(kX",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Cavidade_Nasal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parede lateral da cavidade nasal — onde se abrem as células etmoidais anteriores, as médias e as posteriores?",
+                        "Anteriores: <b>hiato semilunar</b>. Médias: óstios na <b>bulla etmoidal</b>. Posteriores: <b>meato superior</b>."
+                    ],
+                    "guid": "gIRikvQ{Lg",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Cavidade_Nasal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nasofaringe — que estrutura da parede nasofaríngea recebe a tuba auditiva?",
+                        "O <b>óstio faríngeo da tuba auditiva (Eustáquio)</b>, junto ao <b>torus tubal</b>."
+                    ],
+                    "guid": "MySO>~_fKk",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Cavidade_Nasal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Área respiratória nasal — como a lâmina própria é organizada e qual a consequência funcional?",
+                        "<b>Muito vascularizada, com sinusoides venosos (tecido vascular cavernoso) sob controle autonômico vasomotor.</b><br><br>As mudanças vasculares alteram a espessura da mucosa e, com isso, a velocidade do fluxo de ar nas passagens nasais. O mesmo plexo vascular ajuda a <b>aquecer</b> o ar."
+                    ],
+                    "guid": "I.lv2%$ou+",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Cavidade_Nasal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cavidade nasal — por que é um erro tratar o revestimento da cavidade nasal como um único tipo de epitélio?",
+                        "Porque há <b>três revestimentos</b>, cada um adequado à função da área: queratinizado no vestíbulo (proteção), neuroepitélio na área olfativa (sensorial) e respiratório na área respiratória (condicionar o ar)."
+                    ],
+                    "guid": "tYcsRw[#+H",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Cavidade_Nasal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cavidade nasal — como o \"nariz entupido\" se explica pela histologia da área respiratória?",
+                        "Ingurgitamento dos <b>sinusoides venosos</b> da lâmina própria (controle vasomotor autonômico) <b>engrossa a mucosa</b> e estreita a passagem de ar."
+                    ],
+                    "guid": "lBabf##xzx",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Cavidade_Nasal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Área olfativa — onde fica, e que tipo de epitélio a reveste?",
+                        "No <b>teto da cavidade nasal</b>, abaixo da lâmina cribriforme do etmoide. Epitélio: <b>neuroepitélio colunar pseudoestratificado</b>."
+                    ],
+                    "guid": "iSs_!!X-v%",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Olfatorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Epitélio olfatório — quais são os 3 tipos celulares?",
+                        "<b>Células de sustentação</b>, <b>células basais</b> e <b>células olfatórias</b> (neurônios bipolares)."
+                    ],
+                    "guid": "bbtrUz=iTX",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Olfatorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Células de sustentação do epitélio olfatório — como são?",
+                        "Cilíndricas, com <b>microvilos</b> e <b>pigmento acastanhado</b>."
+                    ],
+                    "guid": "n&)>An#z^i",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Olfatorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Células olfatórias — que tipo de neurônio são e como é a sua organização?",
+                        "<b>Neurônios bipolares</b>. O dendrito chega à superfície com <b>cílios modificados</b> e o axônio segue até o bulbo olfatório."
+                    ],
+                    "guid": "NjzwsU0*X~",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Olfatorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lâmina própria olfatória — qual glândula é característica e que tipo de secreção produz?",
+                        "<b>Glândula de Bowman</b>, de secreção <b>serosa</b>."
+                    ],
+                    "guid": "kkZ/q;)N$+",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Olfatorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Teto da cavidade nasal (HE) — <img src=\"card_bowman_he.jpg\"><br>identifique o epitélio da parte superior, as glândulas da lâmina própria e o que as duas setas superiores apontam.",
+                        "<b>Epitélio olfatório sobre lâmina própria com glândulas de Bowman.</b><br><br>As glândulas de Bowman (serosas) ficam na lâmina própria. As setas superiores apontam os <b>ductos</b> dessas glândulas, que atravessam o epitélio e abrem na superfície."
+                    ],
+                    "guid": "n_xg!!acDo",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Olfatorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Olfato — descreva, passo a passo, como uma molécula odorante é captada.",
+                        "<b>Bowman secreta OBP, o odorante se liga à OBP e o complexo ativa o receptor do cílio do neurônio.</b><br><br>1) A glândula de Bowman secreta a <b>proteína ligadora de odorantes (OBP)</b>. 2) A molécula odorante se liga à OBP. 3) O complexo odorante-OBP se liga a um <b>receptor na superfície do cílio modificado</b> do neurônio olfatório. 4) O sinal segue pelo axônio até o bulbo olfatório."
+                    ],
+                    "guid": "q(hZ2eZ=f&",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Olfatorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Axônios olfatórios — como estão em relação à mielina e o que acontece quando saem do epitélio?",
+                        "São <b>amielínicos</b> dentro do epitélio. Ao emergir, grupos de axônios são envolvidos por <b>células gliais olfatórias</b> e formam fascículos nervosos, os <b><i>fila olfactoria</i></b>, que atravessam a lâmina cribriforme."
+                    ],
+                    "guid": "uTDof*y[Q4",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Olfatorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Epitélio olfatório — qual a função das células basais? (📎)",
+                        "São <b>células-tronco</b> que permitem a renovação dos neurônios olfatórios ao longo da vida."
+                    ],
+                    "guid": "JuL5OOiRGd",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Olfatorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lâmina própria olfatória — que imunoglobulina é secretada para o lúmen da glândula de Bowman e por qual célula?",
+                        "<b>IgA</b>, secretada por <b>plasmócitos</b>."
+                    ],
+                    "guid": "O;?#b|-1@)",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Olfatorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Epitélio olfatório × respiratório — como distingui-los em lâmina?",
+                        "<b>O respiratório tem cílios e caliciformes. O olfatório não tem caliciformes e a lâmina própria tem glândulas de Bowman e fila olfactoria.</b><br><br>O olfatório é um neuroepitélio (sensorial), mais espesso e com neurônios bipolares. O respiratório é um epitélio de revestimento ciliado."
+                    ],
+                    "guid": "mF;E><v$N2",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Olfatorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lâmina cribriforme do etmoide — por que um trauma nessa região pode causar perda do olfato? (📎 correlação)",
+                        "Porque os <b>fila olfactoria</b> (axônios dos neurônios olfatórios) <b>atravessam a lâmina cribriforme</b> para chegar ao bulbo olfatório. A lesão da lâmina pode seccionar esses axônios (anosmia)."
+                    ],
+                    "guid": "PhWQE<]D66",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Epitelio_Olfatorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Faringe — como é definida e quais são as suas partes?",
+                        "<b>Tubo fibromuscular comum aos sistemas respiratório e digestório.</b><br><br>Partes: <b>nasofaringe</b> (parte nasal), <b>orofaringe</b> (parte oral) e <b>laringofaringe</b> (hipofaringe, parte laríngea). Continua com o esôfago abaixo."
+                    ],
+                    "guid": "PuAP02tSc0",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Faringe"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nasofaringe — qual o epitélio, o tecido de sustentação e que estrutura linfoide está presente?",
+                        "Epitélio respiratório sobre <b>tecido conjuntivo frouxo</b>, com <b>nódulos linfoides = tonsila faríngea</b>."
+                    ],
+                    "guid": "E~M:57[ofc",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Faringe"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Faringe — onde ficam as tonsilas faríngea, palatina e lingual?",
+                        "Faríngea: nasofaringe. Palatina: orofaringe (entre os arcos palatoglosso e palatofaríngeo). Lingual: raiz da língua (folículos linguais)."
+                    ],
+                    "guid": "lTT*mORu?e",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Faringe"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nasofaringe — que estruturas de comunicação estão na sua parede/limite anterior?",
+                        "<b>Coanas</b> (comunicação com a cavidade nasal) e <b>óstio faríngeo da tuba auditiva</b> com o torus tubal."
+                    ],
+                    "guid": "u=l0o$3wv&",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Faringe"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Orofaringe — o que se vê ao abrir a boca e examinar a garganta?",
+                        "Palato mole, <b>úvula</b>, arcos palatoglosso e palatofaríngeo, <b>tonsila palatina</b> e a parede posterior da faringe."
+                    ],
+                    "guid": "z~1FDFZ#9b",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Faringe"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Faringe — por que a nasofaringe tem epitélio respiratório e a orofaringe/laringofaringe, não? (📎)",
+                        "Nasofaringe só conduz ar, então mantém o epitélio respiratório. Orofaringe e laringofaringe também recebem alimento e têm <b>epitélio estratificado pavimentoso não queratinizado</b>, resistente ao atrito."
+                    ],
+                    "guid": "K*D-+-W|4y",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Faringe"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Faringe — o slide de corte sagital traz \"De C4 a C6\". A qual estrutura esse intervalo corresponde de fato? (⚠️)",
+                        "<b>À laringe. A faringe vai da base do crânio até C6.</b><br><br>O mesmo \"De C4 a C6\" aparece nos slides da laringe. Vale confirmar com o professor."
+                    ],
+                    "guid": "k8]Sn@<1tc",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Faringe"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tonsila faríngea — o que acontece se aumentar muito? (📎)",
+                        "Forma as <b>adenoides</b>, que podem <b>obstruir a nasofaringe</b> (respiração bucal) e o óstio da tuba auditiva."
+                    ],
+                    "guid": "M^W/2*g^|u",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Faringe"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Laringe — qual a localização vertebral e quais são as três divisões?",
+                        "<b>C4 a C6. Divisões: supraglote, glote e subglote.</b><br><br>É o portão entre a faringe e a traqueia e tem um esqueleto de cartilagens unido por membranas, ligamentos e músculos."
+                    ],
+                    "guid": "I9bH+`{7^L",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Laringe"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Laringe — quais os elementos de cada divisão?",
+                        "<b>Supraglote: epiglote, cordas falsas e ventrículos. Glote: cordas vocais e comissuras anterior e posterior. Subglote: abaixo das cordas vocais (cartilagem cricóide).</b><br><br><img src=\"laringe_divisoes.jpg\">"
+                    ],
+                    "guid": "dS;KKAZ!n}",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Laringe"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Laringe — quais as cartilagens e o osso que aparecem nas vistas anterior e posterior?",
+                        "Osso <b>hioide</b> (acima), <b>epiglote</b>, cartilagem <b>tireóidea</b> (lâmina, corno superior, corno inferior, incisura tireóidea superior), <b>cricóide</b>, <b>aritenóide</b> e <b>corniculada</b>. Ligamentos e membranas: <b>tíreo-hióidea</b>, <b>cricotireóideo</b> e <b>vocal</b>."
+                    ],
+                    "guid": "QdHHl.@(*a",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Laringe"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Laringe — quais são os dois pares de pregas internas e onde ficam em relação ao ventrículo?",
+                        "<b>Pregas vestibulares</b> (cordas falsas), acima, e <b>pregas vocais</b> (cordas verdadeiras), abaixo, com o <b>ventrículo da laringe</b> entre elas."
+                    ],
+                    "guid": "dgaNc|4H-0",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Laringe"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Epiglote — qual o epitélio e o que há na lâmina própria em cada face?",
+                        "Face <b>lingual</b>: estratificado pavimentoso. Face <b>faríngea/laríngea</b>: pseudoestratificado ciliado. Eixo de <b>cartilagem elástica</b>, lâmina própria frouxa com <b>fibras elásticas</b> e <b>glândulas seromucosas tubuloacinares</b>."
+                    ],
+                    "guid": "HSu]2~}1K.",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Laringe"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Prega vestibular × prega vocal — compare epitélio e estruturas associadas.",
+                        "<b>Vestibular: epitélio pseudoestratificado ciliado, músculo ventricular e glândulas seromucosas. Vocal: epitélio estratificado pavimentoso, ligamento vocal e músculo vocal (estriado).</b><br><br>Subglote: pseudoestratificado ciliado, glândulas seromucosas e cartilagem cricóide."
+                    ],
+                    "guid": "Q*3(1b8Ju/",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Laringe"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Laringe — por que a prega vocal verdadeira e a face lingual da epiglote têm epitélio estratificado pavimentoso, e o resto tem epitélio respiratório?",
+                        "<b>Porque sofrem atrito (vibração e contato com o alimento).</b><br><br>O estratificado pavimentoso resiste ao desgaste. Onde só passa ar, mantém-se o epitélio respiratório (ciliado)."
+                    ],
+                    "guid": "jKKP|8JIzc",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Laringe"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cartilagens da laringe — qual tipo de cartilagem forma a epiglote e qual forma a tireóidea e a cricóide? (📎)",
+                        "Epiglote (e corniculada): <b>cartilagem elástica</b>. Tireóidea, cricóide e a maior parte da aritenóide: <b>cartilagem hialina</b>."
+                    ],
+                    "guid": "CLdrE#py;=",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Laringe"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Traqueia — onde começa e termina, quantos anéis possui e como são esses anéis?",
+                        "<b>Da laringe até T5, com 16 a 20 anéis de cartilagem hialina em forma de C.</b><br><br>As extremidades abertas voltam-se para o esôfago (parede posterior). Ao final ela se divide em brônquios de 1ª ordem, depois lobares e segmentares.<br><img src=\"traqueia_anatomia.jpg\">"
+                    ],
+                    "guid": "Idvbah^uG1",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Traqueia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Traqueia — quais as camadas e o que cada uma contém, segundo o slide?",
+                        "<b>Mucosa</b>: epitélio respiratório e lâmina própria. <b>Submucosa</b>: glândulas seromucosas e (no slide) o anel cartilaginoso. <b>Adventícia</b>: conjuntivo com tecido adiposo e nervo vago."
+                    ],
+                    "guid": "t#U8hFydpU",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Traqueia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Traqueia — qual o epitélio de revestimento?",
+                        "Epitélio tipo respiratório: <b>pseudoestratificado cilíndrico ciliado com células caliciformes</b>."
+                    ],
+                    "guid": "l*766&6}g!",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Traqueia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Traqueia — que estrutura fecha a parede posterior e o que ela faz?",
+                        "O <b>músculo traqueal</b> (liso), que <b>achata a parede posterior</b> entre as extremidades abertas dos anéis."
+                    ],
+                    "guid": "Jsec(qu1)1",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Traqueia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Traqueia (HE, corte transversal) — <img src=\"card_traqueia_he.jpg\"><br>o que é a faixa espessa e arroxeada marcada com C e o que é a camada interna marcada com M?",
+                        "C: <b>anel de cartilagem hialina</b> (em C). M: <b>mucosa</b> (epitélio respiratório + lâmina própria)."
+                    ],
+                    "guid": "pF]dkL>yqe",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Traqueia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Traqueia — por que os anéis de cartilagem são em C (abertos atrás) e não anéis completos?",
+                        "<b>Porque o esôfago está logo atrás: a parede posterior mole (músculo traqueal) deixa o esôfago se distender na passagem do alimento.</b><br><br>A cartilagem mantém a luz sempre aberta na frente e nos lados, e o músculo liso ainda permite ajustar o calibre."
+                    ],
+                    "guid": "n9VlX<l%uc",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Traqueia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Traqueia — o slide põe o anel cartilaginoso na submucosa. O que muitos livros dizem diferente? (⚠️)",
+                        "Em muitos livros (ex.: Junqueira) as camadas são <b>mucosa, submucosa, cartilaginosa e adventícia</b>, com a cartilagem <b>fora</b> da submucosa. É uma diferença de classificação, então siga o que o professor ensina."
+                    ],
+                    "guid": "e<)<a|$L+^",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Traqueia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Face — de onde vêm as células que formam o aparelho faríngeo e a face e quando isso ocorre?",
+                        "<b>Da migração de células da crista neural, na 4ª semana.</b><br><br>Na cabeça e no pescoço, <b>células da crista neural + mesênquima = ectomesênquima</b>, que forma o aparelho faríngeo."
+                    ],
+                    "guid": "vF`j#*,:px",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Face"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Arco faríngeo típico — quais são os 4 componentes?",
+                        "<b>Artéria, cartilagem, músculo e nervo</b>."
+                    ],
+                    "guid": "G)$](`2-fp",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Face"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Arco faríngeo — como ele é revestido por fora e por dentro e o que há entre os arcos?",
+                        "Por fora, <b>epitélio ectodérmico</b> e entre os arcos as <b>fendas faríngeas</b>. Por dentro, <b>epitélio endodérmico</b> e entre os arcos as <b>bolsas faríngeas</b>. Centro de <b>mesênquima</b>.<br><img src=\"arco_faringeo.jpg\">"
+                    ],
+                    "guid": "QUPFvo;sJY",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Face"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Face — de onde vem a organização dos 5 primórdios faciais?",
+                        "Dos <b>centros organizadores do prosencéfalo e do rombencéfalo</b>."
+                    ],
+                    "guid": "r^V_,l@GX)",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Face"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Face na 4ª semana (24º a 38º dia) — quais são as saliências e a depressão que a formam?",
+                        "<b>Saliência frontonasal (1), saliências maxilares (par), saliências mandibulares (par) e estomodeu.</b><br><br>Frontonasal + 2 maxilares + 2 mandibulares = os <b>5 primórdios</b> da face."
+                    ],
+                    "guid": "lBmKH]Jzv~",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Face"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Face embrionária (vista frontal) — <img src=\"card_face_primordios.jpg\"><br>nomeie, de cima para baixo, as 4 estruturas coloridas apontadas pelas linhas e a depressão central. Quais são primórdios da face?",
+                        "<b>Processo frontal, (cavidade bucal = estomodeu), processo maxilar, arco mandibular e arco hióide.</b><br><br>Cores: frontal rosa, maxilar amarelo, mandibular azul e arco hióide amarelo inferior. São primórdios da face o frontal (frontonasal), o maxilar e o mandibular. O <b>arco hióide</b> é outro arco faríngeo e não é um dos 5 primórdios faciais."
+                    ],
+                    "guid": "fJ;,fOgVUg",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Face"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Saliência frontonasal — quais as duas partes e o que cada uma forma?",
+                        "Parte <b>frontal</b>: a <b>testa</b>. Parte <b>nasal</b>: o limite frontal do estomodeu e o <b>nariz</b>."
+                    ],
+                    "guid": "f/HVD}`cD*",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Face"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Proeminência frontonasal — o que originam os processos nasais laterais e os mediais?",
+                        "Laterais: <b>asas do nariz</b>. Mediais: <b>septo nasal</b> e <b>segmento intermaxilar</b>. A frontonasal também origina a testa e o ápice do nariz."
+                    ],
+                    "guid": "wOQM/NQjik",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Face"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Segmento intermaxilar — quais estruturas origina?",
+                        "<b>Filtro do lábio</b>, <b>pré-maxila</b> e <b>palato primário</b>."
+                    ],
+                    "guid": "vcU[H2y:P%",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Face"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Proeminências maxilares — quais estruturas originam?",
+                        "Partes superiores das <b>bochechas</b>, <b>lábio superior</b> e <b>palato secundário</b>."
+                    ],
+                    "guid": "hMX[o_YjM=",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Face"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Proeminências mandibulares — quais estruturas originam?",
+                        "Partes inferiores das <b>bochechas</b>, <b>lábio inferior</b> e <b>queixo</b>."
+                    ],
+                    "guid": "KW{kBu93[~",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Face"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Face — de qual proeminência vêm: asas do nariz, filtro do lábio, palato secundário e queixo?",
+                        "Asas do nariz: frontonasal (processos nasais laterais). Filtro do lábio: frontonasal (segmento intermaxilar, dos processos nasais mediais). Palato secundário: maxilares. Queixo: mandibulares."
+                    ],
+                    "guid": "eJnW@GT]46",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Face"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nariz e cavidade nasal — qual a sequência de formação a partir do placódio nasal?",
+                        "<b>Placódio nasal, fosseta nasal, saco nasal e depois narina/cavidade nasal.</b><br><br>O placódio (ectoderma) afunda em fosseta enquanto o mesênquima das margens forma as saliências nasais medial e lateral. A fosseta se aprofunda em saco nasal, primórdio da cavidade nasal."
+                    ],
+                    "guid": "N8Mn_^S3>N",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Nariz"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Placódio nasal — o que é e quando aparece?",
+                        "Espessamentos ovais bilaterais de <b>ectoderma superficial</b>, no final da <b>4ª semana</b>, nas paredes da saliência frontonasal. São os primórdios do nariz e das cavidades nasais."
+                    ],
+                    "guid": "bl<RJx_,WI",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Nariz"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Formação do nariz — o que o mesênquima das margens do placódio faz?",
+                        "Prolifera e produz as <b>saliências nasais mediais e laterais</b>, deixando o placódio no fundo da <b>fosseta nasal</b> (primórdio das narinas e das cavidades nasais)."
+                    ],
+                    "guid": "hug/~EJbF^",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Nariz"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Formação do nariz (MEV) — <img src=\"card_saliencias_nasais.jpg\"><br>nomeie as saliências que contornam cada fosseta nasal e diga de qual estrutura da face adulta cada uma participa.",
+                        "<b>Saliências nasais mediais e laterais.</b><br><br>Mediais (mais próximas da linha média): septo nasal e segmento intermaxilar. Laterais: asas do nariz."
+                    ],
+                    "guid": "Fy5YFe[VMd",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Nariz"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Segmento intermaxilar — entre quais semanas se forma e o que origina?",
+                        "Entre a <b>7ª e a 10ª semana</b>. Origina a <b>parte central do lábio superior</b>, a <b>parte pré-maxilar da maxila</b> com a gengiva associada e o <b>palato primário</b>."
+                    ],
+                    "guid": "O9Ta$aB@pu",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Nariz"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cavidade nasal embrionária — qual a sequência fosseta, saco nasal, membrana oronasal e coana primitiva com os respectivos momentos?",
+                        "<b>Fosseta (final da 5ª semana), saco nasal (final da 6ª), membrana oronasal (6ª semana) que se rompe e dá coana primitiva (7ª).</b><br><br>Com a ruptura da membrana oronasal, as cavidades nasal e oral passam a se comunicar pelas coanas primitivas."
+                    ],
+                    "guid": "ke5$8uBiUw",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Nariz"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cavidade nasal embrionária — o que a ruptura da membrana oronasal permite?",
+                        "Surgem as <b>coanas primitivas</b> e a <b>comunicação entre as cavidades nasal e oral</b>."
+                    ],
+                    "guid": "DF9&|x/tO-",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Nariz"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coanas — onde as reencontramos no adulto e como se relacionam com o palato? (📎)",
+                        "Como <b>coanas definitivas</b>, no limite entre cavidade nasal e <b>nasofaringe</b>. Com a formação do palato secundário, as coanas primitivas passam a ser definitivas."
+                    ],
+                    "guid": "xfie+^xX/g",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Nariz"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Palato — qual a diferença entre palato primário e secundário na origem?",
+                        "<b>Primário = segmento intermaxilar (processo palatino mediano). Secundário = processos palatinos laterais.</b><br><br>O secundário origina as partes dura e mole do palato."
+                    ],
+                    "guid": "P#33hmY|%T",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Palato"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Palatogênese — qual a cronologia e qual o período crítico?",
+                        "Começa no <b>final da 5ª semana</b> e termina na <b>12ª semana</b>. O <b>período crítico</b> vai do <b>final da 6ª ao início da 9ª semana</b>."
+                    ],
+                    "guid": "c7FU^sNn(W",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Palato"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Palato secundário — o que acontece com as prateleiras palatinas da 7ª à 10ª semana?",
+                        "<b>7ª</b>: crescem verticalmente ao lado da língua, e o septo nasal cresce de cima. <b>8ª</b>: reorientam-se horizontalmente e se aproximam. <b>10ª</b>: estão fundidas entre si e com o septo, com formação do <b>forame incisivo</b> e das <b>coanas definitivas</b>."
+                    ],
+                    "guid": "QYvD-|N_3v",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Palato"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fusão das prateleiras palatinas — quais as 3 etapas e o que acontece com os epitélios e mesênquimas?",
+                        "<b>Aproximação, epitélios em contato sem fusão, desintegração dos epitélios e união dos mesênquimas.</b><br><br>As prateleiras (processos palatinos laterais) têm mesênquima coberto por epitélio sobre membrana basal.<br><img src=\"palato_fusao.jpg\">"
+                    ],
+                    "guid": "d#Z(euq5U0",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Palato"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Palatogênese — por que existe um período crítico e o que a falha na fusão causa? (📎 correlação)",
+                        "É a janela em que as prateleiras precisam se encontrar e fundir (final da 6ª ao início da 9ª semana). Se a fusão falha, surge <b>fenda palatina</b>. Falha entre segmento intermaxilar e saliências maxilares causa <b>fenda labial</b>."
+                    ],
+                    "guid": "Pq:!?*f/.`",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Embriologia_Palato"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vias aéreas superiores — por que o epitélio muda do respiratório para o estratificado pavimentoso em vestíbulo nasal, face lingual da epiglote e prega vocal?",
+                        "<b>Porque nesses locais há atrito (exposição externa, alimento ou vibração).</b><br><br>Onde o ar só passa e precisa ser condicionado (área respiratória, nasofaringe, prega vestibular, subglote, traqueia), mantém-se o epitélio respiratório. A área olfativa é a exceção sensorial (neuroepitélio)."
+                    ],
+                    "guid": "Pz2b:yRldr",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Integracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cavidade nasal — da narina até a faringe, qual o revestimento em cada trecho que o ar atravessa?",
+                        "Vestíbulo: estratificado pavimentoso queratinizado com pelos. Área respiratória: epitélio respiratório. Nasofaringe: epitélio respiratório com tonsila faríngea. A área olfativa fica no teto e não está na rota principal do ar."
+                    ],
+                    "guid": "H<:,sTS;UH",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Integracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fenda labial e palatina — qual conceito embriológico unifica essas malformações e quais estruturas estão envolvidas? (📎)",
+                        "<b>Falha na fusão de saliências.</b><br><br>Lábio: segmento intermaxilar (processos nasais mediais) com as saliências maxilares. Palato: prateleiras palatinas (processos palatinos laterais) entre si e com o septo. Janela crítica: final da 6ª ao início da 9ª semana."
+                    ],
+                    "guid": "rjwC<^k,`]",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA::Integracao"
                     ]
                 }
             ],
