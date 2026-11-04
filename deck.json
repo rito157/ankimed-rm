@@ -78384,6 +78384,119 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+                "A24_perg.jpg",
+                "A24_resp.jpg",
+                "A25_perg.jpg",
+                "A25_resp.jpg",
+                "A26_perg.jpg",
+                "A26_resp.jpg",
+                "A27_perg.jpg",
+                "A27_resp.jpg",
+                "A28_perg.jpg",
+                "A28_resp.jpg",
+                "A29_perg.jpg",
+                "A29_resp.jpg",
+                "A30_perg.jpg",
+                "A30_resp.jpg",
+                "A31_perg.jpg",
+                "A31_resp.jpg",
+                "A32_perg.jpg",
+                "A32_resp.jpg",
+                "A35_perg.jpg",
+                "A35_resp.jpg",
+                "A39a_perg.jpg",
+                "A39a_resp.jpg",
+                "A39b_perg.jpg",
+                "A39b_resp.jpg",
+                "A41_perg.jpg",
+                "A41_resp.jpg",
+                "A48_perg.jpg",
+                "A48_resp.jpg",
+                "A60_perg.jpg",
+                "A60_resp.jpg",
+                "A71_perg.jpg",
+                "A71_resp.jpg",
+                "A77_perg.jpg",
+                "A77_resp.jpg",
+                "A78_perg.jpg",
+                "A78_resp.jpg",
+                "A82_perg.jpg",
+                "A82_resp.jpg",
+                "A85_perg.jpg",
+                "A85_resp.jpg",
+                "A86_perg.jpg",
+                "A86_resp.jpg",
+                "P03.jpg",
+                "P04.jpg",
+                "P06.jpg",
+                "P07.jpg",
+                "P08.jpg",
+                "P09.jpg",
+                "P10.jpg",
+                "P11.jpg",
+                "P12.jpg",
+                "P13.jpg",
+                "P14.jpg",
+                "P15.jpg",
+                "P16.jpg",
+                "P17.jpg",
+                "P18.jpg",
+                "P19.jpg",
+                "P20.jpg",
+                "P21.jpg",
+                "P22.jpg",
+                "P23.jpg",
+                "P34.jpg",
+                "P36.jpg",
+                "P37.jpg",
+                "P38.jpg",
+                "P40.jpg",
+                "P42.jpg",
+                "P43.jpg",
+                "P44.jpg",
+                "P45.jpg",
+                "P46.jpg",
+                "P47.jpg",
+                "P49.jpg",
+                "P50.jpg",
+                "P52.jpg",
+                "P53.jpg",
+                "P54.jpg",
+                "P55.jpg",
+                "P56.jpg",
+                "P57.jpg",
+                "P58.jpg",
+                "P59.jpg",
+                "P61.jpg",
+                "P62.jpg",
+                "P63.jpg",
+                "P64.jpg",
+                "P65.jpg",
+                "P66.jpg",
+                "P67.jpg",
+                "P68.jpg",
+                "P69.jpg",
+                "P70.jpg",
+                "P72.jpg",
+                "P73.jpg",
+                "P74.jpg",
+                "P75.jpg",
+                "P76.jpg",
+                "P79.jpg",
+                "P80.jpg",
+                "P81.jpg",
+                "P83.jpg",
+                "P84.jpg",
+                "R04a.jpg",
+                "R06.jpg",
+                "R07.jpg",
+                "R08.jpg",
+                "R09.jpg",
+                "R10.jpg",
+                "R11.jpg",
+                "R12.jpg",
+                "R14.jpg",
+                "R15.jpg",
                 "cardio_A_perg.jpg",
                 "cardio_A_resp.jpg",
                 "cardio_B_perg.jpg",
@@ -78915,7 +79028,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Região inguinal e coxa proximal (vasos) — identifique as estruturas legendadas<br><img src=\"cardio_p20_1_perg.jpg\">",
-                        "<img src=\"cardio_p20_1_resp.jpg\"><br><br><b>Legendas:</b><br>• Artéria ilíaca externa<br>• Veia ilíaca externa<br>• Artéria femoral<br>• Artéria epigástrica (na sua anotação: \"superior\")<br>• Veia femoral<br>• Artéria femoral profunda<br>• Veia femoral profunda<br><br>⚠️ ATENÇÃO: nessa região (acima do ligamento inguinal, saindo da ilíaca externa) a artéria é a epigástrica inferior. A epigástrica superior é a continuação da torácica interna, na parede anterior do tórax/abdome. Confirmar com o professor."
+                        "<img src=\"cardio_p20_1_resp.jpg\"><br><br><b>Legendas:</b><br>• Artéria ilíaca externa<br>• Veia ilíaca externa<br>• Artéria femoral<br>• Artéria epigástrica inferior (na sua anotação estava como superior)<br>• Veia femoral<br>• Artéria femoral profunda<br>• Veia femoral profunda<br><br>✔ Confirmado pelo roteiro da disciplina: ilíaca externa dá a epigástrica inferior. A epigástrica superior é ramo da torácica interna, na parede anterior do tórax e abdome."
                     ],
                     "guid": "ox2we7HB/T",
                     "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
@@ -79065,6 +79178,1230 @@
                     "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
                     "tags": [
                         "M2::ANATOMIA::Cardio_TC_Torax"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mediastino — qual plano divide em superior e inferior, e o que contém cada divisão?",
+                        "<img src=\"cardio_p11_2_resp.jpg\"><br><br><b>Resumo: o plano transverso que passa pelo ângulo esternal e pelo disco entre T4 e T5 divide o mediastino em superior e inferior. O inferior é subdividido pelo pericárdio em anterior (à frente), médio (o próprio pericárdio com o coração) e posterior (atrás).</b><br><br>• Superior: timo, veia cava superior e braquiocefálicas, arco da aorta e seus ramos (tronco braquiocefálico, carótida comum esquerda, subclávia esquerda), nervos frênicos e vagos, traqueia, esôfago, ducto torácico<br>• Anterior: porção inferior do timo, linfonodos paraesternais, gordura, vasos torácicos internos<br>• Médio: coração e pericárdio, nervos frênicos, vasos pericardiofrênicos, raiz do pulmão, porção inicial da aorta, do tronco pulmonar e da veia cava superior<br>• Posterior: esôfago, aorta torácica, veia ázigo e hemiázigos, ducto torácico, nervos vagos, tronco simpático<br><br>⚠️ ATENÇÃO: sua anotação coloca os brônquios principais no mediastino posterior, mas o material de mediastino e a conferência da profa. Denise (pasta do Drive) não os incluem nessa lista, e a apostila de 2014 os põe no superior junto da traqueia. Confirmar com o professor."
+                    ],
+                    "guid": "L-xy+)K%x,",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Mediastino"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pericárdio — quais são as camadas, a cavidade e os seios?",
+                        "<b>Pericárdio fibroso (externo, inelástico) e pericárdio seroso (lâmina parietal e lâmina visceral, que é o epicárdio). Entre as duas lâminas serosas fica a cavidade pericárdica, com líquido que reduz o atrito. Os seios são o transverso (atrás da aorta e do tronco pulmonar) e o oblíquo (atrás do átrio esquerdo, entre as veias pulmonares).</b><br><br>Camadas da parede do coração: epicárdio, miocárdio e endocárdio.<br>Seio transverso: por ele se passa o clampe nas cirurgias para bloquear a aorta e o tronco pulmonar (circulação extracorpórea). Seio oblíquo: sem importância cirúrgica, o esôfago fica logo atrás.<br>Clínica: acúmulo de líquido ou sangue na cavidade pericárdica comprime o coração (tamponamento), as veias ficam ingurgitadas e a pressão arterial cai. A pericardiocentese drena."
+                    ],
+                    "guid": "r6OjFBs(PP",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Pericardio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (morfologia externa) — o que forma a base, o ápice, as faces e as margens, e quais são os sulcos?",
+                        "<b>A base é formada pelos átrios (entram as veias cavas e pulmonares) e o ápice pelo ventrículo esquerdo (onde se sente o batimento apical). Face esternocostal: ventrículo direito. Face diafragmática: ventrículos esquerdo e direito. Face pulmonar direita: átrio direito. Face pulmonar esquerda: ventrículo esquerdo.</b><br><br>Margem direita: átrio direito. Margem inferior: ventrículo direito e parte do esquerdo. Margem esquerda: ventrículo esquerdo e parte do átrio esquerdo. Margem superior: átrios, aurículas e grandes vasos.<br>Sulcos: coronário (atrioventricular), interventricular anterior, interventricular posterior e interatrial."
+                    ],
+                    "guid": "i^$P>UV2UR",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Externo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Valvas cardíacas — quantas cúspides tem cada uma, como se chamam, e quais músculos papilares ficam em cada ventrículo?",
+                        "<b>Tricúspide (AV direita): 3 cúspides, anterior, posterior e septal. Mitral (bicúspide, AV esquerda): 2 cúspides, anterior e posterior. Aórtica: 3 válvulas semilunares, direita, esquerda e posterior. Pulmonar: 3 válvulas semilunares, direita, esquerda e anterior.</b><br><br>Músculos papilares: ventrículo direito tem anterior, posterior e septal. Ventrículo esquerdo tem anterior e posterior. As cordas tendíneas ligam os papilares às cúspides das valvas AV.<br>Seios aórticos (de Valsalva): ficam atrás das válvulas da aórtica. O óstio da coronária direita sai do seio da válvula direita e o da coronária esquerda, do seio da válvula esquerda."
+                    ],
+                    "guid": "JF_O$i8-k_",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Interno"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Artérias frênicas — de qual porção da aorta saem as superiores e as inferiores?",
+                        "<b>Frênicas superiores saem da aorta torácica. Frênicas inferiores saem da aorta abdominal, logo após o hiato aórtico e perto do tronco celíaco.</b><br><br>Roteiro da disciplina: porção torácica = intercostais posteriores e frênicas superiores. Porção abdominal = frênicas inferiores, tronco celíaco, mesentérica superior e inferior, supra-renal média, renais, gonadais, lombares e sacral mediana.<br><br>⚠️ ATENÇÃO: sua anotação diz que as frênicas saem da aorta torácica imediatamente antes do tronco celíaco. Pelo roteiro e pela apostila da pasta, as que ficam logo antes do celíaco são as inferiores e são abdominais."
+                    ],
+                    "guid": "BZTJpD#{$D",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Aorta_Ramos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração — artérias coronárias: como se organizam e quais são os ramos principais de cada uma?",
+                        "<b>Resumo: duas coronárias saem da aorta ascendente — a direita (ACD) e a esquerda (ACE) — e irrigam o coração pelos sulcos.</b><br><br>ACD (sulco coronário): ramo do nó sinoatrial, artéria infundibular, ramo marginal direito, ramo interventricular posterior (e ramo posterior do ventrículo esquerdo).<br>ACE: ramo interventricular anterior (com ramos diagonais) e ramo circunflexo (com a marginal esquerda e o ramo posterior do ventrículo esquerdo).<br><br>📎 Resumo de orientação feito a partir das legendas dos slides e do roteiro — use como mapa antes dos cards de imagem."
+                    ],
+                    "guid": "w$eX%)AnL=",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração e grandes vasos (face anterior) — identifique as estruturas marcadas (números vermelhos)<br><img src=\"P03.jpg\">",
+                        "<img src=\"P03.jpg\"><br><br><b>Legendas:</b><br>• 1: Tronco braquiocefálico<br>• 2: Artéria carótida comum esquerda<br>• 3: Artéria subclávia esquerda<br>• 4: Aorta (arco)<br>• 5: Tronco pulmonar<br>• 6: Artéria coronária esquerda<br>• 7: Artéria interventricular anterior<br>• 8: Artéria diagonal"
+                    ],
+                    "guid": "GvzL6_(_cF",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Externo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração — vasos da base: identifique as estruturas marcadas (números)<br><img src=\"P04.jpg\">",
+                        "<img src=\"P04.jpg\"><br><br><b>Legendas:</b><br>• 1: Artéria pulmonar direita<br>• 2: Veia cava superior<br>• 3: Artéria pulmonar esquerda<br>• 4: Veia pulmonar superior direita"
+                    ],
+                    "guid": "gr(i=`d~WM",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Externo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração e vasos da base (visão anterior) — identifique as estruturas marcadas (números)<br><img src=\"P16.jpg\">",
+                        "<img src=\"P16.jpg\"><br><br><b>Legendas:</b><br>• 1: Artéria interventricular anterior<br>• 2: Tronco pulmonar<br>• 3: Arco aórtico<br>• 4: Artéria coronária direita<br>• 5: Ramos diagonais<br>• 6: Artéria pulmonar esquerda<br>• 7: Artéria pulmonar direita<br>• 8: Tronco braquiocefálico<br>• 9: Carótida comum esquerda<br>• 10: Artéria subclávia esquerda"
+                    ],
+                    "guid": "pI@]GBIW[i",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Externo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (face anterior) — identifique as estruturas marcadas (números e pino azul)<br><img src=\"P06.jpg\">",
+                        "<img src=\"P06.jpg\"><br><br><b>Legendas:</b><br>• 1: Aurícula esquerda<br>• 2: Artéria interventricular anterior<br>• 3: Artéria diagonal<br>• Azul: Artéria coronária esquerda"
+                    ],
+                    "guid": "C5]PGBJLx&",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração — identifique as estruturas marcadas (cores dos pinos)<br><img src=\"P14.jpg\">",
+                        "<img src=\"P14.jpg\"><br><br><b>Legendas:</b><br>• Azul: Artéria coronária esquerda<br>• Tacha verde: Artéria circunflexa<br>• Pino verde: Veias pulmonares<br>• Azul pequeno: Artéria interventricular anterior"
+                    ],
+                    "guid": "y+7q*NND:Z",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração — identifique as estruturas marcadas (pino azul e número)<br><img src=\"P19.jpg\">",
+                        "<img src=\"P19.jpg\"><br><br><b>Legendas:</b><br>• Bolinha azul: Artéria coronária esquerda<br>• 1: Artéria interventricular anterior e seus ramos"
+                    ],
+                    "guid": "lYJ$!KXr;=",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (face anterior) — identifique as estruturas marcadas (cores dos pinos e número)<br><img src=\"P15.jpg\">",
+                        "<img src=\"P15.jpg\"><br><br><b>Legendas:</b><br>• Amarelo: Aorta<br>• Azul (esquerdo): Artéria coronária direita<br>• Verde claro: Artéria marginal direita<br>• Branco: Átrio direito<br>• Cinza: Artéria interventricular anterior<br>• 1: Artéria infundibular"
+                    ],
+                    "guid": "xZnAXJB$E`",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (face anterior, lado direito) — identifique as estruturas marcadas (cores dos pinos)<br><img src=\"P10.jpg\">",
+                        "<img src=\"P10.jpg\"><br><br><b>Legendas:</b><br>• Amarelo: Tronco pulmonar<br>• Azul: Artéria coronária direita<br>• Verde claro: Artéria marginal direita<br>• Branco: Veia cava"
+                    ],
+                    "guid": "P=[?*UF$xN",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (lado direito) — identifique as estruturas marcadas (cores dos pinos)<br><img src=\"P11.jpg\">",
+                        "<img src=\"P11.jpg\"><br><br><b>Legendas:</b><br>• Amarelo: Aorta<br>• Azul (lado esquerdo da foto): Seio coronário ou Artéria coronária direita (?)<br>• Verde claro: Artéria marginal direita<br>• Azul (lado direito da foto): Artéria interventricular anterior<br><br>⚠️ ATENÇÃO: o slide-fonte não decide entre seio coronário e artéria coronária direita para o pino azul esquerdo."
+                    ],
+                    "guid": "Kg0orDizo@",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração — identifique as estruturas marcadas (cores dos pinos)<br><img src=\"P13.jpg\">",
+                        "<img src=\"P13.jpg\"><br><br><b>Legendas:</b><br>• Prata (superior): Aurícula direita<br>• Branco: Átrio direito<br>• Verde: Artéria interventricular anterior<br>• Prata (inferior): Ventrículo esquerdo"
+                    ],
+                    "guid": "MDxd@1e|rz",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Externo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (face anterior) — identifique as estruturas marcadas (números e pino)<br><img src=\"P23.jpg\">",
+                        "<img src=\"P23.jpg\"><br><br><b>Legendas:</b><br>• 1: Artéria interventricular anterior<br>• 2: Sulco interventricular<br>• 3: Ventrículo direito<br>• 4: Base<br>• 5: Ápice<br>• 6: Aurícula direita<br>• 7: Átrio direito<br>• 8: Tacha verde: Ventrículo esquerdo"
+                    ],
+                    "guid": "sw*},C~#In",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Externo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração — identifique as estruturas marcadas (números)<br><img src=\"P20.jpg\">",
+                        "<img src=\"P20.jpg\"><br><br><b>Legendas:</b><br>• 1: Pericárdio fibroso<br>• 2: Artéria interventricular anterior"
+                    ],
+                    "guid": "cq!p*j:guv",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Externo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração — qual artéria está indicada pelo número 1?<br><img src=\"P21.jpg\">",
+                        "<img src=\"P21.jpg\"><br><br><b>Legendas:</b><br>• 1: Artéria infundibular (ramo da coronária direita para o cone arterial)"
+                    ],
+                    "guid": "pUK0-WDYvN",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (face posterior/diafragmática) — identifique as estruturas marcadas (cores dos pinos)<br><img src=\"P07.jpg\">",
+                        "<img src=\"P07.jpg\"><br><br><b>Legendas:</b><br>• Branco: Veia cava<br>• Pino enferrujado: Artéria interventricular posterior<br>• Pino prata: Artéria posterior do ventrículo esquerdo"
+                    ],
+                    "guid": "PmQ|qm9h{i",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (face posterior) — identifique as estruturas marcadas (cores dos pinos)<br><img src=\"P08.jpg\">",
+                        "<img src=\"P08.jpg\"><br><br><b>Legendas:</b><br>• Verde claro: Veias pulmonares<br>• Tacha verde: Artéria circunflexa<br>• Amarelo: Artéria marginal esquerda<br>• Prata: Artéria posterior do ventrículo esquerdo"
+                    ],
+                    "guid": "vx(yq80{BD",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração — identifique as estruturas marcadas (números)<br><img src=\"P09.jpg\">",
+                        "<img src=\"P09.jpg\"><br><br><b>Legendas:</b><br>• 1: Artéria circunflexa<br>• 2: Artéria marginal (?)<br>• 3: Artéria interventricular posterior (?)<br><br>⚠️ ATENÇÃO: o próprio slide-fonte marca 2 e 3 com \"(?)\" — confira com o professor/roteiro."
+                    ],
+                    "guid": "CAzvTV.LfP",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração — identifique as estruturas marcadas (cores dos pinos)<br><img src=\"P12.jpg\">",
+                        "<img src=\"P12.jpg\"><br><br><b>Legendas:</b><br>• Branco: Veia cava<br>• Preto: Artéria interventricular posterior"
+                    ],
+                    "guid": "i~kt-6QQ/B",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (face posterior) — identifique as estruturas marcadas (números)<br><img src=\"P17.jpg\">",
+                        "<img src=\"P17.jpg\"><br><br><b>Legendas:</b><br>• 1: Artéria coronária direita<br>• 2: Artéria posterior do ventrículo esquerdo<br>• 3: Artéria interventricular posterior"
+                    ],
+                    "guid": "FYF_E}Es3F",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (face posterior) — qual artéria está indicada?<br><img src=\"P18.jpg\">",
+                        "<img src=\"P18.jpg\"><br><br><b>Legendas:</b><br>• Artéria interventricular posterior"
+                    ],
+                    "guid": "v?o@4t0V_|",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração aberto (câmaras direitas e septos) — identifique as estruturas marcadas (pinos e números)<br><img src=\"P22.jpg\">",
+                        "<img src=\"P22.jpg\"><br><br><b>Legendas:</b><br>• Pino prata: Septo interatrial<br>• Branco: Valva mitral<br>• Vermelho: Átrio esquerdo<br>• Rosa: Valva tricúspide<br>• Verde: Cordas tendíneas<br>• Pino enferrujado: Músculo papilar<br>• 1: Septo interventricular<br>• 2: Músculos pectíneos<br>• 3: Septo interatrial<br>• 4: Trabécula septomarginal<br>• 5: Trabéculas cárneas"
+                    ],
+                    "guid": "ms/~n`Vd;.",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Interno"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (face anterior, peça 3D) — identifique todas as estruturas indicadas pelas setas<br><img src=\"A24_perg.jpg\">",
+                        "<img src=\"A24_resp.jpg\"><br><br><b>Legendas:</b><br>• Tronco braquicefálico<br>• Artéria carótida comum esquerda<br>• Artéria subclávia esquerda<br>• Arco da aorta<br>• Aorta descendente<br>• Aorta ascendente<br>• Veia cava superior<br>• Aurícula direita<br>• Aurícula esquerda<br>• Ventrículo direito<br>• Ventrículo esquerdo"
+                    ],
+                    "guid": "t58zo&CD8{",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Externo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (face posterior, peça 3D) — identifique todas as estruturas indicadas pelas setas<br><img src=\"A25_perg.jpg\">",
+                        "<img src=\"A25_resp.jpg\"><br><br><b>Legendas:</b><br>• Átrio esquerdo<br>• Átrio direito<br>• Óstio do seio coronário<br>• Seio coronário<br>• Artéria coronária direita<br>• Ramo interventricular posterior<br>• Ramo marginal direito<br>• Ventrículo esquerdo<br>• Ventrículo direito"
+                    ],
+                    "guid": "O|U?|W;jg&",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração e grandes vasos (visão posterior, peça 3D) — identifique todas as estruturas indicadas pelas setas<br><img src=\"A26_perg.jpg\">",
+                        "<img src=\"A26_resp.jpg\"><br><br><b>Legendas:</b><br>• Arco da aorta<br>• Aorta ascendente<br>• Veia cava superior<br>• Tronco pulmonar<br>• Veias pulmonares (pulmão esquerdo)<br>• Veias pulmonares (pulmão direito)<br>• Átrio esquerdo<br>• Átrio direito<br>• Veia cava inferior"
+                    ],
+                    "guid": "Dtndwi3rY^",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Externo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (ventrículo direito aberto, peça 3D) — identifique todas as estruturas indicadas pelas setas<br><img src=\"A27_perg.jpg\">",
+                        "<img src=\"A27_resp.jpg\"><br><br><b>Legendas:</b><br>• Tronco pulmonar<br>• Ventrículo direito<br>• Epicárdio<br>• Endocárdio<br>• Miocárdio<br><br>Camadas da parede cardíaca: epicárdio (externa) → miocárdio (média) → endocárdio (interna)."
+                    ],
+                    "guid": "whvuyudnn:",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Interno"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (face esternocostal, fotografia) — identifique todas as estruturas indicadas pelas setas<br><img src=\"A28_perg.jpg\">",
+                        "<img src=\"A28_resp.jpg\"><br><br><b>Legendas:</b><br>• Veia cava<br>• Veia pulmonar<br>• Sulco coronário<br>• Sulco interventricular subsinuoso (posterior)"
+                    ],
+                    "guid": "m/67pj&b|;",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Externo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (corte longitudinal, câmaras esquerdas e direitas) — identifique as estruturas indicadas<br><img src=\"A29_perg.jpg\">",
+                        "<img src=\"A29_resp.jpg\"><br><br><b>Legendas:</b><br>• Músculo pectíneo<br>• Átrio direito<br>• Veia atrioventricular direita ou valva tricúspide<br>• Ventrículo direito<br>• Septo interventricular<br>• Ventrículo esquerdo<br>• Cordas tendíneas<br>• Uma das válvulas semilunares da aorta<br><br>⚠️ ATENÇÃO: legendas conforme impressas no slide (texto girado). O slide diz \"Veia atrioventricular direita ou valva tricúspide\" — o termo correto é valva atrioventricular direita (tricúspide). Parede do ventrículo direito é mais delgada, a do esquerdo mais espessa."
+                    ],
+                    "guid": "uY?Q8+^9j0",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Interno"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (vista anterior, desenho) — identifique todas as estruturas indicadas<br><img src=\"A30_perg.jpg\">",
+                        "<img src=\"A30_resp.jpg\"><br><br><b>Legendas:</b><br>• Tronco braquiocefálico<br>• Veia cava superior<br>• Artéria pulmonar direita<br>• Parte ascendente da aorta<br>• Tronco pulmonar<br>• Veias pulmonares direitas<br>• Átrio direito<br>• Artéria coronária direita (no sulco coronário)<br>• Veias anteriores do ventrículo direito<br>• Ventrículo direito<br>• Ramo marginal direito<br>• Veia cardíaca parva<br>• Veia cava inferior<br>• Artéria carótida comum esquerda<br>• Artéria subclávia esquerda<br>• Arco aórtico<br>• Ligamento arterial<br>• Artéria pulmonar esquerda<br>• Veias pulmonares esquerdas<br>• Átrio esquerdo<br>• Aurícula<br>• Ramo circunflexo<br>• Artéria coronária esquerda (no sulco coronário)<br>• Ventrículo esquerdo<br>• Veia cardíaca magna<br>• Ramo interventricular anterior (no sulco interventricular anterior)<br>• Ápice"
+                    ],
+                    "guid": "i?y,uil)B}",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Externo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (face diafragmática) — artérias coronárias e veias cardíacas: identifique todas as estruturas indicadas<br><img src=\"A31_perg.jpg\">",
+                        "<img src=\"A31_resp.jpg\"><br><br><b>Legendas:</b><br>• Veia oblíqua do átrio esquerdo<br>• Veia cardíaca magna<br>• Ramo circunflexo da artéria coronária esquerda<br>• Seio coronário<br>• Ramo posterior do ventrículo esquerdo<br>• Veia posterior do ventrículo esquerdo<br>• Ramo para o nó sinoatrial (SA) (ramo da veia cava superior)<br>• Nó sinoatrial (SA)<br>• Veia cardíaca parva<br>• Artéria coronária direita<br>• Veia cardíaca média<br>• Ramo marginal direito<br>• Ramo interventricular posterior da artéria coronária direita (artéria descendente posterior)"
+                    ],
+                    "guid": "dt~1zqoz7N",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coração (corte frontal, câmaras e valvas) — identifique todas as estruturas indicadas<br><img src=\"A32_perg.jpg\">",
+                        "<img src=\"A32_resp.jpg\"><br><br>Figura com ~45 legendas (valvas mitral/tricúspide/aórtica, cúspides, septos, músculos papilares, crista supraventricular, cone arterioso, banda moderadora etc.). As legendas completas estão na imagem da resposta."
+                    ],
+                    "guid": "FT9;4VI/xi",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Cardio_Coracao_Interno"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sistema respiratório — qual é o caminho do ar e como a árvore aérea se organiza?",
+                        "<b>Resumo: nariz/seios → faringe → laringe → traqueia → brônquios principais → lobares → segmentares → pulmões.</b><br><br>Cavidade nasal (vestíbulo, conchas e meatos) comunica com os seios paranasais, a faringe é via comum (naso/oro/laringofaringe), a laringe protege a via aérea, a traqueia bifurca na carina em brônquios principais, que dão os lobares (3 à direita, 2 à esquerda) e depois os segmentares.<br><br>📎 Orientação feita por mim a partir do roteiro."
+                    ],
+                    "guid": "gAcOZi@ioI",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pulmões — identifique as estruturas marcadas (números)<br><img src=\"P34.jpg\">",
+                        "<img src=\"P34.jpg\"><br><br><b>Legendas:</b><br>• 1: Ápice<br>• 2: Lobo superior do pulmão direito<br>• 3: Fissura horizontal<br>• 4: Lobo médio do pulmão direito<br>• 5: Fissura oblíqua do pulmão direito<br>• 6: Lobo inferior do pulmão direito<br>• 7: Base<br>• 8: Lobo superior do pulmão esquerdo<br>• 9: Fissura oblíqua<br>• 10: Língula<br>• 11: Lobo inferior do pulmão esquerdo"
+                    ],
+                    "guid": "BG%k~2g627",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lobos pulmonares — identifique os lobos de cada pulmão<br><img src=\"A35_perg.jpg\">",
+                        "<img src=\"A35_resp.jpg\"><br><br><b>Legendas:</b><br>• Pulmão direito: lobo superior, lobo médio, lobo inferior<br>• Pulmão esquerdo: lobo superior, lobo inferior"
+                    ],
+                    "guid": "MJ:p0X;JZ}",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hilos pulmonares (brônquios e vasos) — identifique as estruturas marcadas (números)<br><img src=\"P36.jpg\">",
+                        "<img src=\"P36.jpg\"><br><br><b>Legendas:</b><br>• 1: Brônquio principal esquerdo<br>• 2: Veia pulmonar<br>• 3: Brônquio lobar inferior<br>• 4: Brônquio lobar superior<br>• 5: Artéria pulmonar<br>• 6: Veia pulmonar<br>• 7: Brônquio lobar médio e inferior<br>• 8: Brônquio lobar superior<br>• 9: Artéria pulmonar<br><br>⚠️ ATENÇÃO: legenda copiada do slide-fonte (numeração 1-5 / 6-9 refere-se aos dois hilos), em caso de dúvida compare com os slides 37 e 38."
+                    ],
+                    "guid": "v^BXD~9C^@",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Bronquios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hilo do pulmão esquerdo — identifique as estruturas marcadas (cores dos pinos)<br><img src=\"P37.jpg\">",
+                        "<img src=\"P37.jpg\"><br><br><b>Legendas:</b><br>• Amarelo: Brônquio lobar inferior esquerdo<br>• Branco: Brônquio lobar superior esquerdo"
+                    ],
+                    "guid": "O79l=vKd5U",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Bronquios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hilo do pulmão direito — identifique as estruturas marcadas (números)<br><img src=\"P38.jpg\">",
+                        "<img src=\"P38.jpg\"><br><br><b>Legendas:</b><br>• 1: Brônquio lobar superior<br>• 2: Brônquio lobar inferior e médio<br>• 3: Artéria pulmonar<br>• 4: Veia pulmonar"
+                    ],
+                    "guid": "L]4O$wYjbI",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Bronquios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Traqueia e árvore brônquica — identifique as estruturas marcadas (números e pinos)<br><img src=\"P40.jpg\">",
+                        "<img src=\"P40.jpg\"><br><br><b>Legendas:</b><br>• 1: Traqueia<br>• 2: Brônquio principal direito<br>• 3: Brônquio principal esquerdo<br>• 4: Carina<br>• Pinos enferrujados abaixo do 2: Brônquio lobar superior (dir), Brônquio lobar médio, Brônquio lobar inferior (dir)<br>• Pinos enferrujados abaixo do 3: Brônquio lobar superior (esq), Brônquio lobar inferior (esq)"
+                    ],
+                    "guid": "Pq2s(6Mhj=",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Bronquios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Laringe, traqueia e brônquios — identifique todas as estruturas indicadas<br><img src=\"A41_perg.jpg\">",
+                        "<img src=\"A41_resp.jpg\"><br><br><b>Legendas:</b><br>• Cartilagem tireoidea<br>• Ligamento cricotireóideo<br>• Cartilagem cricoidea<br>• Ligamentos anulares<br>• Cartilagens traqueais<br>• Bifurcação traqueal<br>• Brônquio principal direito<br>• Brônquio lobar superior direito<br>• Cartilagens bronquiais<br>• Brônquio lobar médio direito<br>• Brônquio lobar inferior direito<br>• Brônquio principal esquerdo<br>• Brônquio lobar superior esquerdo<br>• Brônquio lobar inferior esquerdo"
+                    ],
+                    "guid": "M3VR~s6QSy",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Traqueia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pulmão direito (face mediastinal, Kenhub) — identifique todas as estruturas indicadas<br><img src=\"A39a_perg.jpg\">",
+                        "<img src=\"A39a_resp.jpg\"><br><br><b>Legendas:</b><br>• Ápice pulmonar<br>• Lobo superior do pulmão<br>• Artéria pulmonar direita<br>• Veia pulmonar superior direita<br>• Fissura horizontal do pulmão direito<br>• Impressão cardíaca<br>• Lobo médio do pulmão direito<br>• Fissura oblíqua do pulmão<br>• Brônquio lobar superior<br>• Artérias brônquicas<br>• Brônquios lobares médio e inferior<br>• Hilo do pulmão<br>• Veia pulmonar inferior direita<br>• Lobo inferior do pulmão<br><br>Detalhe a conferir na imagem: a figura traz todos os rótulos do pulmão direito."
+                    ],
+                    "guid": "AUT59]f>v{",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pulmão esquerdo (face mediastinal, Kenhub) — identifique todas as estruturas indicadas<br><img src=\"A39b_perg.jpg\">",
+                        "<img src=\"A39b_resp.jpg\"><br><br><b>Legendas:</b><br>• Margem anterior do pulmão<br>• Artéria pulmonar esquerda<br>• Brônquios lobares superior e inferior<br>• Parte vertebral da superfície costal<br>• Superfície mediastinal do pulmão<br>• Veia pulmonar superior esquerda<br>• Margem anterior do pulmão<br>• Veia pulmonar inferior esquerda<br>• Linfonodos pulmonares<br>• Ligamento pulmonar<br>• Impressão cardíaca do pulmão esquerdo<br>• Língula do pulmão esquerdo<br>• Superfície diafragmática do pulmão<br>• Margem inferior do pulmão"
+                    ],
+                    "guid": "i!ZZ<-G,0L",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Seios paranasais — para onde cada seio drena na cavidade nasal?",
+                        "<b>Resumo: frontal, maxilar e etmoidais anteriores/médias → meato nasal médio, etmoidais posteriores → meato nasal superior, esfenoidal → recesso esfenoetmoidal.</b><br><br>O meato nasal inferior recebe o ducto nasolacrimal (não é via de drenagem dos seios).<br><br>📎 Complemento meu — não está nos slides."
+                    ],
+                    "guid": "RamoAF+Sdf",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Nariz_Seios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cavidade nasal e seios (corte sagital) — identifique as estruturas marcadas (números e pinos)<br><img src=\"P42.jpg\">",
+                        "<img src=\"P42.jpg\"><br><br><b>Legendas:</b><br>• 1: Vestíbulo nasal<br>• 2: Seio esfenoidal<br>• 3: Concha nasal média<br>• 4: Meato nasal inferior<br>• 5: Seio frontal<br>• 6: Seio etmoidal<br>• Amarelo: Concha nasal inferior<br>• Prata: Toro tubário<br>• Branco: Óstio faríngeo da tuba auditiva"
+                    ],
+                    "guid": "g/J-px:9v%",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Nariz_Seios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parede lateral da cavidade nasal — identifique as estruturas marcadas (números)<br><img src=\"P45.jpg\">",
+                        "<img src=\"P45.jpg\"><br><br><b>Legendas:</b><br>• 1: Vestíbulo nasal<br>• 2: Meato nasal inferior<br>• 3: Concha nasal inferior<br>• 4: Meato nasal médio<br>• 5: Concha nasal média"
+                    ],
+                    "guid": "G<~0@CH~`K",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Nariz_Seios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cavidade nasal (corte coronal) — identifique as estruturas marcadas (cores dos pinos)<br><img src=\"P46.jpg\">",
+                        "<img src=\"P46.jpg\"><br><br><b>Legendas:</b><br>• Verde: Seio etmoidal<br>• Vermelho: Concha nasal média<br>• Preto: Concha nasal inferior<br>• Amarelo: Seio maxilar"
+                    ],
+                    "guid": "c>*n*Hb+}B",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Nariz_Seios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cavidade nasal (corte coronal) — identifique as estruturas marcadas (cores dos pinos e número)<br><img src=\"P47.jpg\">",
+                        "<img src=\"P47.jpg\"><br><br><b>Legendas:</b><br>• Verde: Seio etmoidal<br>• Vermelho: Concha nasal média<br>• Preto: Concha nasal inferior<br>• Amarelo: Seio maxilar<br>• 1: Nervo óptico"
+                    ],
+                    "guid": "N>01|pqmmU",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Nariz_Seios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parede lateral da cavidade nasal — identifique as estruturas marcadas (cores dos pinos e número)<br><img src=\"P49.jpg\">",
+                        "<img src=\"P49.jpg\"><br><br><b>Legendas:</b><br>• Vermelho: Meato nasal médio<br>• Amarelo: Meato nasal inferior<br>• Branco: Meato nasal superior<br>• 1: Concha nasal inferior"
+                    ],
+                    "guid": "l/c0HMf=RS",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Nariz_Seios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Seios paranasais — identifique as estruturas marcadas (números)<br><img src=\"P43.jpg\">",
+                        "<img src=\"P43.jpg\"><br><br><b>Legendas:</b><br>• 1: Seio maxilar<br>• 2: Seio frontal"
+                    ],
+                    "guid": "g5la$SV@Z>",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Nariz_Seios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Seios paranasais — qual seio está indicado pelo número 1?<br><img src=\"P50.jpg\">",
+                        "<img src=\"P50.jpg\"><br><br><b>Legendas:</b><br>• 1: Seio maxilar"
+                    ],
+                    "guid": "fwL,e/Yr*K",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Nariz_Seios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Seios paranasais (corte coronal da face) — identifique os seios indicados<br><img src=\"A48_perg.jpg\">",
+                        "<img src=\"A48_resp.jpg\"><br><br><b>Legendas:</b><br>• Seio frontal<br>• Seio esfenoide<br>• Seio maxilar"
+                    ],
+                    "guid": "I%yj:ft9IX",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Nariz_Seios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parede lateral da nasofaringe — identifique as estruturas marcadas (números)<br><img src=\"P44.jpg\">",
+                        "<img src=\"P44.jpg\"><br><br><b>Legendas:</b><br>• 1: Toro tubário<br>• 2: Óstio faríngeo da tuba auditiva"
+                    ],
+                    "guid": "A^)7&!S${Z",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Nariz_Seios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Seios paranasais (projeção anterior e lateral) — identifique as estruturas marcadas (números)<br><img src=\"R04a.jpg\">",
+                        "<img src=\"R04a.jpg\"><br><br><b>Legendas:</b><br>• 1: Seio frontal<br>• 2: Seio esfenoidal<br>• 3 (verde): Células/seio etmoidal<br>• 3 (laranja): Seio maxilar<br><br>⚠️ ATENÇÃO: a apostila (resp.pdf) vem sem gabarito — esta resposta foi montada por mim com anatomia padrão a partir da figura. Confira com sua fonte antes da prova. (a figura repete o número 3 para etmoidal e maxilar.)"
+                    ],
+                    "guid": "M%I-&rQT|D",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Nariz_Seios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Seios paranasais e cavidade nasal (corte coronal da face) — identifique as estruturas marcadas (números)<br><img src=\"R06.jpg\">",
+                        "<img src=\"R06.jpg\"><br><br><b>Legendas:</b><br>• 1: Seio frontal / teto da órbita (?)<br>• 2: Células etmoidais<br>• 3: Septo nasal<br>• 4: Concha nasal inferior<br>• 5: Seio maxilar<br>• 6: Concha nasal média<br>• 7: Crista etmoidal (crista galli)<br><br>⚠️ ATENÇÃO: a apostila (resp.pdf) vem sem gabarito — esta resposta foi montada por mim com anatomia padrão a partir da figura. Confira com sua fonte antes da prova. Itens 1 e 7 são os de maior dúvida."
+                    ],
+                    "guid": "z1m>G>{/-.",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Nariz_Seios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Faringe — identifique as estruturas marcadas (números)<br><img src=\"R07.jpg\">",
+                        "<img src=\"R07.jpg\"><br><br><b>Legendas:</b><br>• 1: Nasofaringe<br>• 2: Orofaringe<br>• 3: Laringofaringe<br>• 4: Óstio faríngeo da tuba auditiva<br>• 5: Toro tubário<br>• 6: Recesso faríngeo<br><br>⚠️ ATENÇÃO: a apostila (resp.pdf) vem sem gabarito — esta resposta foi montada por mim com anatomia padrão a partir da figura. Confira com sua fonte antes da prova. Itens 4 a 6 (detalhe ampliado) são os de maior dúvida."
+                    ],
+                    "guid": "s3#;_(%VW?",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Faringe_Laringe"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Laringe (corte frontal, visão interna) — identifique as estruturas marcadas (números)<br><img src=\"R08.jpg\">",
+                        "<img src=\"R08.jpg\"><br><br><b>Legendas:</b><br>• 8: Epiglote<br>• 9: Prega vestibular<br>• 10: Ventrículo da laringe<br>• 11: Prega vocal<br>• 12: Vestíbulo da laringe<br>• 13: Parte intermédia (entre as pregas vestibulares e vocais)<br>• 14: Cavidade infraglótica<br><br>⚠️ ATENÇÃO: a apostila (resp.pdf) vem sem gabarito — esta resposta foi montada por mim com anatomia padrão a partir da figura. Confira com sua fonte antes da prova."
+                    ],
+                    "guid": "K.AG4U|zg/",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Faringe_Laringe"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cartilagens da laringe (vista anterior e posterior) — identifique as estruturas marcadas (números)<br><img src=\"R09.jpg\">",
+                        "<img src=\"R09.jpg\"><br><br><b>Legendas:</b><br>• 1: Epiglote<br>• 2: Osso hioide<br>• 3: Membrana tíreo-hióidea<br>• 4: Incisura tireóidea superior<br>• 5: Proeminência laríngea<br>• 6: Lâmina da cartilagem tireóidea<br>• 7: Ligamento cricotireóideo<br>• 8: Cartilagem cricóidea<br>• 9: Cartilagem aritenóidea<br><br>⚠️ ATENÇÃO: a apostila (resp.pdf) vem sem gabarito — esta resposta foi montada por mim com anatomia padrão a partir da figura. Confira com sua fonte antes da prova."
+                    ],
+                    "guid": "rc5N?VYPvE",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Faringe_Laringe"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Traqueia e brônquios — identifique as estruturas marcadas (números)<br><img src=\"R10.jpg\">",
+                        "<img src=\"R10.jpg\"><br><br><b>Legendas:</b><br>• 1: Cartilagens traqueais (anéis em C)<br>• 2: Carina<br>• 3: Brônquio principal direito<br>• 4: Brônquio principal esquerdo<br>• 5: Brônquio lobar superior direito<br>• 6: Brônquio lobar superior esquerdo<br>• 7: Brônquio lobar inferior esquerdo<br>• 8: Brônquio lobar médio direito<br>• 9: Brônquio lobar inferior direito<br><br>Brônquio principal direito: mais curto, largo e vertical (aspiração de corpos estranhos tende a ir para ele). Pulmão direito = 3 lobares / esquerdo = 2 lobares."
+                    ],
+                    "guid": "v.P_%p8Z(C",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Traqueia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Esôfago, traqueia e brônquios (relações) — identifique as estruturas marcadas (números)<br><img src=\"R11.jpg\">",
+                        "<img src=\"R11.jpg\"><br><br><b>Legendas:</b><br>• 1: Arco da aorta (impressão/constrição aórtica do esôfago)<br>• 2: Brônquio principal esquerdo (constrição brônquica do esôfago)<br>• 3: Veia ázigo (arco da ázigo sobre o brônquio principal direito)<br>• 4: Brônquio principal direito<br><br>⚠️ ATENÇÃO: a apostila (resp.pdf) vem sem gabarito — esta resposta foi montada por mim com anatomia padrão a partir da figura. Confira com sua fonte antes da prova. (Item 1/2: a constrição diafragmática aparece sem número.)"
+                    ],
+                    "guid": "z,2k.+GnNw",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Traqueia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carina da traqueia — qual a estrutura indicada e quais duas importâncias clínicas ela tem?<br><img src=\"R12.jpg\">",
+                        "<img src=\"R12.jpg\"><br><br><b>Carina</b> (crista na bifurcação da traqueia, vista na broncoscopia)<br><br>1) Referência anatômica na broncoscopia (bifurca ~T4-T5/ângulo do esterno) — alargamento/distorção sugere massa ou linfonodos subcarinais<br><br>2) Mucosa muito sensível — estimula o reflexo da tosse (e aspiração/corpos estranhos tendem ao brônquio principal direito, mais vertical)<br><br>📎 Complemento meu (a apostila deixa a pergunta sem resposta)."
+                    ],
+                    "guid": "u.DQ!Ws:Qr",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Traqueia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pleura — com base na função da pleura, quais as consequências do hemotórax para o funcionamento pulmonar?<br><img src=\"R14.jpg\">",
+                        "<img src=\"R14.jpg\"><br><br><b>Resumo: o sangue desfaz a pressão negativa/adesão entre as pleuras e o pulmão perde a expansibilidade (atelectasia compressiva).</b><br><br>A pleura (visceral e parietal, com líquido pleural) mantém o pulmão aderido à parede e ao diafragma e permite o deslizamento. Sangue na cavidade pleural comprime o pulmão, reduz a ventilação do lado afetado (dispneia, hipoxemia) e ocupa o seio costofrênico.<br><br>📎 Complemento meu (a apostila deixa a pergunta sem resposta)."
+                    ],
+                    "guid": "nH$;VfDg^E",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Parede_Pleura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pulmões — enumere as diferenças entre o pulmão direito e o esquerdo<br><img src=\"R15.jpg\">",
+                        "<img src=\"R15.jpg\"><br><br><b>Resumo: direito = 3 lobos/2 fissuras, mais largo e curto, esquerdo = 2 lobos/1 fissura, com língula e incisura cardíaca.</b><br><br>Direito: lobos superior, médio e inferior, fissuras horizontal e oblíqua, mais volumoso (fígado abaixo), brônquio lobar superior passa acima (epiarterial) da artéria pulmonar.<br><br>Esquerdo: lobos superior e inferior, apenas fissura oblíqua, língula e incisura cardíaca, impressão cardíaca maior (ápice do coração), arco da aorta/aorta descendente produzem impressões, mais longo e estreito.<br><br>📎 Complemento meu (a apostila deixa a pergunta sem resposta)."
+                    ],
+                    "guid": "vDRuV?PPv<",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parede torácica — por que a expiração é considerada passiva e quais os 3 grupos de costelas (e por que a divisão)?",
+                        "<b>Resumo: na respiração tranquila a expiração é passiva porque depende da retração elástica do pulmão e da parede e do relaxamento dos músculos inspiratórios.</b><br><br>Só a expiração forçada recruta músculos (intercostais internos e músculos abdominais).<br>Costelas: verdadeiras (1ª a 7ª, cartilagem própria até o esterno), falsas (8ª a 10ª, cartilagem se une à cartilagem acima) e flutuantes (11ª e 12ª, sem fixação anterior). A divisão é pela forma de fixação anterior ao esterno.<br><br>📎 Resposta montada por mim (a apostila deixa a pergunta sem resposta)."
+                    ],
+                    "guid": "FqVT(a1$R[",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Resp_Parede_Pleura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Artérias do corpo — qual a sequência de grandes ramos da aorta e dos membros?",
+                        "<b>Resumo: arco da aorta → tronco braquiocefálico, carótida comum esquerda e subclávia esquerda, aorta abdominal → tronco celíaco, mesentéricas, renais e ilíacas comuns.</b><br><br>Membro superior: subclávia → axilar → braquial → radial e ulnar → arcos palmares (superficial e profundo) → digitais.<br>Membro inferior: ilíaca comum → externa → femoral (femoral profunda e circunflexas) → poplítea → tibiais.<br>Ilíaca interna: irriga a pelve.<br><br>📎 Resumo de orientação feito por mim a partir das legendas dos slides e do roteiro."
+                    ],
+                    "guid": "bQ@a?/Yd.4",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Aorta_Abdominal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aorta abdominal e ramos (visão posterior da cavidade abdominal) — identifique as estruturas marcadas (pinos e números)<br><img src=\"P52.jpg\">",
+                        "<img src=\"P52.jpg\"><br><br><b>Legendas:</b><br>• Pino verde: Aorta (porção torácica)<br>• Agulha azul: Artéria gástrica esquerda<br>• Agulha amarela: Artéria hepática comum<br>• Agulha branca: Artéria esplênica<br>• 1: Artéria mesentérica superior<br>• Agulha verde grande: Artéria renal direita<br>• 2: Artéria renal esquerda<br>• Agulha verde pequena: Artéria mesentérica inferior<br>• Agulha vermelha: Artéria ilíaca comum esquerda<br>• Duas agulhas amarelas embaixo: Artéria ilíaca interna<br>• Agulha branca embaixo: Artéria ilíaca externa<br>• 3: Diafragma"
+                    ],
+                    "guid": "v-|&M5Pn8l",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Aorta_Abdominal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tronco celíaco — identifique as estruturas marcadas (cores)<br><img src=\"P53.jpg\">",
+                        "<img src=\"P53.jpg\"><br><br><b>Legendas:</b><br>• Amarelo: Artéria hepática comum<br>• Azul: Artéria gástrica esquerda<br>• Branco: Artéria esplênica<br>• Todos juntos: Tronco celíaco"
+                    ],
+                    "guid": "FMM~UQjSEp",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Aorta_Abdominal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Arco da aorta e ramos — identifique as estruturas marcadas (cores)<br><img src=\"P54.jpg\">",
+                        "<img src=\"P54.jpg\"><br><br><b>Legendas:</b><br>• Amarelo: Artéria carótida comum direita<br>• Vermelho: Artéria subclávia esquerda<br>• Pino branco: Artéria subclávia direita"
+                    ],
+                    "guid": "At`~{1^qJJ",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Cabeca_Pescoco"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Base do pescoço — identifique as estruturas marcadas (cores)<br><img src=\"P59.jpg\">",
+                        "<img src=\"P59.jpg\"><br><br><b>Legendas:</b><br>• Amarelo: Carótida comum direita<br>• Branco: Subclávia direita<br>• Vermelho: Carótida comum esquerda"
+                    ],
+                    "guid": "vdm3=5>:|x",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Cabeca_Pescoco"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pescoço e tórax (vasos) — identifique as estruturas marcadas (cores e números)<br><img src=\"P55.jpg\">",
+                        "<img src=\"P55.jpg\"><br><br><b>Legendas:</b><br>• Vermelha: Artéria carótida interna<br>• Branca: Artéria carótida comum<br>• Azul: Artéria subclávia<br>• Verde: Veia hemiázigo<br>• Amarela: Veia ázigo<br>• 1: Veia hemiázigo acessória<br>• 2: Artéria facial<br>• 3: Veia facial (?)<br><br>⚠️ ATENÇÃO: o slide-fonte marca \"veia facial (?)\" — confira."
+                    ],
+                    "guid": "B[#_l2!|B`",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Cabeca_Pescoco"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Artérias do pescoço (carótidas) — identifique as estruturas marcadas (números)<br><img src=\"P65.jpg\">",
+                        "<img src=\"P65.jpg\"><br><br><b>Legendas:</b><br>• 1: Carótida comum<br>• 2: Carótida interna<br>• 3: Carótida externa<br>• 4: Artéria temporal superficial<br>• 5: Artéria tireóidea superior<br>• 6: Artéria facial<br>• 7: Artéria occipital<br>• 8: Artéria lingual"
+                    ],
+                    "guid": "yk0/YxA;u,",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Cabeca_Pescoco"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carótida externa e ramos — identifique as estruturas marcadas (cores e números)<br><img src=\"P64.jpg\">",
+                        "<img src=\"P64.jpg\"><br><br><b>Legendas:</b><br>• Vermelho: Artéria carótida externa<br>• Verde: Artéria lingual<br>• Amarelo: Artéria occipital<br>• Azul: Artéria temporal superficial<br>• Preta: Artéria maxilar<br>• 1: Artéria carótida interna<br>• 2: Artéria carótida comum (preta)<br><br>⚠️ ATENÇÃO: o slide-fonte tem a anotação \"CHECAR!!!\" nesta imagem — confira as identificações antes da prova."
+                    ],
+                    "guid": "v+!-QoF=-[",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Cabeca_Pescoco"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Artérias da cabeça e do pescoço (visão lateral) — identifique as artérias dentro das caixas vermelhas<br><img src=\"A60_perg.jpg\">",
+                        "<img src=\"A60_resp.jpg\"><br><br><b>Legendas:</b><br>• ★ Artéria angular<br>• ★ Artéria labial superior<br>• ★ Artéria labial inferior<br>• ★ Artéria facial<br><br>As demais artérias (temporal superficial, occipital, maxilar, lingual, tireóidea superior, carótida externa/interna, vertebral etc.) estão legendadas na imagem da resposta. ★ = destacadas em caixa vermelha no slide."
+                    ],
+                    "guid": "EVaKRcXJwW",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Cabeca_Pescoco"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Face — identifique as estruturas marcadas (números)<br><img src=\"P56.jpg\">",
+                        "<img src=\"P56.jpg\"><br><br><b>Legendas:</b><br>• 1: Veia facial<br>• 2: Artéria facial"
+                    ],
+                    "guid": "b+Ym]./WOP",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Cabeca_Pescoco"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Face (região labial) — identifique as estruturas marcadas (cores e número)<br><img src=\"P57.jpg\">",
+                        "<img src=\"P57.jpg\"><br><br><b>Legendas:</b><br>• Branco: Artéria angular<br>• Amarelo (em cima): Artéria labial superior<br>• Amarelo (em baixo): Artéria labial inferior<br>• Verde: Artéria facial<br>• 1: Veia facial"
+                    ],
+                    "guid": "j!Pwo*5(-l",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Cabeca_Pescoco"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cabeça e pescoço (artérias) — identifique as estruturas marcadas (cores e números)<br><img src=\"P58.jpg\">",
+                        "<img src=\"P58.jpg\"><br><br><b>Legendas:</b><br>• Branco: Artéria angular<br>• Amarelo 1: Artéria facial<br>• Amarelo 2: Artéria labial superior<br>• Tachinha enferrujada: Carótida comum direita<br>• Amarela (orelha): Artéria occipital<br>• Branca (orelha): Artéria auricular posterior"
+                    ],
+                    "guid": "C1RtSr6c~`",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Cabeca_Pescoco"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tórax (veias posteriores) — identifique as estruturas marcadas (números)<br><img src=\"P61.jpg\">",
+                        "<img src=\"P61.jpg\"><br><br><b>Legendas:</b><br>• 1: Veia ázigo<br>• 2: Veia hemiázigo"
+                    ],
+                    "guid": "C!I.H.DuT~",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Torax_Veias"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parede torácica anterior (vasos) — identifique as estruturas marcadas (cores)<br><img src=\"P62.jpg\">",
+                        "<img src=\"P62.jpg\"><br><br><b>Legendas:</b><br>• Verde: Veia torácica interna<br>• Branco: Artéria torácica interna<br>• Amarelo: Artéria intercostal anterior"
+                    ],
+                    "guid": "t4Iz~W!;QB",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Torax_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parede torácica posterior (vasos) — identifique as estruturas marcadas (cor e número)<br><img src=\"P63.jpg\">",
+                        "<img src=\"P63.jpg\"><br><br><b>Legendas:</b><br>• Branco: Veia intercostal posterior<br>• 1: Artéria intercostal posterior"
+                    ],
+                    "guid": "yR-$h0*pu/",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Torax_Vasos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Artérias do membro superior (esquema) — identifique todas as artérias indicadas<br><img src=\"A71_perg.jpg\">",
+                        "<img src=\"A71_resp.jpg\"><br><br><b>Legendas:</b><br>• Artéria axilar<br>• Artéria braquial<br>• Artéria ulnar<br>• Artéria radial<br>• Arco profundo palmar<br>• Arco superficial palmar"
+                    ],
+                    "guid": "QNDu$q=Y}L",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Axila e braço — identifique as estruturas marcadas (cores)<br><img src=\"P81.jpg\">",
+                        "<img src=\"P81.jpg\"><br><br><b>Legendas:</b><br>• Azul: Artéria axilar<br>• Amarela: Artéria circunflexa posterior (do úmero)<br>• Branco: Artéria braquial"
+                    ],
+                    "guid": "wGIqF&0v[I",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Artérias do braço e antebraço — identifique as artérias dentro das caixas vermelhas<br><img src=\"A82_perg.jpg\">",
+                        "<img src=\"A82_resp.jpg\"><br><br><b>Legendas:</b><br>• ★ Artéria axilar<br>• Artéria circunflexa anterior do úmero<br>• ★ Artéria circunflexa posterior do úmero<br>• Artéria braquial profunda (no sulco radial)<br>• Artéria nutrícia do úmero<br>• ★ Artéria braquial<br>• Artéria colateral média<br>• Artéria colateral radial<br>• ★ Artéria colateral ulnar superior<br>• Artéria colateral ulnar inferior<br>• Artéria recorrente interóssea<br>• Artéria recorrente radial<br>• Artéria recorrente ulnar (ramo anterior)<br>• Artéria recorrente ulnar (ramo posterior)<br>• Artéria radial<br>• Artéria interóssea comum<br>• Artéria interóssea posterior<br>• Artéria ulnar<br>• Artéria interóssea anterior<br><br>★ = destacadas em caixa vermelha no slide."
+                    ],
+                    "guid": "lo!w+(Y=(>",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Braço e antebraço — identifique as estruturas marcadas (cores)<br><img src=\"P70.jpg\">",
+                        "<img src=\"P70.jpg\"><br><br><b>Legendas:</b><br>• Amarelo: Artéria colateral ulnar superior<br>• Preto: Artéria radial<br>• Enferrujado: Artéria ulnar"
+                    ],
+                    "guid": "B_p-14+ezY",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Braço (região medial) — qual a estrutura indicada pela seta vermelha?<br><img src=\"P72.jpg\">",
+                        "<img src=\"P72.jpg\"><br><br><b>Legendas:</b><br>• Bifurcação da artéria braquial (em radial e ulnar)"
+                    ],
+                    "guid": "W$dE|Ffjk",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Antebraço — qual artéria está marcada (pino vermelho)?<br><img src=\"P69.jpg\">",
+                        "<img src=\"P69.jpg\"><br><br><b>Legendas:</b><br>• Vermelho: Artéria ulnar<br><br>O slide-fonte marca esta legenda com asterisco (*)."
+                    ],
+                    "guid": "I&O(f[xeD%",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Antebraço (região do punho) — identifique as estruturas marcadas (números)<br><img src=\"P76.jpg\">",
+                        "<img src=\"P76.jpg\"><br><br><b>Legendas:</b><br>• 1: Veia cefálica<br>• 2: Veia basílica<br>• 3: Artéria radial<br>• 4: Artéria ulnar"
+                    ],
+                    "guid": "cn$<GJxTSd",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Veias superficiais do membro superior (região do cotovelo) — identifique todas as veias indicadas<br><img src=\"A77_perg.jpg\">",
+                        "<img src=\"A77_resp.jpg\"><br><br><b>Legendas:</b><br>• Veia cefálica<br>• Veia basílica<br>• Veia intermédia cefálica<br>• Veia intermédia basílica<br>• Veia basílica do antebraço<br>• Veia cefálica do antebraço<br>• Veia intermédia do antebraço<br><br>⚠️ ATENÇÃO: o slide chama de \"intermediária cefálica/basílica\" — na nomenclatura anatômica são veia intermédia (mediana) do cotovelo, com ramos para a cefálica e para a basílica."
+                    ],
+                    "guid": "nV@]S[|bH|",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mão (face palmar) — identifique as estruturas marcadas (cores)<br><img src=\"P83.jpg\">",
+                        "<img src=\"P83.jpg\"><br><br><b>Legendas:</b><br>• Vermelho: Artéria digital palmar própria<br>• Branco: Artéria digital palmar comum<br>• Amarelo: Arco palmar superficial"
+                    ],
+                    "guid": "n@j?BAg_).",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mão (face palmar, dissecção) — identifique as estruturas marcadas (cores)<br><img src=\"P84.jpg\">",
+                        "<img src=\"P84.jpg\"><br><br><b>Legendas:</b><br>• Vermelho: Artéria digital palmar própria<br>• Branco: Artéria digital palmar comum<br>• Amarelo: Arco palmar superficial<br>• Verde: Arco palmar profundo"
+                    ],
+                    "guid": "sPJdc)R|K*",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Antebraço/punho (face anterior, dissecção) — identifique as estruturas indicadas<br><img src=\"A85_perg.jpg\">",
+                        "<img src=\"A85_resp.jpg\"><br><br><b>Legendas:</b><br>• Arco superficial palmar<br>• Artéria mediana<br>• Artéria ulnar<br>• Artéria radial<br>• Nervo mediano"
+                    ],
+                    "guid": "vL;ka-|#wE",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mão — artérias palmares e sulcos da mão: identifique todas as estruturas indicadas<br><img src=\"A86_perg.jpg\">",
+                        "<img src=\"A86_resp.jpg\"><br><br><b>Legendas:</b><br>• Arco palmar superficial<br>• Arco palmar profundo<br>• Sulco digital distal<br>• Sulco digital médio<br>• Sulco digital proximal<br>• Sulco longitudinal ulnar<br>• Sulco transverso distal<br>• Sulco transverso proximal<br>• Sulco longitudinal intermediário<br>• Sulco longitudinal radial<br>• Sulco distal do punho<br>• Sulco proximal do punho"
+                    ],
+                    "guid": "o(ko8sYy;W",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Superior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pelve e coxa (artérias) — identifique as estruturas marcadas (cores e números)<br><img src=\"P68.jpg\">",
+                        "<img src=\"P68.jpg\"><br><br><b>Legendas:</b><br>• Vermelho: Artéria ilíaca interna (vai pro púbis)<br>• 1: Artéria ilíaca externa (vai pra perna)<br>• Verde: Artéria femoral<br>• Branco: Artéria femoral profunda<br>• Amarelo: Artérias circunflexas"
+                    ],
+                    "guid": "hNFfkL[x?.",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Inferior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Região inguinal/coxa — identifique as estruturas marcadas (cores)<br><img src=\"P73.jpg\">",
+                        "<img src=\"P73.jpg\"><br><br><b>Legendas:</b><br>• Vermelha: Artéria ilíaca interna<br>• Verde: Artéria femoral<br>• Amarela: Artérias circunflexas<br>• Branco: Artéria femoral profunda"
+                    ],
+                    "guid": "sBA!@KpsW/",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Inferior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pelve — qual artéria está marcada (pino vermelho)?<br><img src=\"P74.jpg\">",
+                        "<img src=\"P74.jpg\"><br><br><b>Legendas:</b><br>• Vermelho: Artéria ilíaca interna"
+                    ],
+                    "guid": "m(]mqvS-S",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Inferior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Região femoral e poplítea — identifique as estruturas marcadas (cores e número)<br><img src=\"P66.jpg\">",
+                        "<img src=\"P66.jpg\"><br><br><b>Legendas:</b><br>• Azul: Artéria poplítea<br>• Verde: Artéria femoral<br>• Branco: Artéria femoral profunda<br>• Amarela: Artérias circunflexas<br>• 1: Veia femoral"
+                    ],
+                    "guid": "K}c,H]un!+",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Inferior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Coxa e joelho (artérias) — identifique as estruturas marcadas (cores)<br><img src=\"P79.jpg\">",
+                        "<img src=\"P79.jpg\"><br><br><b>Legendas:</b><br>• Amarelo: Artéria circunflexa femoral<br>• Verde: Artéria femoral<br>• Azul: Artéria poplítea"
+                    ],
+                    "guid": "uYt[HvSFCA",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Inferior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Região anterior da coxa (vasos e nervos) — identifique todas as estruturas indicadas<br><img src=\"A78_perg.jpg\">",
+                        "<img src=\"A78_resp.jpg\"><br><br>Figura com legendas pequenas (veia femoral, artéria femoral, artéria femoral profunda, artéria circunflexa femoral medial/lateral e seus ramos, artéria obturatória, veia safena magna, artéria descendente do joelho, nervo femoral etc.). Todas as legendas estão na imagem da resposta."
+                    ],
+                    "guid": "z>``&?t#n4",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Inferior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fossa poplítea — qual artéria está marcada (pino azul)?<br><img src=\"P75.jpg\">",
+                        "<img src=\"P75.jpg\"><br><br><b>Legendas:</b><br>• Azul: Artéria poplítea"
+                    ],
+                    "guid": "kK(8S(zZQ^",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Inferior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Perna (face posterior) — qual artéria está marcada (pino vermelho)?<br><img src=\"P67.jpg\">",
+                        "<img src=\"P67.jpg\"><br><br><b>Legendas:</b><br>• Vermelha: Artéria tibial posterior"
+                    ],
+                    "guid": "wrM6O_YnwX",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Inferior"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Perna/coxa — qual veia está sendo manipulada?<br><img src=\"P80.jpg\">",
+                        "<img src=\"P80.jpg\"><br><br><b>Legendas:</b><br>• Veia safena (magna)"
+                    ],
+                    "guid": "Ko~OpSW#`s",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::ANATOMIA::Vasc_Membro_Inferior"
                     ]
                 }
             ],
