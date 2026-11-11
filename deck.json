@@ -80459,24 +80459,6 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
-            "name": "guardado",
-            "newLimit": null,
-            "newLimitToday": null,
-            "notes": [],
-            "reviewLimit": null,
-            "reviewLimitToday": null
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "16c3d610-d256-11f1-a4c8-3e20219029c8",
-            "deck_config_uuid": "9da74442-cdaa-11f1-a746-3e20219029c8",
-            "desc": "",
-            "desiredRetention": null,
-            "dyn": 0,
-            "extendNew": 0,
-            "extendRev": 0,
             "media_files": [
                 "hist_p03a_a.jpg",
                 "hist_p03a_q.jpg",
@@ -80641,7 +80623,7 @@
                 "hist_p30c_a.jpg",
                 "hist_p30c_q.jpg"
             ],
-            "name": "histom2pr2",
+            "name": "guardado",
             "newLimit": null,
             "newLimitToday": null,
             "notes": [
@@ -82368,6 +82350,692 @@
                         "<img src=\"hist_p29b_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Pulmão — Septo Interalveolar<br><br><b>Descrição histológica</b><br><b>Septo interalveolar</b> - matriz elástica/reticular com densa rede de capilares contínuos<br><br><b>Origem embrionária</b><br><b>Tecido conjuntivo (septos) e capilares:</b> Mesoderma esplâncnico"
                     ],
                     "guid": "m51`iFHwbq",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Pulmao"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "16c3d610-d256-11f1-a4c8-3e20219029c8",
+            "deck_config_uuid": "9da74442-cdaa-11f1-a746-3e20219029c8",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "hist_p03a_a.jpg",
+                "hist_p03a_q.jpg",
+                "hist_p03b_a.jpg",
+                "hist_p03b_q.jpg",
+                "hist_p04c_a.jpg",
+                "hist_p04c_q.jpg",
+                "hist_p06a_a.jpg",
+                "hist_p06a_q.jpg",
+                "hist_p06b_a.jpg",
+                "hist_p06b_q.jpg",
+                "hist_p06c_a.jpg",
+                "hist_p06c_q.jpg",
+                "hist_p07a_a.jpg",
+                "hist_p07a_q.jpg",
+                "hist_p07b_a.jpg",
+                "hist_p07b_q.jpg",
+                "hist_p08a_a.jpg",
+                "hist_p08a_q.jpg",
+                "hist_p08c_a.jpg",
+                "hist_p08c_q.jpg",
+                "hist_p09a_a.jpg",
+                "hist_p09a_q.jpg",
+                "hist_p09b_a.jpg",
+                "hist_p09b_q.jpg",
+                "hist_p11a_a.jpg",
+                "hist_p11a_q.jpg",
+                "hist_p12b_a.jpg",
+                "hist_p12b_q.jpg",
+                "hist_p12c_a.jpg",
+                "hist_p12c_q.jpg",
+                "hist_p13a_a.jpg",
+                "hist_p13a_q.jpg",
+                "hist_p13c_a.jpg",
+                "hist_p13c_q.jpg",
+                "hist_p14b_a.jpg",
+                "hist_p14b_q.jpg",
+                "hist_p14c_a.jpg",
+                "hist_p14c_q.jpg",
+                "hist_p15a_a.jpg",
+                "hist_p15a_q.jpg",
+                "hist_p15c_a.jpg",
+                "hist_p15c_q.jpg",
+                "hist_p16a_a.jpg",
+                "hist_p16a_q.jpg",
+                "hist_p16b_a.jpg",
+                "hist_p16b_q.jpg",
+                "hist_p20a_a.jpg",
+                "hist_p20a_q.jpg",
+                "hist_p20c_a.jpg",
+                "hist_p20c_q.jpg",
+                "hist_p21b_a.jpg",
+                "hist_p21b_q.jpg",
+                "hist_p22c_a.jpg",
+                "hist_p22c_q.jpg",
+                "hist_p23a_a.jpg",
+                "hist_p23a_q.jpg",
+                "hist_p23d_a.jpg",
+                "hist_p23d_q.jpg",
+                "hist_p24a_a.jpg",
+                "hist_p24a_q.jpg",
+                "hist_p24d_a.jpg",
+                "hist_p24d_q.jpg",
+                "hist_p25c_a.jpg",
+                "hist_p25c_q.jpg",
+                "hist_p26a_a.jpg",
+                "hist_p26a_q.jpg",
+                "hist_p26c_a.jpg",
+                "hist_p26c_q.jpg",
+                "hist_p26d_a.jpg",
+                "hist_p26d_q.jpg",
+                "hist_p27a_a.jpg",
+                "hist_p27a_q.jpg",
+                "hist_p27b_a.jpg",
+                "hist_p27b_q.jpg",
+                "hist_p27c_a.jpg",
+                "hist_p27c_q.jpg",
+                "hist_p28a_a.jpg",
+                "hist_p28a_q.jpg",
+                "hist_p28b_a.jpg",
+                "hist_p28b_q.jpg",
+                "hist_p29a_a.jpg",
+                "hist_p29a_q.jpg",
+                "hist_p29b_a.jpg",
+                "hist_p29b_q.jpg",
+                "hist_p29c_a.jpg",
+                "hist_p29c_q.jpg",
+                "hist_p29d_a.jpg",
+                "hist_p29d_q.jpg",
+                "hist_p30a_a.jpg",
+                "hist_p30a_q.jpg"
+            ],
+            "name": "histom2pr2",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p15c_q.jpg\">",
+                        "<img src=\"hist_p15c_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Coração — Epicárdio (Pericárdio Visceral)<br><br><b>Descrição histológica</b><br><b>Mesotélio:</b> tecido epitelial pavimentoso simples apoiado sobre uma camada subepicárdica de tecido conjuntivo frouxo<br><b>Camada subepicárdica</b> - tecido conjuntivo frouxo que abriga os vasos coronários (artérias e veias), nervos, gânglios nervosos e abundante tecido adiposo unilocular<br><br><b>Origem embrionária</b><br>Origina-se do órgão proepicárdico (no seio venoso), derivado do mesoderma lateral esplâncnico"
+                    ],
+                    "guid": "Blu>OdK^HG",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p16b_q.jpg\">",
+                        "<img src=\"hist_p16b_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Coração — Epicárdio (Pericárdio Visceral)<br><br><b>Descrição histológica</b><br><b>Mesotélio:</b> tecido epitelial pavimentoso simples apoiado sobre uma camada subepicárdica de tecido conjuntivo frouxo<br><b>Camada subepicárdica</b> - tecido conjuntivo frouxo que abriga os vasos coronários (artérias e veias), nervos, gânglios nervosos e abundante tecido adiposo unilocular<br><br><b>Origem embrionária</b><br>Origina-se do órgão proepicárdico (no seio venoso), derivado do mesoderma lateral esplâncnico"
+                    ],
+                    "guid": "mx?o12X3kR",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p12b_q.jpg\">",
+                        "<img src=\"hist_p12b_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Coração — Miocárdio (Atrial e Ventricular)<br><br><b>Descrição histológica</b><br><b>Cardiomiócitos</b> - células musculares estriadas cardíacas cilíndricas e ramificadas, com 1 a 2 núcleos centrais e estriações transversais<br><b>Discos intercalares</b> - complexos juncionais contendo junções de adesão/desmossomos e junções comunicantes/gap que unem as células<br><b>Endomísio</b> - rico em capilares, envolve o tecido<br><b>MIOCÁRDIO ATRIAL - MAIS FINO, COM GRÂNULOS SECRETORES</b><br><b>MIOCÁRDIO VENTRICULAR - ACENTUADAMENTE ESPESSO</b><br><br><b>Origem embrionária</b><br>Mesoderma lateral esplâncnico"
+                    ],
+                    "guid": "Pa;X@&90JU",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p12c_q.jpg\">",
+                        "<img src=\"hist_p12c_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Coração — Miocárdio (Atrial e Ventricular)<br><br><b>Descrição histológica</b><br><b>Cardiomiócitos</b> - células musculares estriadas cardíacas cilíndricas e ramificadas, com 1 a 2 núcleos centrais e estriações transversais<br><b>Discos intercalares</b> - complexos juncionais contendo junções de adesão/desmossomos e junções comunicantes/gap que unem as células<br><b>Endomísio</b> - rico em capilares, envolve o tecido<br><b>MIOCÁRDIO ATRIAL - MAIS FINO, COM GRÂNULOS SECRETORES</b><br><b>MIOCÁRDIO VENTRICULAR - ACENTUADAMENTE ESPESSO</b><br><br><b>Origem embrionária</b><br>Mesoderma lateral esplâncnico"
+                    ],
+                    "guid": "GVLbA#%Tfq",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p13a_q.jpg\">",
+                        "<img src=\"hist_p13a_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Coração — Miocárdio (Atrial e Ventricular)<br><br><b>Descrição histológica</b><br><b>Cardiomiócitos</b> - células musculares estriadas cardíacas cilíndricas e ramificadas, com 1 a 2 núcleos centrais e estriações transversais<br><b>Discos intercalares</b> - complexos juncionais contendo junções de adesão/desmossomos e junções comunicantes/gap que unem as células<br><b>Endomísio</b> - rico em capilares, envolve o tecido<br><b>MIOCÁRDIO ATRIAL - MAIS FINO, COM GRÂNULOS SECRETORES</b><br><b>MIOCÁRDIO VENTRICULAR - ACENTUADAMENTE ESPESSO</b><br><br><b>Origem embrionária</b><br>Mesoderma lateral esplâncnico"
+                    ],
+                    "guid": "xdSNO{LcDj",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p13c_q.jpg\">",
+                        "<img src=\"hist_p13c_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Coração — Endocárdio (Atrial e Ventricular)<br><br><b>Descrição histológica</b><br><b>Endotélio:</b> tecido epitelial pavimentoso simples sobre uma camada subendotelial fina de tecido conjuntivo frouxo com fibras elásticas, colágenas e algumas células musculares lisas<br><b>Camada subendocárdica</b> - tecido conjuntivo frouxo que o conecta ao miocárdio, contendo vasos, nervos e ramos do sistema de condução (como as fibras de Purkinje nos ventrículos)<br><b>ENDOCÁRDIO ATRIAL - MAIS ESPESSO</b><br><b>ENDOCÁRDIO VENTRICULAR - MAIS DELGADO</b><br><br><b>Origem embrionária</b><br>Tubo endotelial derivado do mesoderma lateral esplâncnico"
+                    ],
+                    "guid": "M*j/w;/.`+",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p14b_q.jpg\">",
+                        "<img src=\"hist_p14b_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Coração — Endocárdio (Atrial e Ventricular)<br><br><b>Descrição histológica</b><br><b>Endotélio:</b> tecido epitelial pavimentoso simples sobre uma camada subendotelial fina de tecido conjuntivo frouxo com fibras elásticas, colágenas e algumas células musculares lisas<br><b>Camada subendocárdica</b> - tecido conjuntivo frouxo que o conecta ao miocárdio, contendo vasos, nervos e ramos do sistema de condução (como as fibras de Purkinje nos ventrículos)<br><b>ENDOCÁRDIO ATRIAL - MAIS ESPESSO</b><br><b>ENDOCÁRDIO VENTRICULAR - MAIS DELGADO</b><br><br><b>Origem embrionária</b><br>Tubo endotelial derivado do mesoderma lateral esplâncnico"
+                    ],
+                    "guid": "rcSKL5438.",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p15a_q.jpg\">",
+                        "<img src=\"hist_p15a_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Coração — Endocárdio (Atrial e Ventricular)<br><br><b>Descrição histológica</b><br><b>Endotélio:</b> tecido epitelial pavimentoso simples sobre uma camada subendotelial fina de tecido conjuntivo frouxo com fibras elásticas, colágenas e algumas células musculares lisas<br><b>Camada subendocárdica</b> - tecido conjuntivo frouxo que o conecta ao miocárdio, contendo vasos, nervos e ramos do sistema de condução (como as fibras de Purkinje nos ventrículos)<br><b>ENDOCÁRDIO ATRIAL - MAIS ESPESSO</b><br><b>ENDOCÁRDIO VENTRICULAR - MAIS DELGADO</b><br><br><b>Origem embrionária</b><br>Tubo endotelial derivado do mesoderma lateral esplâncnico"
+                    ],
+                    "guid": "H@;3sB}~9^",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p16a_q.jpg\">",
+                        "<img src=\"hist_p16a_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Coração — Átrio<br><br><b>Descrição histológica</b><br><b>Região:</b> pode ser epicárdio, miocárdio, endocárdio, átrio ou ventrículo. Mas para ser átrio ou ventrículo, endocárdio e miocárdio devem estar juntos<br><b>MIOCÁRDIO ATRIAL - MAIS FINO, COM GRÂNULOS SECRETORES</b><br><b>ENDOCÁRDIO ATRIAL - MAIS ESPESSO</b><br><br><b>Origem embrionária</b><br>Mesoderma lateral esplâncnico (MLE). Se for átrio: MLE do átrio primitivo"
+                    ],
+                    "guid": "L%iM/4X@37",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p14c_q.jpg\">",
+                        "<img src=\"hist_p14c_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Coração — Ventrículo<br><br><b>Descrição histológica</b><br><b>Região:</b> pode ser epicárdio, miocárdio, endocárdio, átrio ou ventrículo. Mas para ser átrio ou ventrículo, endocárdio e miocárdio devem estar juntos<br><b>MIOCÁRDIO VENTRICULAR - ACENTUADAMENTE ESPESSO</b><br><b>ENDOCÁRDIO VENTRICULAR - MAIS DELGADO</b><br><br><b>Origem embrionária</b><br>Mesoderma lateral esplâncnico (MLE). Se for ventrículo: MLE do ventrículo primitivo e do bulbo"
+                    ],
+                    "guid": "uM0+0.N!%R",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p11a_q.jpg\">",
+                        "<img src=\"hist_p11a_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Coração (diagnóstico) — regiões que podem ser pedidas<br><br><b>Descrição histológica</b><br><b>Diagnóstico:</b> Coração<br><b>Região:</b> pode ser epicárdio, miocárdio, endocárdio, átrio ou ventrículo<br>Mas para ser átrio ou ventrículo, endocárdio e miocárdio devem estar juntos<br><br><b>Origem embrionária</b><br>Mesoderma lateral esplâncnico (MLE)<br>Se for átrio: MLE do átrio primitivo<br>Se for ventrículo: MLE do ventrículo primitivo e do bulbo"
+                    ],
+                    "guid": "o%gM9YOonC",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Coracao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p03a_q.jpg\">",
+                        "<img src=\"hist_p03a_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Artéria Elástica (Grande Calibre)<br><br><b>Descrição histológica</b><br><b>Túnica Íntima</b> - endotélio: tecido epitelial pavimentoso simples, subendotélio tecido conjuntivo frouxo<br><b>Túnica Média</b> - extremamente espessa, caracterizada por dezenas (40-70) de lâminas elásticas concêntricas e fenestradas intercaladas por células musculares lisas, fibras colágenas e proteoglicanos<br><b>Túnica Adventícia</b> - tecido conjuntivo frouxo rico em colágeno, fibras elásticas e vasa vasorum (vasos dos vasos)<br><br><b>Origem embrionária</b><br>Mesoderma lateral esplâncnico"
+                    ],
+                    "guid": "r)pbv4U*bn",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p03b_q.jpg\">",
+                        "<img src=\"hist_p03b_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Artéria Elástica (Grande Calibre)<br><br><b>Descrição histológica</b><br><b>Túnica Íntima</b> - endotélio: tecido epitelial pavimentoso simples, subendotélio tecido conjuntivo frouxo<br><b>Túnica Média</b> - extremamente espessa, caracterizada por dezenas (40-70) de lâminas elásticas concêntricas e fenestradas intercaladas por células musculares lisas, fibras colágenas e proteoglicanos<br><b>Túnica Adventícia</b> - tecido conjuntivo frouxo rico em colágeno, fibras elásticas e vasa vasorum (vasos dos vasos)<br><br><b>Origem embrionária</b><br>Mesoderma lateral esplâncnico"
+                    ],
+                    "guid": "b(Opjxpj&p",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p04c_q.jpg\">",
+                        "<img src=\"hist_p04c_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Artéria Elástica (Grande Calibre)<br><br><b>Descrição histológica</b><br><b>Túnica Íntima</b> - endotélio: tecido epitelial pavimentoso simples, subendotélio tecido conjuntivo frouxo<br><b>Túnica Média</b> - extremamente espessa, caracterizada por dezenas (40-70) de lâminas elásticas concêntricas e fenestradas intercaladas por células musculares lisas, fibras colágenas e proteoglicanos<br><b>Túnica Adventícia</b> - tecido conjuntivo frouxo rico em colágeno, fibras elásticas e vasa vasorum (vasos dos vasos)<br><br><b>Origem embrionária</b><br>Mesoderma lateral esplâncnico"
+                    ],
+                    "guid": "esrIa2UQO*",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p06a_q.jpg\">",
+                        "<img src=\"hist_p06a_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Artéria Muscular (Médio Calibre)<br><br><b>Descrição histológica</b><br><b>Túnica Íntima</b> - endotélio: tecido epitelial pavimentoso simples, subendotélio tecido conjuntivo frouxo, com presença de lâminas elásticas internas proeminentes e onduladas<br><b>Túnica Média</b> - predominantemente formada por fibras musculares lisas, constituída por até 40 camadas concêntricas de células musculares lisas, apresenta lâmina elástica externa na transição com a adventícia<br><b>Túnica Adventícia</b> - tecido conjuntivo frouxo com fibras colágenas, elásticas e vasa vasorum<br><br><b>Origem embrionária</b><br>Mesoderma lateral esplâncnico"
+                    ],
+                    "guid": "G?0F:s^Ku>",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p06b_q.jpg\">",
+                        "<img src=\"hist_p06b_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Artéria Muscular (Médio Calibre)<br><br><b>Descrição histológica</b><br><b>Túnica Íntima</b> - endotélio: tecido epitelial pavimentoso simples, subendotélio tecido conjuntivo frouxo, com presença de lâminas elásticas internas proeminentes e onduladas<br><b>Túnica Média</b> - predominantemente formada por fibras musculares lisas, constituída por até 40 camadas concêntricas de células musculares lisas, apresenta lâmina elástica externa na transição com a adventícia<br><b>Túnica Adventícia</b> - tecido conjuntivo frouxo com fibras colágenas, elásticas e vasa vasorum<br><br><b>Origem embrionária</b><br>Mesoderma lateral esplâncnico"
+                    ],
+                    "guid": "LQ7]z0nvMV",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p06c_q.jpg\">",
+                        "<img src=\"hist_p06c_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Artéria Muscular (Médio Calibre)<br><br><b>Descrição histológica</b><br><b>Túnica Íntima</b> - endotélio: tecido epitelial pavimentoso simples, subendotélio tecido conjuntivo frouxo, com presença de lâminas elásticas internas proeminentes e onduladas<br><b>Túnica Média</b> - predominantemente formada por fibras musculares lisas, constituída por até 40 camadas concêntricas de células musculares lisas, apresenta lâmina elástica externa na transição com a adventícia<br><b>Túnica Adventícia</b> - tecido conjuntivo frouxo com fibras colágenas, elásticas e vasa vasorum<br><br><b>Origem embrionária</b><br>Mesoderma lateral esplâncnico"
+                    ],
+                    "guid": "xDelN(QR6c",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p07a_q.jpg\">",
+                        "<img src=\"hist_p07a_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Veias de Pequeno/Médio Calibre<br><br><b>Descrição histológica</b><br><b>Túnica Íntima</b> - endotélio: tecido epitelial pavimentoso simples e uma camada subendotelial muito delgada de tecido conjuntivo frouxo<br><b>Túnica Média</b> - delgada, com poucas camadas de células musculares lisas entremeadas por fibras reticulares e colágenas<br><b>Túnica Adventícia</b> - tecido conjuntivo frouxo, camada mais espessa e bem desenvolvida<br><b>Válvulas venosas</b> - prolongamentos do endotélio da túnica íntima, ricas em fibras elásticas<br><br><b>Origem embrionária</b><br>Mesoderma lateral esplâncnico"
+                    ],
+                    "guid": "jru}JGv*8M",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p07b_q.jpg\">",
+                        "<img src=\"hist_p07b_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Veias de Pequeno/Médio Calibre<br><br><b>Descrição histológica</b><br><b>Túnica Íntima</b> - endotélio: tecido epitelial pavimentoso simples e uma camada subendotelial muito delgada de tecido conjuntivo frouxo<br><b>Túnica Média</b> - delgada, com poucas camadas de células musculares lisas entremeadas por fibras reticulares e colágenas<br><b>Túnica Adventícia</b> - tecido conjuntivo frouxo, camada mais espessa e bem desenvolvida<br><b>Válvulas venosas</b> - prolongamentos do endotélio da túnica íntima, ricas em fibras elásticas<br><br><b>Origem embrionária</b><br>Mesoderma lateral esplâncnico"
+                    ],
+                    "guid": "wT]V#kcNQ5",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p08a_q.jpg\">",
+                        "<img src=\"hist_p08a_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Veias de Pequeno/Médio Calibre<br><br><b>Descrição histológica</b><br><b>Túnica Íntima</b> - endotélio: tecido epitelial pavimentoso simples e uma camada subendotelial muito delgada de tecido conjuntivo frouxo<br><b>Túnica Média</b> - delgada, com poucas camadas de células musculares lisas entremeadas por fibras reticulares e colágenas<br><b>Túnica Adventícia</b> - tecido conjuntivo frouxo, camada mais espessa e bem desenvolvida<br><b>Válvulas venosas</b> - prolongamentos do endotélio da túnica íntima, ricas em fibras elásticas<br><br><b>Origem embrionária</b><br>Mesoderma lateral esplâncnico"
+                    ],
+                    "guid": "GQKuu)tvWW",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p08c_q.jpg\">",
+                        "<img src=\"hist_p08c_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Veia de Grande Calibre<br><br><b>Descrição histológica</b><br><b>Túnica Íntima</b> - endotélio: tecido epitelial pavimentoso simples, camada subendotelial de tecido conjuntivo frouxo<br><b>Túnica Média</b> - fina, com poucas células musculares lisas e abundante tecido conjuntivo<br><b>Túnica Adventícia</b> - muito espessa, contendo feixes longitudinais de músculo liso dispostos no tecido conjuntivo frouxo, além de vasa vasorum abundantes<br><br><b>Origem embrionária</b><br>Mesoderma lateral esplâncnico"
+                    ],
+                    "guid": "lf-+cNm;&&",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p09a_q.jpg\">",
+                        "<img src=\"hist_p09a_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Veia de Grande Calibre<br><br><b>Descrição histológica</b><br><b>Túnica Íntima</b> - endotélio: tecido epitelial pavimentoso simples, camada subendotelial de tecido conjuntivo frouxo<br><b>Túnica Média</b> - fina, com poucas células musculares lisas e abundante tecido conjuntivo<br><b>Túnica Adventícia</b> - muito espessa, contendo feixes longitudinais de músculo liso dispostos no tecido conjuntivo frouxo, além de vasa vasorum abundantes<br><br><b>Origem embrionária</b><br>Mesoderma lateral esplâncnico"
+                    ],
+                    "guid": "o>de5$X8Y`",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p09b_q.jpg\">",
+                        "<img src=\"hist_p09b_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Veia de Grande Calibre<br><br><b>Descrição histológica</b><br><b>Túnica Íntima</b> - endotélio: tecido epitelial pavimentoso simples, camada subendotelial de tecido conjuntivo frouxo<br><b>Túnica Média</b> - fina, com poucas células musculares lisas e abundante tecido conjuntivo<br><b>Túnica Adventícia</b> - muito espessa, contendo feixes longitudinais de músculo liso dispostos no tecido conjuntivo frouxo, além de vasa vasorum abundantes<br><br><b>Origem embrionária</b><br>Mesoderma lateral esplâncnico"
+                    ],
+                    "guid": "NYpR(Ln0Kz",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Vasos_Sanguineos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p20a_q.jpg\">",
+                        "<img src=\"hist_p20a_a.jpg\"><br><br><b>Rótulos do atlas:</b> epitélio respiratório, lâmina própria, mucosa respiratória e <b>parte óssea do septo nasal</b>.<br><b>Como reconhecer:</b> mucosa fina sobre osso espesso e esponjoso, sem cartilagem.<br><br><b>Diagnóstico/Região:</b> Cavidade Nasal — Septo Nasal<br><br><b>Descrição histológica</b><br><b>Septo Nasal</b> - contém uma porção cartilaginosa central (cartilagem hialina) e uma porção óssea, ambas revestidas por mucosa respiratória, podendo também ser olfatória<br><b>Mucosa Respiratória:</b> epitélio pseudoestratificado cilíndrico ciliado com células caliciformes. Lâmina própria com glândulas seromucosas e rica rede vascular.<br><b>Mucosa Olfatória:</b> epitélio pseudoestratificado (neurônios olfatórios bipolares, células de sustentação e basais). Lâmina própria com nervos olfatórios e Glândulas de Bowman (serosas).<br><br><b>Origem embrionária</b><br><b>Epitélio e Glândulas:</b> Ectoderma de superfície (placoides nasais).<br><b>Arcabouço Ósseo/Cartilaginoso e Conjuntivo:</b> Mesênquima da proeminência frontonasal (com participação de células da crista neural)."
+                    ],
+                    "guid": "rND(r_K~0v",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Cavidade_Nasal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p21b_q.jpg\">",
+                        "<img src=\"hist_p21b_a.jpg\"><br><br><b>Rótulos do atlas:</b> <b>parte cartilaginosa do septo nasal</b>, mucosa respiratória e glândulas mistas.<br><b>Como reconhecer:</b> cartilagem hialina (condrócitos em lacunas) no centro, com a mucosa respiratória e as glândulas ao lado.<br><br><b>Diagnóstico/Região:</b> Cavidade Nasal — Septo Nasal<br><br><b>Descrição histológica</b><br><b>Septo Nasal</b> - contém uma porção cartilaginosa central (cartilagem hialina) e uma porção óssea, ambas revestidas por mucosa respiratória, podendo também ser olfatória<br><b>Mucosa Respiratória:</b> epitélio pseudoestratificado cilíndrico ciliado com células caliciformes. Lâmina própria com glândulas seromucosas e rica rede vascular.<br><b>Mucosa Olfatória:</b> epitélio pseudoestratificado (neurônios olfatórios bipolares, células de sustentação e basais). Lâmina própria com nervos olfatórios e Glândulas de Bowman (serosas).<br><br><b>Origem embrionária</b><br><b>Epitélio e Glândulas:</b> Ectoderma de superfície (placoides nasais).<br><b>Arcabouço Ósseo/Cartilaginoso e Conjuntivo:</b> Mesênquima da proeminência frontonasal (com participação de células da crista neural)."
+                    ],
+                    "guid": "IbMQ-hI+dW",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Cavidade_Nasal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p23a_q.jpg\">",
+                        "<img src=\"hist_p23a_a.jpg\"><br><br><b>Rótulos do atlas:</b> E.O. (epitélio olfatório), lâmina própria e <b>septo cartilaginoso</b>.<br><b>Como reconhecer:</b> cartilagem no centro com mucosa dos dois lados, aqui a mucosa é olfatória.<br><br><b>Diagnóstico/Região:</b> Cavidade Nasal — Septo Nasal<br><br><b>Descrição histológica</b><br><b>Septo Nasal</b> - contém uma porção cartilaginosa central (cartilagem hialina) e uma porção óssea, ambas revestidas por mucosa respiratória, podendo também ser olfatória<br><b>Mucosa Respiratória:</b> epitélio pseudoestratificado cilíndrico ciliado com células caliciformes. Lâmina própria com glândulas seromucosas e rica rede vascular.<br><b>Mucosa Olfatória:</b> epitélio pseudoestratificado (neurônios olfatórios bipolares, células de sustentação e basais). Lâmina própria com nervos olfatórios e Glândulas de Bowman (serosas).<br><br><b>Origem embrionária</b><br><b>Epitélio e Glândulas:</b> Ectoderma de superfície (placoides nasais).<br><b>Arcabouço Ósseo/Cartilaginoso e Conjuntivo:</b> Mesênquima da proeminência frontonasal (com participação de células da crista neural)."
+                    ],
+                    "guid": "Jlv.7)wnk,",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Cavidade_Nasal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p23d_q.jpg\">",
+                        "<img src=\"hist_p23d_a.jpg\"><br><br><b>Rótulos do atlas:</b> <b>concha nasal superior</b>, osso, mucosa olfativa (parte superior) e mucosa respiratória (parte inferior).<br><b>Como reconhecer:</b> osso fino e curvo, em gancho, com mucosa dos dois lados.<br><br><b>Diagnóstico/Região:</b> Cavidade Nasal — Conchas Nasais<br><br><b>Descrição histológica</b><br><b>Conchas Nasais</b> - arcabouço ósseo/cartilaginoso revestido por mucosa respiratória (ou olfatória na concha superior) com rica rede vascular na lâmina própria<br><b>Mucosa Respiratória:</b> epitélio pseudoestratificado cilíndrico ciliado com células caliciformes. Lâmina própria com glândulas seromucosas e rica rede vascular.<br><b>Mucosa Olfatória:</b> epitélio pseudoestratificado (neurônios olfatórios bipolares, células de sustentação e basais). Lâmina própria com nervos olfatórios e Glândulas de Bowman (serosas).<br><br><b>Origem embrionária</b><br><b>Epitélio e Glândulas:</b> Ectoderma de superfície (placoides nasais).<br><b>Arcabouço Ósseo/Cartilaginoso e Conjuntivo:</b> Mesênquima da proeminência frontonasal (com participação de células da crista neural)."
+                    ],
+                    "guid": "ex::j|2,q5",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Cavidade_Nasal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p20c_q.jpg\">",
+                        "<img src=\"hist_p20c_a.jpg\"><br><br><b>Rótulo do atlas:</b> plexo vascular na lâmina própria (mucosa respiratória). O atlas não diz se é septo ou concha.<br><br><b>Diagnóstico/Região:</b> Cavidade Nasal — mucosa (septo ou concha: o atlas não especifica)<br><br><b>Descrição histológica</b><br><b>Diagnóstico:</b> Cavidade nasal<br><b>Região:</b> septo nasal ou conchas nasais (esta lâmina não traz esse rótulo no atlas)<br><b>Mucosa Respiratória:</b> epitélio pseudoestratificado cilíndrico ciliado com células caliciformes. Lâmina própria com glândulas seromucosas e rica rede vascular.<br><b>Mucosa Olfatória:</b> epitélio pseudoestratificado (neurônios olfatórios bipolares, células de sustentação e basais). Lâmina própria com nervos olfatórios e Glândulas de Bowman (serosas).<br><br><b>Origem embrionária</b><br><b>Epitélio e Glândulas:</b> Ectoderma de superfície (placoides nasais).<br><b>Arcabouço Ósseo/Cartilaginoso e Conjuntivo:</b> Mesênquima da proeminência frontonasal (com participação de células da crista neural)."
+                    ],
+                    "guid": "K0i40|(nm9",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Cavidade_Nasal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p22c_q.jpg\">",
+                        "<img src=\"hist_p22c_a.jpg\"><br><br><b>Rótulos do atlas:</b> mucosa respiratória (E.R.), mucosa olfatória (E.O.) e glândula de Bowman. O atlas não diz se é septo ou concha.<br><br><b>Diagnóstico/Região:</b> Cavidade Nasal — mucosa (septo ou concha: o atlas não especifica)<br><br><b>Descrição histológica</b><br><b>Diagnóstico:</b> Cavidade nasal<br><b>Região:</b> septo nasal ou conchas nasais (esta lâmina não traz esse rótulo no atlas)<br><b>Mucosa Respiratória:</b> epitélio pseudoestratificado cilíndrico ciliado com células caliciformes. Lâmina própria com glândulas seromucosas e rica rede vascular.<br><b>Mucosa Olfatória:</b> epitélio pseudoestratificado (neurônios olfatórios bipolares, células de sustentação e basais). Lâmina própria com nervos olfatórios e Glândulas de Bowman (serosas).<br><br><b>Origem embrionária</b><br><b>Epitélio e Glândulas:</b> Ectoderma de superfície (placoides nasais).<br><b>Arcabouço Ósseo/Cartilaginoso e Conjuntivo:</b> Mesênquima da proeminência frontonasal (com participação de células da crista neural)."
+                    ],
+                    "guid": "wPe@vgu+}|",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Cavidade_Nasal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p24a_q.jpg\">",
+                        "<img src=\"hist_p24a_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Traqueia — Mucosa, Submucosa, Anéis/Músculo e/ou Adventícia<br><br><b>Descrição histológica</b><br><b>Mucosa</b> - epitélio respiratório (pseudoestratificado cilíndrico ciliado com células caliciformes) e lâmina própria rica em fibras elásticas<br><b>Submucosa</b> - tecido conjuntivo contendo glândulas traqueais seromucosas<br><b>Anéis/Músculo</b> - anéis de cartilagem hialina em forma de “C” na região anterior/lateral e músculo traqueal (músculo liso) na região posterior<br><b>Adventícia</b> - tecido conjuntivo frouxo externo<br><br><b>Origem embrionária</b><br><b>Epitélio e Glândulas:</b> Endoderma do divertículo<br><b>Tecido conjuntivo, cartilagem hialina e músculo liso:</b> Mesoderma esplâncnico"
+                    ],
+                    "guid": "fCN~#,DO~S",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Traqueia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p24d_q.jpg\">",
+                        "<img src=\"hist_p24d_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Traqueia — Mucosa, Submucosa, Anéis/Músculo e/ou Adventícia<br><br><b>Descrição histológica</b><br><b>Mucosa</b> - epitélio respiratório (pseudoestratificado cilíndrico ciliado com células caliciformes) e lâmina própria rica em fibras elásticas<br><b>Submucosa</b> - tecido conjuntivo contendo glândulas traqueais seromucosas<br><b>Anéis/Músculo</b> - anéis de cartilagem hialina em forma de “C” na região anterior/lateral e músculo traqueal (músculo liso) na região posterior<br><b>Adventícia</b> - tecido conjuntivo frouxo externo<br><br><b>Origem embrionária</b><br><b>Epitélio e Glândulas:</b> Endoderma do divertículo<br><b>Tecido conjuntivo, cartilagem hialina e músculo liso:</b> Mesoderma esplâncnico"
+                    ],
+                    "guid": "fYmGqB?-yE",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Traqueia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p25c_q.jpg\">",
+                        "<img src=\"hist_p25c_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Traqueia — Mucosa, Submucosa, Anéis/Músculo e/ou Adventícia<br><br><b>Descrição histológica</b><br><b>Mucosa</b> - epitélio respiratório (pseudoestratificado cilíndrico ciliado com células caliciformes) e lâmina própria rica em fibras elásticas<br><b>Submucosa</b> - tecido conjuntivo contendo glândulas traqueais seromucosas<br><b>Anéis/Músculo</b> - anéis de cartilagem hialina em forma de “C” na região anterior/lateral e músculo traqueal (músculo liso) na região posterior<br><b>Adventícia</b> - tecido conjuntivo frouxo externo<br><br><b>Origem embrionária</b><br><b>Epitélio e Glândulas:</b> Endoderma do divertículo<br><b>Tecido conjuntivo, cartilagem hialina e músculo liso:</b> Mesoderma esplâncnico"
+                    ],
+                    "guid": "OM1e7d?niS",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Traqueia"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p26a_q.jpg\">",
+                        "<img src=\"hist_p26a_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Pulmão — Brônquio Intrapulmonar<br><br><b>Descrição histológica</b><br><b>Mucosa</b> - epitélio respiratório e lâmina própria rica em fibras elásticas e uma camada de músculo liso em espiral<br><b>Submucosa</b> - glândulas seromucosas<br><b>Camada Cartilaginosa</b> - caracterizada por placas ou peças irregulares de cartilagem hialina<br><b>Adventícia</b> - tecido conjuntivo frouxo contínuo com o parênquima pulmonar<br><br><b>Origem embrionária</b><br><b>Epitélio e Glândulas:</b> Endoderma do divertículo<br><b>Tecido conjuntivo, cartilagem hialina e músculo liso:</b> Mesoderma esplâncnico"
+                    ],
+                    "guid": "u=)lf+5Ab6",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p26c_q.jpg\">",
+                        "<img src=\"hist_p26c_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Pulmão — Brônquio Intrapulmonar<br><br><b>Descrição histológica</b><br><b>Mucosa</b> - epitélio respiratório e lâmina própria rica em fibras elásticas e uma camada de músculo liso em espiral<br><b>Submucosa</b> - glândulas seromucosas<br><b>Camada Cartilaginosa</b> - caracterizada por placas ou peças irregulares de cartilagem hialina<br><b>Adventícia</b> - tecido conjuntivo frouxo contínuo com o parênquima pulmonar<br><br><b>Origem embrionária</b><br><b>Epitélio e Glândulas:</b> Endoderma do divertículo<br><b>Tecido conjuntivo, cartilagem hialina e músculo liso:</b> Mesoderma esplâncnico"
+                    ],
+                    "guid": "A`q|*((-]",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p26d_q.jpg\">",
+                        "<img src=\"hist_p26d_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Pulmão — Brônquio Intrapulmonar<br><br><b>Descrição histológica</b><br><b>Mucosa</b> - epitélio respiratório e lâmina própria rica em fibras elásticas e uma camada de músculo liso em espiral<br><b>Submucosa</b> - glândulas seromucosas<br><b>Camada Cartilaginosa</b> - caracterizada por placas ou peças irregulares de cartilagem hialina<br><b>Adventícia</b> - tecido conjuntivo frouxo contínuo com o parênquima pulmonar<br><br><b>Origem embrionária</b><br><b>Epitélio e Glândulas:</b> Endoderma do divertículo<br><b>Tecido conjuntivo, cartilagem hialina e músculo liso:</b> Mesoderma esplâncnico"
+                    ],
+                    "guid": "t(Est#^pCY",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p27a_q.jpg\">",
+                        "<img src=\"hist_p27a_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Pulmão — Bronquíolo Propriamente Dito<br><br><b>Descrição histológica</b><br><b>Epitélio</b> - revestido por epitélio simples cilíndrico a cúbico ciliado com poucas células caliciformes<br><b>Cartilagem e Glândulas</b> - ausência total de cartilagem e pouca presença glandular<br><b>Parede</b> - envolvida por uma camada espessa de músculo liso (músculo de Reisseisen)<br><br><b>Origem embrionária</b><br><b>Epitélio:</b> Endoderma do divertículo<br><b>Músculo liso e estroma:</b> Mesoderma esplâncnico"
+                    ],
+                    "guid": "q)(o2cs^^Z",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p27b_q.jpg\">",
+                        "<img src=\"hist_p27b_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Pulmão — Bronquíolo Propriamente Dito<br><br><b>Descrição histológica</b><br><b>Epitélio</b> - revestido por epitélio simples cilíndrico a cúbico ciliado com poucas células caliciformes<br><b>Cartilagem e Glândulas</b> - ausência total de cartilagem e pouca presença glandular<br><b>Parede</b> - envolvida por uma camada espessa de músculo liso (músculo de Reisseisen)<br><br><b>Origem embrionária</b><br><b>Epitélio:</b> Endoderma do divertículo<br><b>Músculo liso e estroma:</b> Mesoderma esplâncnico"
+                    ],
+                    "guid": "hAMKU{|,6}",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p27c_q.jpg\">",
+                        "<img src=\"hist_p27c_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Pulmão — Bronquíolo Propriamente Dito<br><br><b>Descrição histológica</b><br><b>Epitélio</b> - revestido por epitélio simples cilíndrico a cúbico ciliado com poucas células caliciformes<br><b>Cartilagem e Glândulas</b> - ausência total de cartilagem e pouca presença glandular<br><b>Parede</b> - envolvida por uma camada espessa de músculo liso (músculo de Reisseisen)<br><br><b>Origem embrionária</b><br><b>Epitélio:</b> Endoderma do divertículo<br><b>Músculo liso e estroma:</b> Mesoderma esplâncnico"
+                    ],
+                    "guid": "wuPD8n>?e_",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br>Foco: a estrutura da seta preta.<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p28a_q.jpg\">",
+                        "<img src=\"hist_p28a_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Pulmão — Bronquíolo Terminal<br><br><b>Descrição histológica</b><br><b>Terminal</b> - revestido por epitélio simples cúbico ciliado e fina camada muscular, sem cartilagem<br><br><b>Origem embrionária</b><br><b>Epitélio:</b> Endoderma do divertículo<br><b>Músculo liso e conjuntivo:</b> Mesoderma esplâncnico"
+                    ],
+                    "guid": "GUk.N1T;y:",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br>Foco: a estrutura da seta vermelha.<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p28a_q.jpg\">",
+                        "<img src=\"hist_p28a_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Pulmão — Bronquíolo Respiratório<br><br><b>Descrição histológica</b><br><b>Respiratório</b> - marca a transição para a porção respiratória, apresentando parede cúbica interrompida por alvéolos isolados<br><br><b>Origem embrionária</b><br><b>Epitélio:</b> Endoderma do divertículo<br><b>Músculo liso e conjuntivo:</b> Mesoderma esplâncnico"
+                    ],
+                    "guid": "G18V6.fWaz",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p30a_q.jpg\">",
+                        "<img src=\"hist_p30a_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Pulmão — Ductos Alveolares e Sacos Alveolares<br><br><b>Descrição histológica</b><br><b>Ductos e Sacos Alveolares</b> - vias e aglomerados em fundo cego revestidos por alvéolos, apresentando pequenos botões de músculo liso nas margens dos ductos (coxins)<br><br><b>Origem embrionária</b><br><b>Epitélio (Pneumócitos I e II):</b> Endoderma do divertículo<br><b>Tecido conjuntivo (septos) e capilares:</b> Mesoderma esplâncnico"
+                    ],
+                    "guid": "pakk$[yc~<",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p28b_q.jpg\">",
+                        "<img src=\"hist_p28b_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Pulmão — Ductos Alveolares e Sacos Alveolares<br><br><b>Descrição histológica</b><br><b>Ductos e Sacos Alveolares</b> - vias e aglomerados em fundo cego revestidos por alvéolos, apresentando pequenos botões de músculo liso nas margens dos ductos (coxins)<br><br><b>Origem embrionária</b><br><b>Epitélio (Pneumócitos I e II):</b> Endoderma do divertículo<br><b>Tecido conjuntivo (septos) e capilares:</b> Mesoderma esplâncnico"
+                    ],
+                    "guid": "cCf?|V+2^o",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p29a_q.jpg\">",
+                        "<img src=\"hist_p29a_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Pulmão — Ductos Alveolares e Sacos Alveolares<br><br><b>Descrição histológica</b><br><b>Ductos e Sacos Alveolares</b> - vias e aglomerados em fundo cego revestidos por alvéolos, apresentando pequenos botões de músculo liso nas margens dos ductos (coxins)<br><br><b>Origem embrionária</b><br><b>Epitélio (Pneumócitos I e II):</b> Endoderma do divertículo<br><b>Tecido conjuntivo (septos) e capilares:</b> Mesoderma esplâncnico"
+                    ],
+                    "guid": "M_0Y2%Z4P.",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p29b_q.jpg\">",
+                        "<img src=\"hist_p29b_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Pulmão — Alvéolos<br><br><b>Descrição histológica</b><br><b>Alvéolos</b> - evaginações saculiformes revestidas por Pneumócitos Tipo I (células pavimentosas delgadas para troca gasosa) e Pneumócitos Tipo II (células cúbicas secretoras de surfactante pulmonar)<br><br><b>Origem embrionária</b><br><b>Epitélio (Pneumócitos I e II):</b> Endoderma do divertículo"
+                    ],
+                    "guid": "JG5]=C1-SV",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p29c_q.jpg\">",
+                        "<img src=\"hist_p29c_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Pulmão — Alvéolos<br><br><b>Descrição histológica</b><br><b>Alvéolos</b> - evaginações saculiformes revestidas por Pneumócitos Tipo I (células pavimentosas delgadas para troca gasosa) e Pneumócitos Tipo II (células cúbicas secretoras de surfactante pulmonar)<br><br><b>Origem embrionária</b><br><b>Epitélio (Pneumócitos I e II):</b> Endoderma do divertículo"
+                    ],
+                    "guid": "K0>~a}^I1$",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br>Foco: a célula circulada.<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p29c_q.jpg\">",
+                        "<img src=\"hist_p29c_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Pulmão — Macrófagos Alveolares<br><br><b>Descrição histológica</b><br><b>Macrófagos alveolares</b> - presentes no lúmen e septo<br><br><b>Origem embrionária</b><br><b>Macrófagos Alveolares:</b> Mesoderma (via monócitos do sangue)"
+                    ],
+                    "guid": "rDFV$Q_XOk",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p29d_q.jpg\">",
+                        "<img src=\"hist_p29d_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Pulmão — Septo Interalveolar<br><br><b>Descrição histológica</b><br><b>Septo interalveolar</b> - matriz elástica/reticular com densa rede de capilares contínuos<br><br><b>Origem embrionária</b><br><b>Tecido conjuntivo (septos) e capilares:</b> Mesoderma esplâncnico"
+                    ],
+                    "guid": "i%,l[.]Ii]",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::HISTOLOGIA_PR2::Pulmao"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histologia PR2 — qual o diagnóstico/região desta lâmina? Descreva a histologia e a origem embrionária<br><i>Pode cair mais de uma coisa por lâmina: diagnóstico, região, descrição e origem.</i><br><img src=\"hist_p29b_q.jpg\">",
+                        "<img src=\"hist_p29b_a.jpg\"><br><br><b>Diagnóstico/Região:</b> Pulmão — Septo Interalveolar<br><br><b>Descrição histológica</b><br><b>Septo interalveolar</b> - matriz elástica/reticular com densa rede de capilares contínuos<br><br><b>Origem embrionária</b><br><b>Tecido conjuntivo (septos) e capilares:</b> Mesoderma esplâncnico"
+                    ],
+                    "guid": "enEX:@iX.@",
                     "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
                     "tags": [
                         "M2::HISTOLOGIA_PR2::Pulmao"
