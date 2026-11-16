@@ -40198,6 +40198,7 @@
                 "caso_piercing_orelha.jpg",
                 "catalase_coagulase.jpg",
                 "cce_met.jpg",
+                "celula_M.jpg",
                 "celula_ciliada_esquema.jpg",
                 "circulacao_fetal_neonatal.jpg",
                 "circulacao_sazonal.jpg",
@@ -40260,6 +40261,10 @@
                 "estrutura_vasos.jpg",
                 "estruturas_externas_olho.jpg",
                 "etapas_sinapse_quimica.png",
+                "ev_apresentacao.jpg",
+                "ev_capsula.jpg",
+                "ev_helmintos.jpg",
+                "ev_variacao.jpg",
                 "evolucao_epidemias.jpg",
                 "excitotoxicidade_glutamatergica.png",
                 "fab_fc_papaina.jpg",
@@ -40308,6 +40313,7 @@
                 "geracao_peps.png",
                 "geracao_pips.png",
                 "glutamato_via_metabolica.png",
+                "gonorreia.jpg",
                 "gonorreia_cervicite.jpg",
                 "gonorreia_conjuntivite.jpg",
                 "gonorreia_diplococos_gram.jpg",
@@ -40336,6 +40342,8 @@
                 "homunculo_3d.jpg",
                 "id_igg_AD.jpg",
                 "ig_secretada_vs_membrana.jpg",
+                "iga_t_dependente.jpg",
+                "iga_t_independente.jpg",
                 "il6_figado_proteinas_fase_aguda.jpg",
                 "img01_caso_bcg.jpg",
                 "img01_imunidade_celular_T.jpg",
@@ -40372,6 +40380,7 @@
                 "inato_x_adaptativo_comparacao.jpg",
                 "infarto_agudo_oculto.jpg",
                 "infeccoes_invasivas.jpg",
+                "influenza.jpg",
                 "influenza_estrutura.jpg",
                 "influenza_hospedeiros.jpg",
                 "interacao_tb.jpg",
@@ -40403,11 +40412,15 @@
                 "membrana_timpanica_otoscopia.jpg",
                 "meninges_camadas.jpg",
                 "mhc_estrutura_comparacao.jpg",
+                "microbiota_agcc.jpg",
                 "migracao_leucocitaria_detalhada.jpg",
                 "miocardio.jpg",
                 "montes_auriculares.jpg",
                 "mortalidade_idade.jpg",
                 "mrsa_antibiograma.jpg",
+                "mucosa_celulas_intestinais.jpg",
+                "mucosa_componentes.jpg",
+                "mucosa_sitios_treg.jpg",
                 "musculos_extraoculares.jpg",
                 "mycobacterium_leprae.jpg",
                 "nariz_externo.jpg",
@@ -40451,6 +40464,7 @@
                 "patogenese_fluxograma.jpg",
                 "pcr_pos_cirurgico.jpg",
                 "placa_cuticular_mev.jpg",
+                "placa_peyer.jpg",
                 "plexos_nervosos.jpg",
                 "pneumoniae_intro.jpg",
                 "pneumoniae_patogenese.jpg",
@@ -40475,6 +40489,7 @@
                 "retina_neural_camadas.jpg",
                 "retroalimentacao.jpg",
                 "retroalimentacao_anticorpos.jpg",
+                "rotas_captacao.jpg",
                 "sars_cov2_estrutura.jpg",
                 "sc_ativacao_extracelular.jpg",
                 "sc_cascata_completa.jpg",
@@ -40540,13 +40555,17 @@
                 "timo_dep_vs_indep.jpg",
                 "tip_links_met.jpg",
                 "tipos_capilares_vias.jpg",
+                "tlr_basolateral.jpg",
                 "tnf_dose_dependente.jpg",
+                "todc_treg_anergia.jpg",
+                "tolerancia_b7.jpg",
                 "toxina_ab_mecanismo.jpg",
                 "toxinas_aureus.jpg",
                 "transmissao_tb.jpg",
                 "traqueia_anatomia.jpg",
                 "tratamento_hanseniase_pqt.jpg",
                 "tratamento_tb_mecanismo.jpg",
+                "treg_supressoras.jpg",
                 "treponema_campo_escuro.jpg",
                 "treponema_esquema.jpg",
                 "treponema_fluorescencia.jpg",
@@ -80367,6 +80386,774 @@
                     "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
                     "tags": [
                         "M2::FISIOLOGIA::Integracao_Respiratorio"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Imunidade de mucosas — qual é o desafio central que organiza toda a aula?",
+                        "<b>Responder a agentes infecciosos SEM reagir à microbiota comensal e aos alimentos (principalmente no intestino).</b><br><br>O alimento não é estéril: os microrganismos entram junto com a comida, então a mucosa precisa distinguir o inofensivo do perigoso."
+                    ],
+                    "guid": "BJ7;16=f);",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Mucosa_Intestinal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mucosa — o que é e de que camadas é formada?",
+                        "Tecido que recobre as cavidades do corpo em contato com o meio externo: <b>uma camada de células epiteliais + uma camada de tecido conjuntivo (lâmina própria)</b>."
+                    ],
+                    "guid": "Lg/9wtt~gm",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Mucosa_Intestinal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mucosa — em quais locais do corpo ela existe?",
+                        "Oral, nasal, ocular, gástrica, intestinal, respiratória, vaginal, anal e urinária."
+                    ],
+                    "guid": "wHJy6eK_6o",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Mucosa_Intestinal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mucosa — quais são as 4 funções?",
+                        "1. Proteção (barreira física)<br>2. Secreção (muco, enzimas)<br>3. Absorção<br>4. Defesa imunológica"
+                    ],
+                    "guid": "f7ZP4l#;eR",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Mucosa_Intestinal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "MALT — o que é, onde fica e quais são suas subdivisões?",
+                        "<b>Tecido linfoide secundário localizado abaixo da barreira epitelial.</b><br><br>GALT (intestino)<br>BALT (brônquios)<br>NALT (nariz)"
+                    ],
+                    "guid": "AWQM;)dY01",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Mucosa_Intestinal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Enterócito — quais são as funções?",
+                        "Absorve nutrientes, secreta enzimas e citocinas e forma as junções de oclusão (barreira)."
+                    ],
+                    "guid": "Op+8!@F]C4",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Mucosa_Intestinal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Células epiteliais especializadas do intestino — qual a função de cada uma (caliciforme, M e Paneth)?",
+                        "Caliciforme: secreta muco<br>Célula M: transporta antígenos para as células dendríticas<br>Célula de Paneth: secreta peptídeos antimicrobianos<br><br><img src=\"mucosa_celulas_intestinais.jpg\">"
+                    ],
+                    "guid": "M!-i6g0(tR",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Mucosa_Intestinal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lâmina própria — quais células imunes residentes e o que cada uma faz?",
+                        "<b>DC tolerogênicas e macrófagos M2 mantêm um ambiente anti-inflamatório (IL-10 e TGF-β).</b><br><br>DC tolerogênica: induz tolerância mediada por linfócitos T. Macrófago M2: resposta anti-inflamatória e fenótipo singular, mata o microrganismo e secreta IL-10 sem inflamar."
+                    ],
+                    "guid": "Gd|Lj(=DZW",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Mucosa_Intestinal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mucosa intestinal — o que compõe a lâmina própria e o que fica FORA da mucosa (armadilha)?",
+                        "<b>Lâmina própria = tecido conjuntivo com células do sistema imune (MALT), vasos linfáticos e vasos sanguíneos.</b> Há linfócitos T CD8 intraepiteliais entre as células epiteliais.<br><br>Armadilha: o mesentério é a membrana que reveste a cavidade abdominal e fica fora da mucosa.<br><br><img src=\"mucosa_componentes.jpg\">"
+                    ],
+                    "guid": "roDUHgPgz)",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Mucosa_Intestinal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Placas de Peyer — o que são e qual é o papel delas?",
+                        "<b>MALT do intestino delgado (íleo) com linfócitos T e B, responsável pela vigilância imune.</b><br><br>Os antígenos são drenados pela linfa para os linfonodos mesentéricos.<br><br><img src=\"placa_peyer.jpg\">"
+                    ],
+                    "guid": "F7CSC0Cs14",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Mucosa_Intestinal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Célula M — como ela leva o antígeno ao tecido linfoide e por que isso é vantajoso?",
+                        "<b>Faz transporte transcelular (transcitose) do antígeno da luz intestinal até as células dendríticas, já no tecido linfoide.</b><br><br>Isso favorece o contato do antígeno com os linfócitos específicos.<br><br><img src=\"celula_M.jpg\">"
+                    ],
+                    "guid": "tz*rWN/C~6",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Mucosa_Intestinal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Imunidade inata da mucosa intestinal — quais são os 4 mecanismos?",
+                        "1. Camada espessa de muco<br>2. Barreira epitelial (tight junctions)<br>3. Peptídeos antimicrobianos (no muco)<br>4. Macrófagos, neutrófilos, eosinófilos e células epiteliais que secretam citocinas inflamatórias se ativados via PRR"
+                    ],
+                    "guid": "iBSATT|#c-",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Mucosa_Intestinal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Comensais — em que situação eles se tornam patogênicos?",
+                        "<b>Quando atravessam a barreira (lesão).</b><br><br>Exemplo: a E. coli ajuda na digestão, mas se invadir o peritônio causa peritonite (falta de competição)."
+                    ],
+                    "guid": "k9[<&b63(B",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Mucosa_Intestinal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "IgA na mucosa — onde é produzida, para onde vai e o que faz?",
+                        "Produzida pelos linfócitos B na lâmina própria, é transportada para o lúmen e neutraliza comensais e patógenos."
+                    ],
+                    "guid": "cm!sRKL{L%",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Mucosa_Intestinal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "IgA independente de T — como é produzida e que efeito tem?",
+                        "<b>Linfócito B1 + TGF-β + APRIL e BAFF → troca de isotipo para IgA de baixa afinidade, sem precisar de T CD4.</b><br><br>TGF-β vem de células epiteliais, M2, DC tolerogênicas e Treg. APRIL e BAFF vêm de DC tolerogênicas e células epiteliais. A IgA neutraliza toxinas e aglutina comensais.<br><br><img src=\"iga_t_independente.jpg\">"
+                    ],
+                    "guid": "wI8gUh.K#o",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Mucosa_Intestinal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "IgA dependente de T — quando ocorre e que tipo de IgA gera?",
+                        "<b>Ocorre diante de comensais invasivos (que entraram pela célula M) e gera IgA de alta afinidade, dependente de T CD4.</b><br><br><img src=\"iga_t_dependente.jpg\">"
+                    ],
+                    "guid": "OKdsy,dooZ",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Mucosa_Intestinal"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Célula dendrítica imatura — o que decide se ela leva à resposta imune ou à tolerância?",
+                        "<b>Os sinais do ambiente.</b><br><br>A iDC é uma 'bússola' com dois destinos opostos: a mesma célula assume fenótipos completamente distintos conforme o estímulo."
+                    ],
+                    "guid": "uzMaioa.Ov",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Tolerancia_Mucosa"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tolerância periférica intestinal — quais são os 3 destinos do linfócito T quando a apresentação ocorre sem coestimulação?",
+                        "<b>Anergia, apoptose ou Treg.</b><br><br>Isso acontece quando a DC apresenta proteína alimentar e comensais sem coestimulação (sem B7).<br><br><img src=\"tolerancia_b7.jpg\">"
+                    ],
+                    "guid": "E*UYtk#RP3",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Tolerancia_Mucosa"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ambiente tolerogênico — quais são as características?",
+                        "Eubiose, apresentação pela DC sem coestimulação, vitamina A (ácido retinoico), TGF-β e IL-10."
+                    ],
+                    "guid": "JHm3]RXcAj",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Tolerancia_Mucosa"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Quebra da tolerância — o que a desencadeia e qual o destino do linfócito T?",
+                        "<b>Ambiente inflamado com PAMPs (patógenos entéricos) e DAMPs (lesão tecidual) → T efetor.</b><br><br>Se a DC capta o antígeno opsonizado diretamente e há citocinas inflamatórias, o T virgem se diferencia em efetor."
+                    ],
+                    "guid": "H-`4uQ6pd:",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Tolerancia_Mucosa"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bactérias comensais — quais as características que explicam a não inflamação?",
+                        "<b>Simbiose com poucos PAMPs e sem fatores de virulência, neutralizadas pela IgA.</b><br><br>Dão benefícios nutricionais, metabólicos e imunológicos (induzem tolerância). Exemplos: Bacteroides fragilis, Bifidobacterium, Lactobacillus."
+                    ],
+                    "guid": "Dtx1[#DGbG",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Tolerancia_Mucosa"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bactérias patogênicas — quais características levam à resposta inflamatória?",
+                        "<b>Maior quantidade de PAMPs, moléculas de virulência (toxinas) e dano tecidual (DAMPs), o que as torna facilmente detectáveis pela imunidade inata.</b><br><br>Têm estratégias para invadir tecidos (ex.: acidificação do meio). Exemplos: Salmonella, Shigella, Vibrio cholerae, E. coli enteropatogênica (EPEC/EHEC), Clostridioides difficile."
+                    ],
+                    "guid": "DdSu[YQ^n:",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Tolerancia_Mucosa"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Antígenos alimentares — por que não geram resposta inflamatória?",
+                        "<b>Não têm PAMPs, são digeridos em peptídeos e apresentados pela DC sem coestimulação (B7).</b><br><br>O resultado é apoptose ou Treg, em vez de inflamação."
+                    ],
+                    "guid": "Mf&:}U7`c3",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Tolerancia_Mucosa"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "DC tolerogênica — quais são as etapas para induzir Treg frente a um antígeno alimentar?",
+                        "<b>Capta o antígeno → apresenta ao T virgem sem B7 → ambiente com TGF-β, IL-10 e ácido retinoico (vitamina A) → iTreg com FoxP3 aumentado.</b><br><br>A diferenciação ocorre na periferia."
+                    ],
+                    "guid": "nD:jdo}!FO",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Tolerancia_Mucosa"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Treg — qual é o fenótipo característico?",
+                        "CD4+ CD25+ Foxp3+ CTLA-4+"
+                    ],
+                    "guid": "weo}3Paz;!",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Tolerancia_Mucosa"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mucosas — por que são sítios privilegiados de produção de Treg?",
+                        "<b>DC CD103+ levam o antígeno (alimentar no intestino ou inalado no pulmão) e, com TGF-β + ácido retinoico, convertem o T CD4+ virgem em Treg induzida.</b><br><br>O timo produz Treg de forma central, enquanto as mucosas produzem Treg na periferia.<br><br><img src=\"mucosa_sitios_treg.jpg\">"
+                    ],
+                    "guid": "wxu3h<%s~~",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Tolerancia_Mucosa"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vias de captação — quais são as 5 rotas do antígeno luminal até as DC?",
+                        "1. Transcitose mediada pela célula M<br>2. Captura luminal por 'periscopagem' da DC<br>3. Captura pelos 'poros transcelulares' da célula M<br>4. Antígeno solúvel pequeno (menor que 10 kDa) pelas passagens associadas às células caliciformes<br>5. Translocação pelo lado basolateral do enterócito<br><br>A DC retém o antígeno nativo e induz resposta. O macrófago fagocita e degrada.<br><br><img src=\"rotas_captacao.jpg\">"
+                    ],
+                    "guid": "gF{:4%C[t(",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Tolerancia_Mucosa"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PRRs dos enterócitos — que resposta de barreira eles disparam quando ativados?",
+                        "Aumentam a motilidade intestinal, as zonas de oclusão e os peptídeos antimicrobianos."
+                    ],
+                    "guid": "DeY}n%5xvu",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Tolerancia_Mucosa"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ILC3 — como atua na imunidade inata a comensais?",
+                        "<b>Alarminas/citocinas do epitélio ativado (IL-1, IL-23) → ILC3 secreta IL-17 e IL-22.</b><br><br>IL-17 e IL-22 aumentam os peptídeos antimicrobianos nas células epiteliais e recrutam neutrófilos. A ILC3 é 'prima' da Th17."
+                    ],
+                    "guid": "b{C,}[mjcQ",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Tolerancia_Mucosa"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ILC2 — em que situação atua e quais citocinas participam?",
+                        "<b>Resposta a parasitas: células epiteliais estressadas secretam IL-33 e IL-25 (alarminas) → ILC2 secreta IL-5 e IL-13 (muco).</b>"
+                    ],
+                    "guid": "ie=#?a40;b",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Tolerancia_Mucosa"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "DC tolerogênica — além de Treg, qual outro mecanismo ela usa para induzir tolerância?",
+                        "<b>Anergia do linfócito T CD8 reativo (pouca B7, com TGF-β e IL-10).</b><br><br><img src=\"todc_treg_anergia.jpg\">"
+                    ],
+                    "guid": "rG`X*#pCFY",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Tolerancia_Mucosa"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Treg — como cada um dos mecanismos supressores atua?",
+                        "<b>Quatro mecanismos: IL-10 e TGF-β, CTLA-4, consumo de IL-2 e perforina/granzima.</b><br><br>IL-10 e TGF-β: inibem a ativação clássica de macrófagos, DC e LT<br>CTLA-4 alto: compete com CD28 e remove B7 (inativação funcional)<br>CD25 e FOXP3 altos: consomem IL-2 e privam o linfócito autorreativo de crescimento ('mata de fome')<br>Perforina/granzima: citólise e ambiente supressor<br><br><img src=\"treg_supressoras.jpg\">"
+                    ],
+                    "guid": "bGJ%Tgn0t%",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Tolerancia_Mucosa"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Eubiose — qual é o objetivo da resposta inata aos comensais?",
+                        "<b>Uma resposta suficiente para controlar o crescimento desenfreado dos comensais, reforçando a barreira sem causar inflamação.</b>"
+                    ],
+                    "guid": "Mc-xfN>^.K",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Tolerancia_Mucosa"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PRRs dos enterócitos — por que a localização basolateral evita inflamação contra comensais?",
+                        "<b>Estão na superfície basolateral e só são ativados quando as bactérias ultrapassam a barreira.</b><br><br>Comensais no lúmen não os alcançam."
+                    ],
+                    "guid": "PXPRDoY*_L",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Tolerancia_Mucosa"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Deficiência de TGF-β ou IL-10 (ou de seus receptores) — qual a consequência na mucosa intestinal?",
+                        "Doença inflamatória intestinal (DII), por perda do ambiente tolerogênico e das Treg induzidas."
+                    ],
+                    "guid": "HylyI1P$L/",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Tolerancia_Mucosa"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Microbiota — que papel ela tem na resposta imune da mucosa?",
+                        "<b>Não é só tolerada: ela ativamente molda as imunidades inata e adaptativa e estabelece tolerância a antígenos próprios e comensais.</b><br><br>Atua como sistema epigenético e metabólico."
+                    ],
+                    "guid": "mc847Uy9&d",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Microbiota_Imunidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Microbiota — o que é e quais funções vitais desempenha?",
+                        "Conjunto de trilhões de microrganismos comensais em simbiose com o corpo, essenciais para digestão, imunidade, homeostase, tolerância imunológica e saúde geral."
+                    ],
+                    "guid": "OP{=16[,@#",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Microbiota_Imunidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Microbiota intestinal — que papel tem na síntese de neurotransmissores?",
+                        "Participa da síntese de serotonina, noradrenalina e dopamina ('hormônios do bem-estar')."
+                    ],
+                    "guid": "E}}$}.n.AE",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Microbiota_Imunidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Disbiose precoce — quais fatores a causam e quais doenças se associam?",
+                        "Fatores: parto cesáreo, uso de antibióticos e fórmula infantil. Associação: alergia e doença metabólica."
+                    ],
+                    "guid": "nMt(!;<Xj&",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Microbiota_Imunidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Microbiota comensal — que efeitos tem sobre o epitélio?",
+                        "<b>Produz metabólitos (AGCC) e estimula o epitélio a secretar mucina, defensinas e IL-10, evitando inflamação.</b>"
+                    ],
+                    "guid": "Ppi-|4|ZsC",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Microbiota_Imunidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fibras da dieta e microbiota — como levam à tolerância imunológica?",
+                        "<b>Bactérias fermentam as fibras → AGCC (butirato) → atuam nas DC → IL-10 e TGF-β → ambiente tolerogênico → T CD4+ virgem vira Treg.</b><br><br><img src=\"microbiota_agcc.jpg\">"
+                    ],
+                    "guid": "F#KhHpNhgu",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Microbiota_Imunidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Disbiose e dieta pobre em fibras — que efeito têm sobre a tolerância?",
+                        "Desregulam as Treg: sem AGCC a tolerância enfraquece, abrindo espaço para inflamação por TLR e autoimunidade."
+                    ],
+                    "guid": "i{n3-,&j;p",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Microbiota_Imunidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Comensais em homeostasia — que padrão de resposta imune induzem?",
+                        "<b>Tolerância: Tregs Foxp3+, IgA secretória e IL-10.</b><br><br>Não induzem Th1/Th17 com neutrófilos, nem ativação do complemento ou citotoxicidade CD8+."
+                    ],
+                    "guid": "PKZ?Es}8|d",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Microbiota_Imunidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Quebra da barreira — que resposta as DC ativadas por PAMPs e DAMPs desencadeiam?",
+                        "<b>Ativação completa da DC → IL-12, IL-6 e IL-1 → diferenciação de Th0 em Th1 e Th17 (inflamatórias).</b><br><br>Macrófagos e DC passam a secretar IL-1, IL-6 e TNF-α, estimulando uma resposta mais agressiva."
+                    ],
+                    "guid": "vW6eI]TqD.",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Microbiota_Imunidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "TLR dos enterócitos — como amplificam a inflamação quando o microrganismo invade?",
+                        "<b>Os TLR da superfície basolateral só são ativados se o MO invade, e produzem IL-1, amplificando a resposta inflamatória.</b><br><br><img src=\"tlr_basolateral.jpg\">"
+                    ],
+                    "guid": "G<O*|g+tGV",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Microbiota_Imunidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ILC1 — qual o papel na quebra da barreira epitelial?",
+                        "Entrada do patógeno → ILC1 ativada produz IFN-γ.<br><br>Atenção: o slide diz que a ILC1 reconhece PAMP, mas ILC respondem principalmente a citocinas (confirmar com a professora)."
+                    ],
+                    "guid": "QFvWZ6U|Ee",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Microbiota_Imunidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Antibiótico de amplo espectro e colite por C. difficile — qual é a explicação imunológica?",
+                        "<b>O antibiótico eliminou comensais protetores, quebrando a resistência à colonização e permitindo a expansão da C. difficile.</b>"
+                    ],
+                    "guid": "B_4MjF#-)M",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Microbiota_Imunidade"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mecanismos de evasão — o que são e a que se ligam?",
+                        "<b>Estratégias que os patógenos usam para resistir ao sistema imune e causar danos, ligadas à virulência.</b>"
+                    ],
+                    "guid": "e{xk4(C3AM",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Evasao_Imune"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cápsula polissacarídica — qual o mecanismo e qual o efeito?",
+                        "<b>Polissacarídeos aniônicos impedem a ligação de opsoninas (C3b e IgG) e mascaram os antígenos de superfície reconhecidos pelos RRP → resistência à fagocitose.</b><br><br>A carga negativa repulsa moléculas e células imunes também negativas. Exemplos: Streptococcus pneumoniae e Neisseria meningitidis.<br><br><img src=\"ev_capsula.jpg\">"
+                    ],
+                    "guid": "bI.Ne?z>aF",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Evasao_Imune"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Inibição da ativação do complemento por bactérias — qual o mecanismo?",
+                        "Bloqueiam a ligação da C3-convertase (muitas bactérias)."
+                    ],
+                    "guid": "FMFaHu~]`T",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Evasao_Imune"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Variação antigênica — o que é e quais patógenos a usam?",
+                        "<b>Mudança dos antígenos de superfície do patógeno.</b><br><br>Vírus: influenza e HIV. Bactérias: N. gonorrhoeae, E. coli, Salmonella typhimurium. O pneumococo tem mais de 80 sorotipos.<br><br><img src=\"ev_variacao.jpg\">"
+                    ],
+                    "guid": "ASH*L&@TO1",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Evasao_Imune"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bactérias extracelulares — como escapam das espécies reativas de oxigênio?",
+                        "Bactérias catalase-positivas (incluindo estafilococos e muitas outras)."
+                    ],
+                    "guid": "b=vDfkzDpR",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Evasao_Imune"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bactérias intracelulares — quais bactérias inibem a formação do fagolisossomo?",
+                        "Mycobacterium tuberculosis e Legionella pneumophila."
+                    ],
+                    "guid": "iftlS5K6{_",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Evasao_Imune"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mycobacterium leprae — como evade espécies reativas de oxigênio e nitrogênio?",
+                        "Inativa-as com um glicolipídeo fenólico."
+                    ],
+                    "guid": "LA6HsSS_c3",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Evasao_Imune"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Listeria monocytogenes — como escapa do fagócito?",
+                        "Rompe a membrana do fagossomo (proteína hemolisina) e foge para o citoplasma."
+                    ],
+                    "guid": "GzMEX69OrK",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Evasao_Imune"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Neisseria gonorrhoeae — quais são as 5 estratégias de evasão?",
+                        "1. Variação antigênica da pilina<br>2. Variação de antígenos de superfície<br>3. Adição de ácido siálico à superfície (camuflagem como tecido próprio, reduz ligação do complemento)<br>4. Produção de IgA protease<br>5. Vesículas de membrana externa que funcionam como 'isca'<br><br><img src=\"gonorreia.jpg\">"
+                    ],
+                    "guid": "vRwsE[R9[8",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Evasao_Imune"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Herpesvírus (HSV, CMV, EBV) — que etapa da imunidade celular eles bloqueiam?",
+                        "<b>A apresentação de antígeno (via MHC I), escapando dos linfócitos T CD8+.</b><br><br><img src=\"ev_apresentacao.jpg\">"
+                    ],
+                    "guid": "Pbb|=l+,e0",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Evasao_Imune"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "EBV — como evade pela produção de citocinas?",
+                        "Produz um homólogo da IL-10, que inibe a ativação de macrófagos e células dendríticas."
+                    ],
+                    "guid": "O,iUA<pG[}",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Evasao_Imune"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Poxvírus — como evade pela secreção de receptores para citocinas?",
+                        "Secreta receptores solúveis para IL-1 ou IFN-γ, que bloqueiam a ativação das células efetoras pelas citocinas."
+                    ],
+                    "guid": "P/>Ny/.eR?",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Evasao_Imune"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza — quais são as 2 glicoproteínas de superfície e a função de cada uma?",
+                        "Hemaglutinina (H): adesão à membrana<br>Neuraminidase (N): expulsão da célula infectada<br><br><img src=\"influenza.jpg\">"
+                    ],
+                    "guid": "j`I)EWgvi)",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Evasao_Imune"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Helmintos — quais moléculas usam para evadir o sistema imune?",
+                        "<b>ES-62 (glicoproteína) inibe a ativação de mastócitos e reduz a degranulação.</b><br><br>Também secretam moléculas com atividade semelhante a IL-10 e TGF-β."
+                    ],
+                    "guid": "rYdOxs]RKA",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Evasao_Imune"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Influenza — como surgem novos sorotipos e quais exemplos ficaram conhecidos?",
+                        "<b>Por rearranjo dos segmentos gênicos que codificam H e N.</b><br><br>Gripe espanhola H1N1 (1918), aviária H5N1 (2003) e suína H1N1 (2009)."
+                    ],
+                    "guid": "m;@3E0KdNQ",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Evasao_Imune"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "IgA protease — por que é uma estratégia vantajosa para patógenos de mucosa?",
+                        "A IgA é o principal anticorpo de mucosa (neutraliza e impede translocação). Cortá-la remove essa defesa."
+                    ],
+                    "guid": "Bc}Ux1y&@`",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Evasao_Imune"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Helmintos — qual a resposta imune clássica que eles tentam driblar?",
+                        "<b>Resposta Th2: IL-4, IL-5 e IL-13.</b><br><br>Mastócito sensibilizado por IgE, moléculas vasoativas, exsudação vascular, contração da musculatura lisa e infiltração eosinofílica.<br><br><img src=\"ev_helmintos.jpg\">"
+                    ],
+                    "guid": "F7.f|Lnf45",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::IMUNOLOGIA::Evasao_Imune"
                     ]
                 }
             ],
