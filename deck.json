@@ -40232,6 +40232,7 @@
                 "curva_resposta_1a_2a.jpg",
                 "dc_captura_migracao.jpg",
                 "defeitos_maturacao_linfocitaria.jpg",
+                "dengue_curva_marcadores.jpg",
                 "derivacoes_triangulo_plano.jpg",
                 "derivacoes_vetor.jpg",
                 "dermatomos_identificacao_SEMROTULO.jpg",
@@ -81155,6 +81156,1614 @@
                     "tags": [
                         "M2::IMUNOLOGIA::Evasao_Imune"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anaeróbios não esporulados — por que são chamados de oportunistas?",
+                        "<b>Fazem parte da microbiota normal e só causam infecção quando a microbiota se desequilibra ou uma barreira natural se rompe.</b><br><br>Existem dois grupos: Gram-positivos não esporulados (Actinomyces, Propionibacterium) e Gram-negativos (Bacteroides, Prevotella, Porphyromonas)."
+                    ],
+                    "guid": "e<;z2d7t$;",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Anaerobios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Colite por C. difficile — como é o tratamento?",
+                        "<b>Suspender o antimicrobiano indutor e repor líquidos e eletrólitos.</b><br><br>Nos casos graves a professora cita metronidazol e vancomicina. Em situações específicas, transplante fecal (devolve uma microbiota saudável)."
+                    ],
+                    "guid": "j@4}A{;dry",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Anaerobios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Actinomyces — onde vive, o que NÃO faz parte e que doença causa?",
+                        "<b>Vive no trato gastrointestinal e no respiratório superior (não é da pele) e causa actinomicose.</b><br><br>A actinomicose é uma infecção crônica, de evolução lenta, com lesões granulomatosas."
+                    ],
+                    "guid": "q;r8);z}HR",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Anaerobios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Propionibacterium — onde é encontrado e a que se associa?",
+                        "Pele, orofaringe e trato genital feminino. Associa-se à acne e a infecções de próteses, septicemia e espondilodiscite."
+                    ],
+                    "guid": "QN5%p=>Cd0",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Anaerobios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bacteroides fragilis — onde vive, quando vira patógeno e quais são seus fatores de virulência?",
+                        "<b>Microbiota intestinal. Com desequilíbrio da microbiota ou ruptura de barreira causa infecção intra-abdominal, abscessos, bacteremia e infecção de tecidos moles.</b><br><br>Virulência: cápsula, fímbrias, enzimas e toxinas."
+                    ],
+                    "guid": "BtlN/oB+Jp",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Anaerobios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Prevotella e Porphyromonas — quais espécies foram destacadas e onde habitam?",
+                        "<b>Prevotella melaninogenica: cavidade oral. P. bivia e P. disiens: trato genital feminino. Porphyromonas gingivalis: cavidade oral.</b>"
+                    ],
+                    "guid": "b6C.HO59q0",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Anaerobios"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zika — família, gênero e tipo de genoma (e o que isso o faz ter em comum com dengue e febre amarela)?",
+                        "Família Flaviviridae, gênero Flavivirus, envelopado e aproximadamente esférico, com RNA fita simples de sentido positivo (RNA+). Há linhagens africanas e asiáticas."
+                    ],
+                    "guid": "mkf6bfOLvZ",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Zika"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zika — qual proteína forma o capsídeo e quais compõem o envelope, com a função de cada uma?",
+                        "<b>Capsídeo: proteína C. Envelope: proteínas E e M.</b><br><br>A E é uma glicoproteína que reconhece e liga a célula hospedeira e participa da entrada. A M participa da organização e da maturação da partícula."
+                    ],
+                    "guid": "N1Kde3JF=G",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Zika"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zika — o que fazem as proteínas estruturais e as não estruturais codificadas pelo RNA?",
+                        "As estruturais formam a partícula viral. As não estruturais atuam na replicação do genoma e na regulação das etapas de multiplicação."
+                    ],
+                    "guid": "w!;gO~Ubz0",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Zika"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Flavivírus (ex.: Zika) — como o vírus entra na célula e como o RNA chega ao citoplasma?",
+                        "<b>Adsorção pela proteína E, endocitose e, no endossomo, acidificação que leva à fusão do envelope e à liberação do RNA.</b><br><br>Adsorção: a proteína E reconhece receptores. Entrada por endocitose (vírus fica no endossomo). A acidificação altera as proteínas virais e favorece a fusão do envelope com a membrana endossomal."
+                    ],
+                    "guid": "OqksfWMGjH",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Zika"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Flavivírus — por que o genoma RNA+ pode ser usado direto pela célula e o que acontece em seguida?",
+                        "<b>Porque o RNA+ funciona como RNAm: os ribossomos o traduzem direto numa poliproteína, depois processada.</b><br><br>A poliproteína é clivada em proteínas estruturais e não estruturais. O RNA é replicado em membranas do retículo endoplasmático."
+                    ],
+                    "guid": "EJApAm6C~G",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Zika"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Flavivírus — como as partículas são montadas, amadurecem e saem da célula?",
+                        "RNA e proteínas estruturais formam partículas imaturas, que passam pelo Golgi e pela rede trans-Golgi (maturação) e saem em vesículas por exocitose."
+                    ],
+                    "guid": "I6{|+eT-$;",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Zika"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zika — qual é a principal via de transmissão e quais são os vetores?",
+                        "<b>Vetorial, por mosquitos Aedes. No Brasil o principal vetor urbano é o Aedes aegypti, e o Aedes albopictus também pode transmitir.</b>"
+                    ],
+                    "guid": "ODOghfCU>T",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Zika"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zika — quais outras vias de transmissão existem além da vetorial?",
+                        "Sexual, vertical/transplacentária (gestante para o feto) e, em situações específicas, transfusão de sangue ou hemocomponentes contaminados."
+                    ],
+                    "guid": "xome$*P6e=",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Zika"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zika — como costuma ser a apresentação clínica e quais sintomas aparecem?",
+                        "<b>Muitos são assintomáticos. Quando há sintomas, são leves a moderados, semelhantes a outras arboviroses.</b><br><br>Exantema (frequentemente com prurido), febre geralmente baixa, cefaleia, artralgia, mialgia e conjuntivite."
+                    ],
+                    "guid": "Eg<4BkuHfx",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Zika"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zika — qual manifestação ajuda a diferenciar de outras arboviroses, e ela basta para confirmar?",
+                        "A conjuntivite ajuda a diferenciar, mas nenhum sintoma isolado confirma o diagnóstico: é preciso contexto epidemiológico e exames."
+                    ],
+                    "guid": "I/A(oEZ/J>",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Zika"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zika — por que a infecção na gestação pode comprometer o cérebro do feto?",
+                        "<b>O vírus infecta células progenitoras neurais e atravessa a placenta, interferindo na multiplicação das células que formarão o sistema nervoso.</b><br><br>Pode causar microcefalia (perímetro cefálico menor que o esperado), calcificações intracranianas e outras alterações do desenvolvimento cerebral."
+                    ],
+                    "guid": "xy[tAk}{F&",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Zika"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zika e gestação — por que o 1º trimestre merece atenção e toda gestante infectada terá bebê com microcefalia?",
+                        "O 1º trimestre é a fase de intensa formação e organização do sistema nervoso. Mas não: o risco depende de diferentes fatores da infecção e do desenvolvimento fetal."
+                    ],
+                    "guid": "zetl(8l9Ug",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Zika"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zika — qual complicação neurológica atinge nervos periféricos e quais são suas manifestações?",
+                        "<b>Síndrome de Guillain-Barré: resposta imune que atinge componentes dos nervos periféricos (como a mielina).</b><br><br>Causa fraqueza muscular progressiva, redução ou ausência de reflexos e, nos casos graves, comprometimento da musculatura respiratória. É rara, mas potencialmente grave."
+                    ],
+                    "guid": "Pd)r%fzeKN",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Zika"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zika — qual exame detecta o RNA viral e em quais amostras e prazos?",
+                        "<b>RT-PCR. Soro: ~2º ao 7º dia dos sintomas. Urina: até ~14 dias.</b><br><br>Saliva: maior sensibilidade em torno do 5º dia. Sêmen e nasofaringe: detecção por períodos mais longos. Coletar cedo aumenta a chance de detecção porque o RNA viral diminui com o tempo."
+                    ],
+                    "guid": "M`/tjQCv15",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Zika"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zika — o que a sorologia por ELISA mostra e qual o cuidado na interpretação?",
+                        "<b>IgM sugere infecção recente, IgG aparece depois e persiste. O cuidado é a reação cruzada entre flavivírus (principalmente Zika e dengue).</b><br><br>Os vírus têm estruturas antigênicas parecidas, então um teste positivo nem sempre diz qual flavivírus causou a infecção."
+                    ],
+                    "guid": "L2gQ!}V8Sa",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Zika"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zika — o que é o PRNT, como funciona e quais suas limitações?",
+                        "<b>Teste de neutralização por redução de placas: avalia a capacidade neutralizante dos anticorpos do soro.</b><br><br>O soro é posto com o vírus e a mistura vai à cultura celular para ver se reduz a formação de placas. Ajuda em sorologias inconclusivas, mas pode ter dificuldade de distinguir Zika de outros flavivírus, principalmente após exposição prévia."
+                    ],
+                    "guid": "A3?0KkaRLr",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Zika"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zika — existe antiviral e como é o manejo?",
+                        "Não existe antiviral específico. O manejo é sintomático e de suporte, com acompanhamento especializado e reabilitação quando há complicações neurológicas."
+                    ],
+                    "guid": "j=~*c=0r]?",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Zika"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zika — quais medidas de prevenção a aula destaca?",
+                        "<b>Eliminar criadouros do Aedes, usar barreiras físicas e repelentes e adotar práticas sexuais seguras.</b><br><br>Criadouros: água parada em recipientes, pneus, caixas-d'água descobertas. Barreiras: telas e roupas que cubram o corpo. Repelentes: DEET, IR3535 ou icaridina. Recém-nascidos: telas, mosquiteiros e roupas apropriadas."
+                    ],
+                    "guid": "hyF,{fL)Tk",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Zika"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zika e amamentação — a prevenção indica suspender o aleitamento?",
+                        "Não. O Ministério da Saúde recomenda manter o aleitamento materno, pois não há evidência científica estabelecida de transmissão do Zika pelo leite materno."
+                    ],
+                    "guid": "p?D9hmOjv5",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Zika"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Febre amarela — o que diferencia, em lógica, o ciclo silvestre do urbano?",
+                        "<b>No silvestre o ser humano é hospedeiro acidental e o vírus se mantém entre primatas e mosquitos da mata. No urbano o ser humano é o principal hospedeiro e o vetor é o Aedes aegypti.</b>"
+                    ],
+                    "guid": "I5[s5|E*ct",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Febre_Amarela"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Febre amarela — agente, família e genoma?",
+                        "Vírus amarílico (YFV), Flavivirus da família Flaviviridae, RNA+ de fita simples, envelopado e aproximadamente esférico, parasita intracelular obrigatório."
+                    ],
+                    "guid": "JPRz=`,~f1",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Febre_Amarela"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Febre amarela — quais proteínas compõem a estrutura e o que faz a glicoproteína E?",
+                        "<b>Capsídeo (proteína C) e envelope com proteínas E e M.</b><br><br>A glicoproteína E liga o vírus à célula e participa da entrada. A M participa da organização e maturação."
+                    ],
+                    "guid": "N9Vl-3i(|Q",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Febre_Amarela"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Febre amarela no Brasil — onde circulava historicamente e o que mudou a partir de 2014?",
+                        "Circulava sobretudo na Região Norte (floresta amazônica). A partir de 2014 houve reemergência, com expansão para outras regiões, especialmente o Sudeste, levando a surtos e à ampliação de vacinação e vigilância."
+                    ],
+                    "guid": "^]lV4Dk_w",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Febre_Amarela"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Febre amarela silvestre — quais são os vetores e os hospedeiros?",
+                        "Vetores: mosquitos Haemagogus e Sabethes. Hospedeiros e amplificadores: primatas não humanos (macacos)."
+                    ],
+                    "guid": "L/r1phplNc",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Febre_Amarela"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Febre amarela silvestre — como uma pessoa se infecta e qual é o papel dela no ciclo?",
+                        "Pessoa não vacinada entra na mata e é picada por mosquito infectado. O ser humano é hospedeiro acidental, não essencial para manter o ciclo silvestre."
+                    ],
+                    "guid": "E&5S|6!6CJ",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Febre_Amarela"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Febre amarela — qual o papel dos macacos e eles transmitem diretamente para pessoas?",
+                        "<b>São sinalizadores da circulação viral e não transmitem diretamente: a transmissão é por mosquitos.</b><br><br>Primatas mortos ou doentes indicam presença do vírus, alertam as autoridades para intensificar a vigilância e avaliar a vacinação."
+                    ],
+                    "guid": "BFD5atj6h,",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Febre_Amarela"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Febre amarela urbana — qual o vetor e o que é preciso para o ciclo se estabelecer?",
+                        "<b>Vetor Aedes aegypti. Uma pessoa infectada vindo da mata não estabelece o ciclo automaticamente: mosquitos urbanos suscetíveis precisam adquirir e transmitir o vírus.</b><br><br>No Brasil não há transmissão urbana registrada desde 1942, mas a reurbanização preocupa a vigilância."
+                    ],
+                    "guid": "g+UCX>kYOD",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Febre_Amarela"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Febre amarela — qual a incubação e como são as formas leves e moderadas?",
+                        "Incubação de ~3 a 7 dias. Febre alta, calafrios, cansaço, cefaleia, dor muscular, náuseas e vômitos, inespecíficos, o que gera subnotificação."
+                    ],
+                    "guid": "L|VUA0Fjm,",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Febre_Amarela"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Febre amarela grave — quais órgãos são mais atingidos e quais são as manifestações?",
+                        "<b>Fígado e rins: lesão hepática, icterícia, alteração da função renal, hemorragias e comprometimento do estado geral.</b><br><br>Icterícia é a cor amarelada de pele e mucosas por acúmulo de bilirrubina. O fígado também participa do controle da coagulação, daí os sangramentos."
+                    ],
+                    "guid": "JE(0W#%3Ds",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Febre_Amarela"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Febre amarela grave — qual é o sinal hemorrágico clássico (ATENÇÃO: nas anotações aparece como tosse negra)?",
+                        "<b>O correto é vômito negro (hematêmese, sangue digerido no vômito), e não tosse negra.</b><br><br>Cuspir sangue vindo da tosse seria hemoptise, que não é o achado típico. Confirmar com a professora como ela cobra."
+                    ],
+                    "guid": "g;|:o,o+3S",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Febre_Amarela"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Febre amarela — o que caracteriza a forma maligna?",
+                        "Comprometimento intenso de órgãos e maior risco de morte: icterícia acentuada, hemorragias, choque e insuficiência de múltiplos órgãos, com letalidade elevada."
+                    ],
+                    "guid": "o%8rr6np_H",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Febre_Amarela"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Febre amarela — quais métodos laboratoriais podem ser usados?",
+                        "<b>RT-PCR, sorologia, isolamento viral e imuno-histoquímica, escolhidos conforme a fase da doença, a amostra e as condições do paciente.</b><br><br>RT-PCR detecta o RNA viral. Isolamento viral recupera o vírus de amostras clínicas. Imuno-histoquímica usa anticorpos para identificar o vírus em tecido. Testes rápidos de IgM e IgG também existem."
+                    ],
+                    "guid": "oe(7cNgibp",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Febre_Amarela"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Febre amarela — por que a sorologia (IgG) exige olhar o histórico vacinal?",
+                        "Porque IgM indica resposta recente, mas IgG pode refletir exposição anterior ou resposta após a vacina, e há reação cruzada possível com outros flavivírus."
+                    ],
+                    "guid": "N57;?(T|Lz",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Febre_Amarela"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Febre amarela — qual é o tipo da vacina e qual a principal medida de prevenção?",
+                        "A vacinação é a principal medida (junto com vigilância e controle de vetores). É de vírus vivo atenuado, com elevada eficácia."
+                    ],
+                    "guid": "k>m!BjG6j-",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Febre_Amarela"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Febre amarela — qual é o esquema de vacinação infantil e de 5 a 59 anos?",
+                        "<b>Criança: 1 dose aos 9 meses e reforço aos 4 anos. De 5 a 59 anos não vacinados: 1 dose.</b><br><br>Pelas orientações brasileiras, uma dose recebida a partir dos 5 anos costuma ser suficiente para toda a vida. Quem recebeu a primeira dose aos 9 meses precisa do reforço previsto aos 4 anos."
+                    ],
+                    "guid": "xSpq6Mpyvj",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Febre_Amarela"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Febre amarela — quais grupos exigem cuidado na vacinação?",
+                        "<b>≥ 60 anos (indicação individualizada), imunossuprimidos, alérgicos graves a ovo e gestantes.</b><br><br>Aos 60 anos ou mais pesa o risco epidemiológico, as condições clínicas e os eventos adversos. Contraindicada em certas imunossupressões e na alergia grave ao ovo. Em gestantes geralmente adiar ou evitar (vírus vivo atenuado), com avaliação individual se o risco for muito alto."
+                    ],
+                    "guid": "qm2lj%|$6(",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Febre_Amarela"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Febre amarela — o que fazer ao encontrar primatas mortos ou doentes?",
+                        "Comunicar às autoridades, pois eles sinalizam circulação viral e orientam as ações de saúde pública."
+                    ],
+                    "guid": "GCt;/Bz]Xw",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Febre_Amarela"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — por que a queda da febre é um momento de risco, e não de melhora garantida?",
+                        "<b>Porque a fase crítica pode começar justamente na defervescência (3º ao 7º dia): aumenta a permeabilidade capilar e o plasma extravasa.</b><br><br>O extravasamento causa hemoconcentração, derrames cavitários, hipotensão e, nos graves, choque. Os sinais de alarme costumam aparecer nessa transição."
+                    ],
+                    "guid": "y=8E2<~3jc",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — agente, família e genoma?",
+                        "Vírus da dengue (DENV), arbovírus do gênero Flavivirus (Flaviviridae), envelopado, aproximadamente esférico, RNA+ e parasita intracelular obrigatório."
+                    ],
+                    "guid": "k%>n-`lW&B",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — quais são as proteínas estruturais e para que serve a E?",
+                        "<b>C (capsídeo), prM (precursora de membrana) e E (envelope).</b><br><br>A E liga e permite a entrada na célula. A região relacionada à M participa da maturação."
+                    ],
+                    "guid": "xm@QjD*A4!",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — quais são as proteínas não estruturais e qual delas importa para o diagnóstico?",
+                        "<b>NS1, NS2A, NS2B, NS3, NS4A, NS4B e NS5. A NS1 é a importante no diagnóstico.</b><br><br>Elas participam do processamento de proteínas, da replicação do RNA e da organização das estruturas intracelulares. A NS1 (antígeno liberado na replicação viral) pode ser detectada no sangue na fase inicial."
+                    ],
+                    "guid": "f^2*z|G_ep",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — quantos sorotipos existem e o que uma infecção garante?",
+                        "Quatro (DENV-1 a 4), antigenicamente diferentes. A infecção dá imunidade duradoura apenas contra o sorotipo que a causou, mantendo a pessoa suscetível aos outros."
+                    ],
+                    "guid": "hxxLtx.yzX",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — a segunda infecção por outro sorotipo é sempre mais grave?",
+                        "<b>Não. Pode ter maior risco de forma grave, mas isso não é regra: depende do sorotipo, da resposta imune e de fatores individuais.</b>"
+                    ],
+                    "guid": "sx-l1PLipd",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — o que é ADE e como ajuda a explicar a gravidade?",
+                        "<b>Facilitação dependente de anticorpos: anticorpos de um sorotipo anterior reconhecem o novo sem neutralizá-lo bem e facilitam a entrada do vírus em células com receptor Fc.</b><br><br>Favorece a infecção celular e aumenta o risco de dengue grave em determinadas circunstâncias."
+                    ],
+                    "guid": "e;k6w(02l{",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — além do ADE, que outros fatores são propostos para explicar a gravidade?",
+                        "<b>Diferenças de virulência entre genótipos (mesmo dentro do sorotipo) e resposta inflamatória desregulada, com excesso de citocinas.</b><br><br>Isso se relaciona com o equilíbrio Th1/Th2, mas não é regra absoluta de que toda 1ª infecção é Th1 e toda posterior é Th2. A dengue grave é multifatorial e não deve ser atribuída a uma única citocina."
+                    ],
+                    "guid": "HH8Cc<Vo$>",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue no Brasil — quais sorotipos já circularam?",
+                        "Os quatro já foram detectados, mas a circulação de cada um varia conforme a região e o período, então a epidemiologia muda ao longo do tempo."
+                    ],
+                    "guid": "v]G&`DbivK",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — qual é o vetor principal e que características tem o mosquito?",
+                        "<b>Aedes aegypti (o albopictus também pode participar). Família Culicidae, fêmeas hematófagas, hábito diurno e peridomiciliar.</b><br><br>As fêmeas precisam de sangue para o desenvolvimento dos ovos e depositam os ovos em recipientes e superfícies associados à água."
+                    ],
+                    "guid": "p~S&[N(xiL",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — que tipo de ambiente favorece criadouros e de quem é a responsabilidade da prevenção?",
+                        "Recipientes com água parada (pneus, vasos, garrafas, caixas-d'água descobertas). A prevenção depende de atitudes individuais e de ações coletivas de controle do vetor."
+                    ],
+                    "guid": "FlJ0H(yyj1",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — qual a incubação e como é o quadro clássico inicial?",
+                        "Incubação de ~4 a 8 dias. Febre de início súbito, cefaleia, dor retro-orbitária, mialgia, artralgia, náuseas, vômitos e hiporexia."
+                    ],
+                    "guid": "eenOW|@?jp",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — frequência aproximada dos sintomas na apresentação clássica (números didáticos da aula)?",
+                        "~99% febre nos primeiros 7 dias, ~60% cefaleia frontal/dor articular/mialgia, ~50% dor retro-orbitária, ~25% exantema maculopapular (tórax e membros). São estimativas didáticas."
+                    ],
+                    "guid": "x<7spT=8cm",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — qual dor é característica e o que pode ocorrer além dos sintomas clássicos?",
+                        "<b>Dor retro-orbitária (atrás dos olhos).</b><br><br>Também leucopenia, prostração e dificuldade para atividades habituais. Na forma clássica, sintomas respiratórios não predominam."
+                    ],
+                    "guid": "Ae}a4R44Xc",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue grave — o que são serosite e ascite e o que indicam?",
+                        "<b>Serosite é a inflamação das membranas que revestem órgãos e cavidades. Ascite é acúmulo de líquido na cavidade peritoneal.</b><br><br>Na dengue grave decorrem do aumento da permeabilidade vascular e funcionam como sinal de alerta de extravasamento plasmático."
+                    ],
+                    "guid": "i#L.9QBUMI",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — como é o exantema, onde aparece e quando surge?",
+                        "Macular ou maculopapular, na face, tronco, membros, palmas e plantas, com ou sem prurido. Costuma surgir perto do desaparecimento da febre e, isolado, não é critério de gravidade."
+                    ],
+                    "guid": "b=xC%lOx^C",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — quais manifestações hemorrágicas podem ocorrer?",
+                        "Petéquias, púrpura, sangramento gengival ou nasal e outras formas de sangramento, que exigem avaliação clínica."
+                    ],
+                    "guid": "AX%)@|]AL<",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Febre com petéquias ou púrpura — pensar só em dengue?",
+                        "Não. Essas lesões não são exclusivas da dengue, e é preciso considerar outras causas graves, como infecções bacterianas (meningococcemia)."
+                    ],
+                    "guid": "B[gUViqAsi",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — por que se prefere o termo dengue grave à antiga dengue hemorrágica?",
+                        "Porque as formas graves não se caracterizam só por sangramento: envolvem extravasamento importante de plasma, choque e disfunção grave de órgãos, mesmo sem hemorragia evidente."
+                    ],
+                    "guid": "O8nB17[_QN",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue × chikungunya × Zika — qual achado destaca cada uma?",
+                        "<b>Dengue: cefaleia, dor retro-orbitária e gravidade por extravasamento. Chikungunya: dor articular intensa. Zika: exantema pruriginoso e conjuntivite.</b><br><br>Dengue: febre, cefaleia, dor retro-orbitária e, nos graves, extravasamento de plasma, sangramento e comprometimento circulatório. Chikungunya: dor articular com edema e calor, que pode persistir por longos períodos. Zika: associação com microcefalia na gestação. Como se sobrepõem, soma-se contexto epidemiológico e exames."
+                    ],
+                    "guid": "Hl`U*Kp>LQ",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue suspeita — por que evitar automedicação com certos fármacos?",
+                        "Porque há risco de sangramento e de extravasamento de plasma, e alguns medicamentos aumentam esses riscos."
+                    ],
+                    "guid": "hnB%*CR{3#",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — quais são os sinais de alarme?",
+                        "<b>Dor abdominal intensa e contínua, vômitos persistentes, acúmulo de líquidos em cavidades, hipotensão postural, hepatomegalia, sangramento de mucosas, letargia/irritabilidade e aumento progressivo do hematócrito.</b><br><br>Indicam possível evolução para forma grave e pedem reavaliação oportuna. No fluxograma também entram diminuição da diurese, hipotermia, queda abrupta de plaquetas e desconforto respiratório."
+                    ],
+                    "guid": "i-+=6<-@2m",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — quais são os sinais de choque e gravidade, e como diferem dos de alarme?",
+                        "Hipotensão arterial, pulso rápido e fino, enchimento capilar lento (> 2 s), pressão convergente (PA diferencial < 20 mmHg), choque, hemorragia grave e disfunção grave de órgãos. Indicam comprometimento circulatório ou orgânico já importante."
+                    ],
+                    "guid": "Ls*dX)QFq=",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — quais são as três fases clínicas?",
+                        "<b>Febril, crítica e de recuperação.</b><br><br>Febril: febre, cefaleia, mialgia, artralgia, às vezes exantema e sintomas gastrointestinais. Crítica: começa com a defervescência (3º ao 7º dia) e pode haver extravasamento de plasma. Recuperação: reabsorção do líquido extravasado e melhora, com possível aumento da diurese."
+                    ],
+                    "guid": "cms%;MFe][",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — quais alterações do hemograma são esperadas?",
+                        "Leucopenia e trombocitopenia. As plaquetas baixas aumentam o risco de sangramento, mas o número deve ser interpretado junto com o quadro clínico."
+                    ],
+                    "guid": "fr0:DUY<,c",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — por que o hematócrito sobe e o que sua queda após hidratação pode significar?",
+                        "<b>Sobe pelo extravasamento de plasma (hemoconcentração: o sangue fica relativamente mais concentrado).</b><br><br>Queda após hidratação pode ser melhora, mas, com instabilidade clínica, também levanta suspeita de sangramento. Nenhum resultado se interpreta isolado."
+                    ],
+                    "guid": "gln-9xZl&.",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — o que indicam TGO/TGP elevadas e quando pedir coagulograma?",
+                        "TGO (AST) e TGP (ALT) elevadas indicam lesão de células, incluindo hepáticas, ou seja, envolvimento do fígado. O coagulograma é pedido quando há sangramento ou sinais de gravidade."
+                    ],
+                    "guid": "E!/B/FM3d4",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — quais métodos de diagnóstico específico existem e o que decide a escolha?",
+                        "RT-PCR, antígeno NS1, isolamento viral e sorologia. O que decide é o tempo transcorrido desde o início dos sintomas."
+                    ],
+                    "guid": "u5bVG9Hw`",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — o que usar até o ~5º dia e o que cada teste detecta?",
+                        "<b>RT-PCR (material genético viral) e NS1 (antígeno/proteína viral no sangue na fase aguda).</b><br><br>Ambos confirmam na fase inicial, quando os alvos estão presentes em quantidade detectável, mas não pesquisam a mesma coisa. O isolamento viral é usado em contextos laboratoriais específicos."
+                    ],
+                    "guid": "Dc5sOX$$3K",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — a partir de quando se usa pesquisa de anticorpos?",
+                        "Depois dos primeiros dias: a IgM costuma ser detectada a partir do 6º dia, a IgG aparece depois ou reflete exposição anterior. Sorologia por ELISA."
+                    ],
+                    "guid": "cEJ[VM=5h#",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — como se sucedem NS1/viremia, IgM, IgG e IgA ao longo dos dias?",
+                        "<b>NS1 e viremia aparecem nos primeiros dias e caem. IgM sobe a partir do ~6º dia, depois IgG e IgA.</b><br><br>Por isso: até ~5º dia usa-se detecção direta (RT-PCR, NS1) e depois a sorologia.<br><img src=\"dengue_curva_marcadores.jpg\">"
+                    ],
+                    "guid": "c`-e%d::Ab",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue e Zika — por que a sorologia pode confundir e que teste ajuda em dúvida?",
+                        "Por semelhança antigênica entre flavivírus ocorre reação cruzada. Em dúvida, comparar amostras de momentos diferentes e usar o PRNT (capacidade dos anticorpos de neutralizar o vírus)."
+                    ],
+                    "guid": "s-_FTQvfWb",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — existe antiviral e qual é a base do tratamento?",
+                        "<b>Não há antiviral específico: o tratamento é suporte clínico com hidratação, controle de sintomas e acompanhamento.</b><br><br>A hidratação (oral ou venosa conforme a classificação) mantém o volume circulante e compensa perdas. O paciente recebe orientações de retorno e é reavaliado."
+                    ],
+                    "guid": "c]>$$wCLH>",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — como é o grupo A da classificação de risco e a conduta?",
+                        "Sem sinais de alarme, sem sangramento espontâneo ou induzido, sem condição especial, risco social ou comorbidade. Acompanhamento ambulatorial."
+                    ],
+                    "guid": "o}m9&(Q91@",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — como é o grupo B da classificação de risco e a conduta?",
+                        "Sem sinais de alarme, mas com sangramento de pele espontâneo ou induzido (prova do laço positiva), condição clínica especial, comorbidade ou risco social. Observação até o resultado dos exames."
+                    ],
+                    "guid": "gon+n?ZEDe",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — como é o grupo C da classificação de risco e a conduta?",
+                        "Presença de algum sinal de alarme, com ou sem manifestação hemorrágica. Internação por no mínimo 48 h."
+                    ],
+                    "guid": "D#@WJJj}[K",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — como é o grupo D da classificação de risco e a conduta?",
+                        "Sinais de choque, hemorragia grave ou disfunção grave de órgãos (desconforto respiratório). Leito de terapia intensiva."
+                    ],
+                    "guid": "q?+[RB<9fv",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — quando notificar e como começar a hidratação no fluxograma do Ministério da Saúde?",
+                        "Notificar todo caso suspeito (febre de até 7 dias + pelo menos 2 sintomas + nexo epidemiológico). Iniciar hidratação de imediato conforme a classificação, com hidratação oral nos grupos A e B enquanto aguarda a avaliação."
+                    ],
+                    "guid": "vl9qh#6O}b",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue — quais medicamentos são permitidos e quais devem ser evitados?",
+                        "<b>Permitidos analgésicos e antitérmicos apropriados, antieméticos e antipruriginosos. Evitar AAS, outros salicilatos e AINEs.</b><br><br>Esses últimos aumentam o risco de sangramento."
+                    ],
+                    "guid": "nrvG)a9ErQ",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengue grave — o que a professora disse sobre o efeito do manejo na letalidade (e o que a literatura cita)?",
+                        "<b>Professora: o manejo de suporte pode reduzir a letalidade de ~50% para ~5%. A literatura (OMS) cita letalidade > 20% sem tratamento adequado e < 1% com bom manejo.</b><br><br>Guardar a ideia de que hidratação e reconhecimento precoce reduzem muito a mortalidade e confirmar com a professora quais números cobrar."
+                    ],
+                    "guid": "tJ)`F+wyVM",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vacinas contra dengue — o que têm em comum?",
+                        "São tetravalentes (contra DENV-1, 2, 3 e 4), mas diferem em composição, esquema de doses e indicação."
+                    ],
+                    "guid": "h7D)4Pkg=!",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengvaxia — tipo, esquema e quem pode receber?",
+                        "<b>Vírus vivo atenuado recombinante, 3 doses com intervalo de 6 meses, indicada só para quem já teve dengue (soropositivo).</b><br><br>Idade na aula: 6 a 45 anos (ATENÇÃO: o registro brasileiro cita 9 a 45 anos, confirmar com a professora)."
+                    ],
+                    "guid": "h/vqkr^zT4",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dengvaxia — por que só pode ser dada a pessoas com infecção prévia?",
+                        "Porque em indivíduos soronegativos a vacinação foi associada a maior risco de hospitalização e dengue grave se houver infecção natural depois."
+                    ],
+                    "guid": "OmJL~gnCT$",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Qdenga — tipo, indicação, idade e esquema?",
+                        "Vírus vivo atenuado, pode ser dada a quem já teve dengue e a quem nunca teve (soropositivos e soronegativos), de 4 a 60 anos, em 2 doses com intervalo de 3 meses."
+                    ],
+                    "guid": "exJgkz?~c~",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Butantan-DV — tipo, esquema, idade e o que aconteceu com a estratégia em 2026?",
+                        "Tetravalente de vírus vivo atenuado, dose única, indicada em bula para 12 a 59 anos. A estratégia foi temporariamente interrompida em junho de 2026, por precaução, para investigar eventos adversos."
+                    ],
+                    "guid": "mb;Mk,mCw@",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Dengue"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ITU — por que é mais frequente em mulheres?",
+                        "<b>Pela anatomia: a uretra feminina é mais curta e fica próxima do ânus e da vagina, facilitando a entrada de bactérias.</b><br><br>Nos homens a uretra é mais longa e há um fator antibacteriano prostático, o que ajuda a explicar a menor frequência em homens jovens."
+                    ],
+                    "guid": "djo5DSw;Di",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::ITU_Urocultura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ITU — quais grupos têm maior risco e por que cateter e HPB entram na lista?",
+                        "<b>Gestantes, idosos, usuários de cateter urinário e homens com hiperplasia prostática benigna.</b><br><br>O cateter favorece contaminação e formação de biofilme. A hiperplasia prostática dificulta o esvaziamento da bexiga e favorece a permanência da urina."
+                    ],
+                    "guid": "PK0J#y2~29",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::ITU_Urocultura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cistite — qual a região acometida e os sintomas?",
+                        "Bexiga (ITU baixa). Disúria, polaciúria, urgência miccional e dor suprapúbica, em geral sem febre alta nem sintomas sistêmicos."
+                    ],
+                    "guid": "v{9P16p?5g",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::ITU_Urocultura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pielonefrite — qual a região acometida e os sinais?",
+                        "<b>Rins (ITU alta): febre alta, dor lombar, sinal de Giordano positivo, náuseas e vômitos, com risco de sepse.</b>"
+                    ],
+                    "guid": "fb;{S|(f5i",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::ITU_Urocultura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ITU — qual a principal bactéria e que tipo de ITU ela causa?",
+                        "Escherichia coli uropatogênica (UPEC), responsável pela maioria das ITUs comunitárias e não complicadas."
+                    ],
+                    "guid": "nR`O;{!ZbK",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::ITU_Urocultura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ITU — quais outras bactérias causam, e qual é importante em mulheres jovens sexualmente ativas?",
+                        "Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa, Enterobacter spp., Enterococcus faecalis e Streptococcus agalactiae. Em mulheres jovens sexualmente ativas destaca-se o Staphylococcus saprophyticus."
+                    ],
+                    "guid": "GdC2N{#Tr6",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::ITU_Urocultura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Urocultura — como deve ser a coleta correta (higiene, frasco e jato)?",
+                        "<b>Higiene genital com água e sabão neutro, frasco estéril sem tocar a parte interna, 1ª urina da manhã, desprezar o 1º jato e coletar o jato médio.</b><br><br>A contaminação da amostra causa resultado falso positivo. A 1ª urina da manhã tem mais bactérias, e o 1º jato é descartado porque arrasta microrganismos da uretra distal."
+                    ],
+                    "guid": "yb-%Y2Z3[d",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::ITU_Urocultura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Urocultura — em quanto tempo a amostra deve ser processada e como conservar?",
+                        "Em até 2 horas à temperatura ambiente. Se não for possível, refrigerar a 4 °C por no máximo 24 horas."
+                    ],
+                    "guid": "czhtN,1z;#",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::ITU_Urocultura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Urocultura — o que significa CLED e como é a semeadura e a incubação?",
+                        "<b>Cistina Lactose Eletrólito Deficiente. Semeia-se com alça calibrada de 10 µL e incuba-se a 37 °C por 24 h.</b><br><br>A alça é mergulhada na urina, faz uma estria central e o material é espalhado pela superfície (semeadura confluente). Depois observam-se colônias e suas características."
+                    ],
+                    "guid": "N5rv5bDP`x",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::ITU_Urocultura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Urocultura — como se calcula o UFC/mL a partir das colônias?",
+                        "UFC/mL = número de colônias × 100, porque a alça de 10 µL corresponde a 1/100 de mL."
+                    ],
+                    "guid": "dfXI4.QTmx",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::ITU_Urocultura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Urocultura — como interpretar ≥ 10³ UFC/mL?",
+                        "Pode confirmar cistite aguda não complicada em mulheres com sintomas clássicos."
+                    ],
+                    "guid": "l9G|bX4Xl7",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::ITU_Urocultura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Urocultura — qual é a referência clássica em assintomáticos e o que muda em amostras especiais?",
+                        "<b>≥ 10⁵ UFC/mL em pacientes assintomáticos.</b><br><br>Em amostras especiais (cateterismo de alívio, punção suprapúbica), ≥ 10² UFC/mL ou qualquer crescimento pode ser relevante. O resultado deve considerar também sintomas e forma de coleta."
+                    ],
+                    "guid": "G#)YY{?x_;",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::ITU_Urocultura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Antibiograma — qual a finalidade e como se prepara o inóculo?",
+                        "Avaliar a susceptibilidade da bactéria aos antimicrobianos para orientar o tratamento, usando cultura pura ajustada à escala 0,5 de McFarland e semeadura em tapete."
+                    ],
+                    "guid": "fRf/9Hs/#7",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::ITU_Urocultura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Antibiograma — como são o disco, a incubação e a leitura?",
+                        "Discos de papel com antimicrobianos, incubação a 35 ± 2 °C por 18 ± 2 h, medida dos halos de inibição e interpretação pelos critérios do BrCAST."
+                    ],
+                    "guid": "CD4_mFmYDQ",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::ITU_Urocultura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Urocultura × antibiograma — o que cada um responde?",
+                        "A urocultura identifica e quantifica as bactérias da urina. O antibiograma diz quais antimicrobianos podem ser usados contra a bactéria identificada."
+                    ],
+                    "guid": "iL>oEYeH}k",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::ITU_Urocultura"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gastroenterites virais — o que o fato de todos os agentes serem não envelopados explica?",
+                        "<b>Eles resistem a pH ácido do estômago, sais biliares, dessecação e álcool 70%, e por isso ficam infectantes em superfícies, água e alimentos, facilitando surtos.</b>"
+                    ],
+                    "guid": "C{;TnreD}x",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gastroenterites virais — por que uma pequena exposição causa surtos?",
+                        "Pela alta concentração de vírus nas fezes (≥ 10⁹ partículas/g) somada à baixa dose infectante (~10² partículas), o que favorece a disseminação em ambientes coletivos."
+                    ],
+                    "guid": "n_p%k7L4{|",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gastroenterites virais — quais são as manifestações e a principal complicação?",
+                        "<b>Diarreia, náuseas, vômitos, dor abdominal e febre. A principal complicação é a desidratação.</b><br><br>Perda de água e eletrólitos por fezes e vômitos, mais grave em crianças pequenas e idosos, com alterações hidroeletrolíticas e risco de morte."
+                    ],
+                    "guid": "CU6/&F)xXz",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gastroenterites virais — qual é a via de transmissão?",
+                        "Principalmente fecal-oral. Também por contato direto entre pessoas e por água e alimentos contaminados."
+                    ],
+                    "guid": "ouDZTQ2;9^",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gastroenterites virais — quais são os quatro agentes e suas famílias?",
+                        "Rotavírus (Reoviridae), norovírus (Caliciviridae), adenovírus entéricos 40 e 41 (Adenoviridae) e astrovírus (Astroviridae)."
+                    ],
+                    "guid": "ABg3Ap!^mN",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Rotavírus — qual o genoma e qual o grupo que importa em humanos?",
+                        "RNA de fita dupla com 11 segmentos, não envelopado. O grupo A é o principal responsável pelas infecções em humanos."
+                    ],
+                    "guid": "N;by|OpNCi",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Rotavírus — o que determina o subgrupo, o tipo G e o tipo P?",
+                        "VP6 (capsídeo interno) classifica o subgrupo, VP7 (glicoproteína) determina o tipo G e VP4 (espículas) determina o tipo P."
+                    ],
+                    "guid": "ho?D92L.~n",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Rotavírus — qual o genótipo mais importante e por que?",
+                        "G1P1[8], um dos principais e o que compõe a vacina."
+                    ],
+                    "guid": "B5GgI7iC3",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Rotavírus — qual célula é infectada e o que a lesão causa?",
+                        "<b>Enterócitos maduros das vilosidades do intestino delgado: a lesão e a descamação reduzem a absorção e as enzimas de carboidratos, causando má absorção.</b>"
+                    ],
+                    "guid": "HILRJQ,]]H",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Rotavírus — qual o papel da NSP4 na diarreia?",
+                        "É uma enterotoxina que estimula a secreção de cloro e água para a luz intestinal. Somada à menor absorção, causa diarreia aquosa."
+                    ],
+                    "guid": "FkXkdpUj6[",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Rotavírus — por que causa também vômitos?",
+                        "Pode estimular a liberação de serotonina, que ativa vias nervosas do reflexo do vômito."
+                    ],
+                    "guid": "l|9iiH?~.`",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Rotavírus — incubação, duração da doença e eliminação viral?",
+                        "<b>Incubação de 24 a 48 h e doença de 3 a 8 dias.</b><br><br>O vírus é eliminado nas fezes por ~8 dias (até 40 dias em alguns), mais intensamente entre o 3º e 4º dia. A recuperação dos enterócitos é lenta, então o intestino demora a normalizar mesmo com melhora dos sintomas."
+                    ],
+                    "guid": "hwKQd8#s4L",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Rotavírus — quem é mais acometido e o que protege?",
+                        "<b>Crianças de 6 meses a 3 anos. A amamentação protege nos primeiros meses.</b><br><br>Após a 1ª infecção há certa proteção contra quadros graves, mas pode haver reinfecção por outros sorotipos."
+                    ],
+                    "guid": "Q+<iRS.,$I",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vacina do rotavírus — tipo, via e esquema?",
+                        "Oral, de vírus vivo atenuado (G1P1[8]), 2 doses: aos 2 e aos 4 meses, intervalo mínimo de 30 dias, exclusivamente por via oral."
+                    ],
+                    "guid": "X8s;N%w3a",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vacina do rotavírus — quais são as contraindicações?",
+                        "Imunodeficiência ou uso de imunossupressores/quimioterápicos, doença gastrointestinal crônica, malformação congênita do trato digestivo não corrigida, história de invaginação intestinal e hipersensibilidade a componente da vacina."
+                    ],
+                    "guid": "fZ=;1*uD[(",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Norovírus — família, genoma e papel epidemiológico?",
+                        "Caliciviridae, RNA fita simples (+) em um único segmento. Um dos principais agentes de gastroenterite viral, muito ligado a surtos em ambientes coletivos e familiares."
+                    ],
+                    "guid": "KGy%,ZZzZC",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Norovírus — qual a diversidade genética e o genogrupo mais frequente?",
+                        "~100 cepas em 10 genogrupos. O GII.4 é o mais associado a infecções humanas e surtos."
+                    ],
+                    "guid": "i5@{rr&T98",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Norwalk virus — por que recebeu esse nome?",
+                        "Por um surto em uma escola primária de Norwalk (Ohio, EUA), em que ~50% dos alunos e professores e 35% dos familiares adoeceram."
+                    ],
+                    "guid": "dys&~_30u`",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Norovírus — quem acomete, como se transmite e onde ocorrem surtos?",
+                        "<b>Adultos e crianças (mais em adultos). Pessoa a pessoa e por água e alimentos contaminados (moluscos).</b><br><br>Surtos em escolas, creches, hospitais, casas de repouso e navios de cruzeiro. A facilidade de transmissão atinge muita gente rapidamente."
+                    ],
+                    "guid": "q&Nxy!Q9?@",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Norovírus — incubação, duração e quadro clínico característico?",
+                        "Incubação de ~24 h (10 a 50 h), doença de 24 a 48 h. Náuseas, vômitos (podem ser intensos), diarreia, dor abdominal e eventualmente febre."
+                    ],
+                    "guid": "Cd9zFMpV``",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Adenovírus entéricos 40 e 41 — família, genoma e quem acometem?",
+                        "Adenoviridae, DNA de fita dupla, não envelopados. Importantes em crianças até 2 anos, mais comuns no verão."
+                    ],
+                    "guid": "e!RLphQ*8#",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Adenovírus — como se classificam e o que fazem hexons e fibras?",
+                        "<b>Há 6 gêneros e mais de 100 genótipos (40 e 41 são os da gastroenterite).</b><br><br>Hexons participam da neutralização e da classificação dos sorotipos. Fibras ligam o vírus aos receptores da célula e também participam da neutralização."
+                    ],
+                    "guid": "p@os_UIW)T",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Adenovírus 40/41 — como causam diarreia?",
+                        "Infectam enterócitos, e a multiplicação causa lesão celular e alteração das vilosidades, reduzindo a absorção de água e nutrientes."
+                    ],
+                    "guid": "r%K9Ir{Sw{",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Adenovírus 40/41 — incubação, duração e o que os distingue do norovírus?",
+                        "Incubação de 3 a 10 dias e duração de 5 a 12 dias, com diarreia intensa (predominante), vômitos e febre. A diarreia pode ser prolongada, tornando a doença mais longa que a do norovírus."
+                    ],
+                    "guid": "Ik0D6lHp^)",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Astrovírus — família, genoma e quem é mais vulnerável?",
+                        "Astroviridae, RNA fita simples (+), não envelopado. Crianças até 5 anos, idosos e imunossuprimidos."
+                    ],
+                    "guid": "J@P+o?p_h!",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Astrovírus — transmissão, incubação e quadro clínico?",
+                        "Fecal-oral (contato ou água e alimentos contaminados, como frutos do mar e ostras). Incubação de 1 a 4 dias e duração de 2 a 4 dias, com diarreia aquosa geralmente branda, às vezes vômitos, febre e desidratação leve."
+                    ],
+                    "guid": "w4ZY_^Kt8A",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Diagnóstico de gastroenterites virais — o que detectam EIA, látex, imunocromatografia e RT-PCR?",
+                        "<b>EIA, látex e imunocromatografia detectam antígenos virais. RT-PCR detecta o material genético.</b><br><br>EIA (ELISA) é imunológico. A aglutinação em látex usa partículas revestidas com anticorpos que aglutinam ao antígeno. A imunocromatografia é um teste rápido. Na RT-PCR, o RNA é transcrito em DNA complementar e amplificado."
+                    ],
+                    "guid": "q4,0TtVe0+",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gastroenterites virais — qual o método principal para cada vírus?",
+                        "<b>Rotavírus: EIA e RT-PCR.</b><br><br>Norovírus: RT-PCR (em tempo real é o padrão). Adenovírus 40/41: testes de antígeno e PCR. Astrovírus: EIA e RT-PCR."
+                    ],
+                    "guid": "b$lrGQ34K#",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gastroenterites virais — qual é a conduta e por que é de suporte?",
+                        "<b>Reposição de líquidos e eletrólitos (oral ou venosa) e retomada da alimentação após a reidratação.</b><br><br>O tratamento não combate o vírus: controla sintomas e evita e corrige a desidratação. Probióticos podem equilibrar a microbiota e reduzir o tempo de diarreia."
+                    ],
+                    "guid": "eY]HQoAP(U",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gastroenterites virais — o que NÃO é recomendado no tratamento?",
+                        "Antimicrobianos (não atuam em vírus), antidiarreicos, antieméticos e antivirais."
+                    ],
+                    "guid": "pz-}mB<yrq",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gastroenterites virais — quais são as medidas de prevenção?",
+                        "<b>Lavar as mãos com água e sabão, água potável, manipulação segura de alimentos, saneamento básico, isolamento de contatos e desinfecção de superfícies com hipoclorito de sódio.</b><br><br>As mãos devem ser lavadas após o banheiro, ao trocar fraldas e antes de preparar ou comer. Como os vírus são não envelopados e mais resistentes, higiene das mãos e desinfecção de superfícies são fundamentais."
+                    ],
+                    "guid": "eI3yy*w|xP",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
                 }
             ],
             "reviewLimit": null,
@@ -81235,7 +82844,7 @@
                 "perDay": 9999
             },
             "newGatherPriority": 0,
-            "newMix": 2,
+            "newMix": 1,
             "newPerDayMinimum": 0,
             "newSortOrder": 0,
             "questionAction": 0,
