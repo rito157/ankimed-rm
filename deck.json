@@ -40146,6 +40146,7 @@
                 "aureus_virulencia.jpg",
                 "baar_microscopia.jpg",
                 "barreiras_epiteliais.jpg",
+                "bilirrubina_via.jpg",
                 "brodmann.jpg",
                 "capilares_tipos.jpg",
                 "caracteristicas_ligacao_peptideo.jpg",
@@ -40335,11 +40336,13 @@
                 "hanseniase_indeterminada.jpg",
                 "hanseniase_tuberculoide.jpg",
                 "hanseniase_virchoviana.jpg",
+                "hbv_cinetica_marcadores.jpg",
                 "hemianopsias.jpg",
                 "hemolise_padroes.jpg",
                 "hemostasia.jpg",
                 "hibridoma.jpg",
                 "histologia_centro_germinativo.jpg",
+                "hiv_curso_infeccao.jpg",
                 "homunculo_3d.jpg",
                 "id_igg_AD.jpg",
                 "ig_secretada_vs_membrana.jpg",
@@ -82763,6 +82766,1662 @@
                     "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
                     "tags": [
                         "M2::MICROBIOLOGIA::Gastroenterites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatites virais — como a via de transmissão separa os cinco vírus em dois grupos?",
+                        "<b>Enteral (fecal-oral): A e E. Parenteral: B, C e D.</b><br><br>A e E por água e alimentos contaminados. B, C e D principalmente por sangue contaminado, podendo também ter via sexual e vertical conforme o vírus."
+                    ],
+                    "guid": "zgA*q4:c0V",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite — o que é e o que pode causar?",
+                        "Inflamação do fígado causada por vírus, bactérias, álcool, medicamentos, drogas ou doenças autoimunes. Pode causar lesão e necrose dos hepatócitos e, nos casos graves, insuficiência hepática."
+                    ],
+                    "guid": "x{1,H1cdr[",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatites virais — quais manifestações clínicas podem ocorrer?",
+                        "A maioria é assintomática. Quando há sintomas: necrose de hepatócitos, icterícia, colúria, acolia fecal, hepatomegalia dolorosa e, em ~10%, esplenomegalia."
+                    ],
+                    "guid": "fj8;8(Q!cm",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bilirrubina — qual é o caminho da hemoglobina até a eliminação?",
+                        "<b>Hemoglobina, heme, bilirrubina indireta (ligada à albumina), conjugação no fígado, bile, urobilinogênio no intestino e eliminação como estercobilina nas fezes (e pouco na urina).</b><br><br>Hemácias vivem ~120 dias. A bilirrubina indireta (não conjugada) é transportada à albumina até o fígado. Os hepatócitos conjugam com ácido glicurônico, formando a bilirrubina direta (mais solúvel). Bactérias intestinais a transformam em urobilinogênio, parte vira estercobilina (cor marrom das fezes), parte é reabsorvida e pouco sai na urina.<br><img src=\"bilirrubina_via.jpg\">"
+                    ],
+                    "guid": "z,cLq)m(Y>",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite — por que surgem icterícia, colúria e acolia fecal?",
+                        "<b>Porque os hepatócitos inflamados processam e eliminam mal a bilirrubina, que se acumula no sangue e muda a cor de pele, urina e fezes.</b>"
+                    ],
+                    "guid": "mw}$`Lx^lp",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite — o que são icterícia, colúria e acolia fecal e qual a causa de cada uma?",
+                        "<b>Icterícia: pele e olhos amarelados por bilirrubina alta no sangue.</b><br><br>Colúria: urina escura (cor de chá ou Coca-Cola) por bilirrubina conjugada na urina. Acolia fecal: fezes claras por menor chegada de pigmentos biliares ao intestino."
+                    ],
+                    "guid": "MWKSDna>G^",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HBV — família, genoma e envelope?",
+                        "Hepadnaviridae, envelopado, DNA parcialmente de fita dupla. Também chamada de hepatite sérica."
+                    ],
+                    "guid": "O>JS_M1%{4",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HBV — por que é resistente e por que isso importa na transmissão?",
+                        "Permanece viável no ambiente por ~7 dias, o que favorece a transmissão por contato com sangue e materiais contaminados."
+                    ],
+                    "guid": "L^DIJY%+tb",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HBV — qual a importância clínica da hepatite B?",
+                        "Pode evoluir para infecção crônica, com inflamação persistente do fígado e risco de cirrose e carcinoma hepatocelular."
+                    ],
+                    "guid": "G>@jB^9zrI",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HBV — o que é e onde fica o HBsAg, e o que sua presença indica?",
+                        "É o antígeno de superfície, localizado no envelope. Sua presença no sangue indica infecção pelo HBV, aguda ou crônica."
+                    ],
+                    "guid": "z&8iXFLmv=",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HBV — o que é o HBcAg e o que é o HBeAg?",
+                        "HBcAg: antígeno do core, do nucleocapsídeo. HBeAg: associado à replicação viral, indica intensa multiplicação e maior infectividade."
+                    ],
+                    "guid": "p0.V;pB)<x",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vacina da hepatite B — de que é feita?",
+                        "<b>É recombinante e contém somente o HBsAg, não sendo vírus vivo atenuado nem inativado inteiro.</b><br><br>Uma única proteína viral estimula a produção de anti-HBs."
+                    ],
+                    "guid": "u^fh:h{OFm",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HBV — quais são as vias de transmissão e por que a parenteral importa para profissionais de saúde?",
+                        "Sexual, vertical (principalmente no parto) e parenteral (transfusão não segura, agulhas e seringas compartilhadas, perfurocortantes). A parenteral importa pelo risco de exposição ocupacional ao sangue."
+                    ],
+                    "guid": "O-i5F(A^uG",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HBV — como é a replicação no hepatócito?",
+                        "O vírus libera o material genético no núcleo, onde se forma uma estrutura de DNA (cccDNA) que serve de molde. As proteínas passam pelo retículo endoplasmático e Golgi para montagem, e os novos vírus são liberados para infectar outros hepatócitos."
+                    ],
+                    "guid": "OP/uO!E`g>",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B aguda — incubação, início e quadro característico?",
+                        "<b>Incubação de ~1 a 4 meses. Muitos são assintomáticos, e quando há sintomas começa como síndrome gripal.</b><br><br>Mal-estar, cansaço, náuseas, perda de apetite e desconforto abdominal. Em 30 a 40% surgem icterícia, colúria e acolia fecal. Os sintomas duram até 3 meses."
+                    ],
+                    "guid": "q|ZkNwF&:G",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B aguda — qual o desfecho esperado em adultos e qual a frequência de hepatite fulminante?",
+                        "<b>Na maioria dos adultos imunocompetentes o sistema imune elimina o vírus.</b><br><br>Hepatite fulminante ocorre em ~1% dos casos. A cronificação depende da idade em que a infecção foi adquirida e da resposta imune."
+                    ],
+                    "guid": "M8mRl`*yiU",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B aguda — quais alterações laboratoriais podem ocorrer?",
+                        "<b>ALT e AST elevadas, bilirrubina total aumentada e, às vezes, albumina diminuída.</b><br><br>ALT e AST são liberadas na circulação quando os hepatócitos são danificados. A bilirrubina alta causa icterícia, colúria e acolia. A albumina cai só se houver comprometimento importante da síntese hepática (não é obrigatória)."
+                    ],
+                    "guid": "cwk22qxh1B",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B — o que as transaminases e a albumina indicam, respectivamente?",
+                        "As transaminases (ALT e AST) indicam principalmente lesão das células hepáticas. A albumina é um indicador da capacidade de síntese do fígado."
+                    ],
+                    "guid": "Kl8!lVe#g&",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B — quando é considerada crônica e qual a frequência em adultos?",
+                        "Quando o HBsAg permanece positivo por mais de 6 meses. Cerca de 5% dos adultos evoluem para a forma crônica, com risco muito maior se a infecção ocorre no nascimento ou nos primeiros anos de vida."
+                    ],
+                    "guid": "OmszsmtT$r",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B crônica — quais as fases e as complicações?",
+                        "Pode haver forma de menor atividade inflamatória ou forma ativa, com replicação e inflamação mantidas. Com a persistência surgem fibrose, cirrose e carcinoma hepatocelular (anos depois)."
+                    ],
+                    "guid": "Ds]&Sbtn[@",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B crônica — quais drogas tratam e como agem?",
+                        "<b>Interferon peguilado, tenofovir e entecavir.</b><br><br>O interferon peguilado estimula a resposta imune. O tenofovir inibe a transcriptase reversa viral. O entecavir também inibe a replicação. O objetivo é controlar a multiplicação viral e reduzir a progressão da lesão hepática."
+                    ],
+                    "guid": "N-exn>pJDF",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B — como se comportam HBsAg, anti-HBc IgM e anti-HBs na infecção aguda e na crônica?",
+                        "<b>Na aguda, o HBsAg e o anti-HBc IgM sobem e caem e o anti-HBs surge depois. Na crônica, o HBsAg persiste por mais de 6 meses e o anti-HBs não aparece.</b><br><br><img src=\"hbv_cinetica_marcadores.jpg\">"
+                    ],
+                    "guid": "i4x726$2v1",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B — o que indica o anti-HBc IgM?",
+                        "Infecção recente, geralmente associado à fase aguda."
+                    ],
+                    "guid": "A}|Wm`V9E0",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B — o que indicam o anti-HBc IgG e o anti-HBc total?",
+                        "IgG: contato com o vírus, pode permanecer positivo após a resolução ou na infecção crônica. Total: detecta IgM + IgG contra o core e indica contato com o vírus."
+                    ],
+                    "guid": "g1zKZ7/hma",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B — o que indicam o anti-HBe e o anti-HBs?",
+                        "Anti-HBe: em geral menor replicação e menor infectividade. Anti-HBs: imunidade contra o HBV, após recuperação ou vacinação."
+                    ],
+                    "guid": "Mb?:zXnP86",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B — qual marcador distingue imunidade natural de vacinal e como ficam os resultados?",
+                        "<b>O anti-HBc. Natural: anti-HBc + e anti-HBs + (HBsAg geralmente negativo). Vacinal: anti-HBs + e anti-HBc negativo.</b><br><br>Na infecção natural houve contato com o vírus completo e anticorpos contra o core. Na vacina só o HBsAg foi apresentado."
+                    ],
+                    "guid": "xv:#94T9(9",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B — como interpretar HBsAg (+), HBeAg (+) e anti-HBc IgM (+)?",
+                        "Infecção aguda por HBV."
+                    ],
+                    "guid": "KAN:r!:]}Q",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B — como interpretar HBsAg (+), HBeAg (+), anti-HBc IgG (+) e anti-HBc IgM negativo?",
+                        "Infecção crônica ativa."
+                    ],
+                    "guid": "g6uy.Zqgga",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B — como interpretar HBsAg (+), HBeAg (−), anti-HBc IgG (+) e anti-HBe (+)?",
+                        "Infecção crônica com baixa atividade."
+                    ],
+                    "guid": "Oes}b<ijs&",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B — como interpretar anti-HBs (+), anti-HBe (+) e anti-HBc IgG (+) com HBsAg negativo?",
+                        "Imunidade adquirida por infecção natural já resolvida."
+                    ],
+                    "guid": "xarK&}@~XZ",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B — como interpretar anti-HBs (+) com anti-HBc total negativo?",
+                        "Imunidade pela vacinação."
+                    ],
+                    "guid": "A&13DRa^)/",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B — como interpretar todos os marcadores negativos?",
+                        "Suscetível (sem evidência de contato nem de vacinação)."
+                    ],
+                    "guid": "o>XwtsytO1",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B — quais são as medidas de prevenção?",
+                        "Triagem de doadores de sangue, preservativos, não compartilhar agulhas, seringas e objetos pessoais (lâminas, alicates), biossegurança (EPI, cuidado com perfurocortantes) e, principalmente, vacinação."
+                    ],
+                    "guid": "LoPtsl9s;}",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B — qual o esquema vacinal em crianças e em adultos não vacinados?",
+                        "<b>Crianças: 4 doses (ao nascer, 2, 4 e 6 meses). Adolescentes e adultos não vacinados: 3 doses.</b><br><br>A dose ao nascer é a vacina contra hepatite B e as seguintes vêm pela vacina pentavalente. Não há reforço de rotina em imunocompetentes que completaram o esquema e responderam bem."
+                    ],
+                    "guid": "s}lYr91v.g",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatite B — quando usar imunoglobulina humana anti-hepatite B?",
+                        "Em não vacinados expostos ao vírus, associada à vacinação, conforme o tipo de exposição e a situação vacinal."
+                    ],
+                    "guid": "Pvca3WOzxp",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HDV — por que é chamado de vírus defectivo e do que depende?",
+                        "<b>Porque não completa o ciclo sozinho: depende do HBsAg do HBV para formar o envelope e liberar novas partículas.</b><br><br>Tem RNA de fita simples. Por isso a hepatite D só ocorre em quem também tem infecção pelo HBV."
+                    ],
+                    "guid": "m{OMta&G7<",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HDV — quais são as vias de transmissão e a gravidade em relação ao HBV isolado?",
+                        "As mesmas do HBV (sexual, parenteral, vertical). É mais grave e de evolução mais rápida, com maior risco de hepatite fulminante e de cronificação."
+                    ],
+                    "guid": "xp17G61D6u",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HDV — onde é mais frequente no Brasil?",
+                        "Na região amazônica, considerada área endêmica."
+                    ],
+                    "guid": "dv|lPm1#g3",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HDV — quais exames diagnosticam?",
+                        "Anti-HDV IgM (resposta à infecção recente), anti-HDV IgG (contato com o vírus) e PCR para RNA-HDV (detecção direta do genoma)."
+                    ],
+                    "guid": "K<H~WgXSB|",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HDV — qual a principal prevenção e por que a imunidade ao HBV protege?",
+                        "<b>A vacinação contra hepatite B.</b><br><br>Sem HBsAg o HDV não completa o ciclo, então quem é imune ao HBV também está protegido contra o HDV. Valem as mesmas medidas do HBV."
+                    ],
+                    "guid": "r^#vifawfr",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HCV — família, genoma e envelope?",
+                        "Flaviviridae, envelopado, RNA de fita simples."
+                    ],
+                    "guid": "r,r]_8w^s8",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HCV — por que tem grande importância clínica?",
+                        "Pela elevada frequência de cronificação, com lesão progressiva do fígado, cirrose e carcinoma hepatocelular. É hoje uma das principais causas de doença hepática crônica e de mortes por hepatites virais no Brasil."
+                    ],
+                    "guid": "A2it9ZSUAM",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HCV — por que antes dos anos 1990 era causa de hepatite pós-transfusional?",
+                        "Porque a triagem do sangue doado ainda não era tão eficiente."
+                    ],
+                    "guid": "II+uAflWEn",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HCV — quais são as vias de transmissão?",
+                        "<b>Principal via é parenteral: compartilhamento de agulhas e seringas, acidentes com perfurocortantes e transfusões contaminadas.</b><br><br>A transmissão sexual é rara e a vertical é possível, principalmente com alta carga viral da gestante. A transmissão pelo leite materno não está confirmada."
+                    ],
+                    "guid": "w!j`~2WV@E",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HCV — qual a frequência de cronificação e como é a fase aguda?",
+                        "~70 a 90% podem se tornar crônicos. Na fase aguda muitos são assintomáticos ou têm sintomas inespecíficos, e por isso a infecção costuma ser descoberta em exames."
+                    ],
+                    "guid": "LD4/(`Vr;=",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HCV crônico — como evolui e em quanto tempo?",
+                        "A inflamação persistente leva à fibrose, cirrose e carcinoma hepatocelular. A evolução é lenta, ~15 a 40 anos para cirrose em parte dos pacientes."
+                    ],
+                    "guid": "v0y@g=*wtZ",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HCV — como é a história natural no fluxograma da aula?",
+                        "<b>Incubação de 2 a 12 semanas: 10–15% têm hepatite sintomática e 85–90% têm infecção assintomática.</b><br><br>Nos sintomáticos cronificam 48–75% e resolvem 25–52%. Nos assintomáticos resolvem 10–15% e cronificam 85–90%. Os números variam entre fontes e a frase a guardar é 70–90% cronificam."
+                    ],
+                    "guid": "K=bKNf.1Jm",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HCV — como é o diagnóstico em duas etapas?",
+                        "<b>1ª etapa: anti-HCV total (sorologia ou teste rápido). 2ª etapa: PCR para RNA do HCV.</b><br><br>O anti-HCV positivo indica contato com o vírus, mas não confirma infecção ativa (os anticorpos persistem após a eliminação). PCR positivo mostra viremia e confirma infecção ativa, além de medir a carga viral."
+                    ],
+                    "guid": "Kg7DnPbje~",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HCV — por que a genotipagem hoje é dispensável em muitos casos?",
+                        "Antes orientava o tratamento porque a eficácia variava por genótipo. Hoje há esquemas pangenotípicos, ativos contra diferentes genótipos."
+                    ],
+                    "guid": "dZ*utH5~4H",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HCV — qual o tratamento e a taxa de cura?",
+                        "Antivirais de ação direta (sofosbuvir, daclatasvir, velpatasvir), com ~95% de cura."
+                    ],
+                    "guid": "fu%bem*dZ5",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HCV — existe vacina ou imunoglobulina pós-exposição e qual a prevenção?",
+                        "<b>Não existe vacina nem imunoglobulina específica, então a prevenção depende de evitar sangue contaminado.</b><br><br>Não compartilhar agulhas e seringas, usar materiais esterilizados (procedimentos médicos, odontológicos, tatuagens, piercings), biossegurança, triagem de doadores e preservativos em maior risco sexual."
+                    ],
+                    "guid": "qNx4`&,-v9",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HAV — família, genoma, envelope e consequência do envelope?",
+                        "Picornaviridae, RNA de fita simples, não envelopado, o que dá maior resistência a temperatura, ressecamento e salinidade."
+                    ],
+                    "guid": "ye%AC%Q6:Z",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HAV — como é a evolução e qual a diferença em relação a B, C e D?",
+                        "Infecção aguda e autolimitada, que não evolui para forma crônica. Hepatite fulminante é rara."
+                    ],
+                    "guid": "ql`<~2&i:M",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HAV — como se transmite?",
+                        "<b>Principalmente fecal-oral, por água e alimentos contaminados (ostras, frutas e verduras mal higienizadas), contato direto e contato sexual oral-anal.</b><br><br>Associa-se a surtos onde há saneamento e higiene inadequados, porque muito vírus é eliminado nas fezes."
+                    ],
+                    "guid": "F!^#BKyE28",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HAV — como é a clínica em crianças e em adultos?",
+                        "<b>Na infância muitos casos são assintomáticos ou leves.</b><br><br>Em adultos tende a ser mais sintomática e mais grave. Pode haver cansaço, náuseas, vômitos, perda de apetite, dor abdominal, febre, icterícia, colúria e acolia."
+                    ],
+                    "guid": "o=^D7=c0XA",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HAV — em que frequência ocorre icterícia?",
+                        "Em ~70 a 80% dos adultos e em cerca de 10% das crianças."
+                    ],
+                    "guid": "xaHGV%)7I(",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HAV — como interpretar anti-HAV IgM positivo?",
+                        "Infecção aguda ou recente."
+                    ],
+                    "guid": "KoH(LNfS:$",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HAV — como interpretar IgG positivo com IgM negativo, e ambos negativos?",
+                        "IgG + e IgM −: contato anterior e imunidade. Ambos negativos: sem evidência sorológica de infecção anterior ou atual, indivíduo suscetível."
+                    ],
+                    "guid": "ms9q7,GI=+",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HAV — quais as medidas de prevenção e qual o tipo da vacina?",
+                        "<b>Higiene, saneamento e vacinação com vírus inativado.</b><br><br>Água potável, higienizar alimentos, lavar as mãos, evitar frutos do mar crus ou malcozidos. A vacina pode ser indicada a crianças, hepatopatas, imunossuprimidos, profissionais do sexo, usuários de drogas e viajantes para áreas endêmicas (como a Índia)."
+                    ],
+                    "guid": "h2z_v/fM*u",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HEV — como se transmite e onde é mais prevalente?",
+                        "Fecal-oral, por água e alimentos contaminados. Mais prevalente em países com condições sanitárias precárias (Ásia, África Ocidental e Oriente Médio)."
+                    ],
+                    "guid": "yS}eZqv^^9",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HEV — como é a clínica e a evolução?",
+                        "Semelhante à hepatite A (cansaço, mal-estar, náuseas, vômitos, dor abdominal, icterícia, colúria, acolia), em geral aguda e autolimitada. A cronificação é rara e ocorre sobretudo em imunocomprometidos."
+                    ],
+                    "guid": "fx^/Y}};>W",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HEV — por que merece atenção em relação à hepatite A?",
+                        "Tem mortalidade maior: 1 a 3%, podendo chegar a 20% em gestantes, nas quais pode evoluir com insuficiência hepática."
+                    ],
+                    "guid": "m+1%v/q}c",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HEV — quais as medidas de prevenção?",
+                        "Saneamento básico, água potável, higiene dos alimentos, evitar água e alimentos contaminados e higiene pessoal."
+                    ],
+                    "guid": "y[62!PW(dF",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatites — qual é a pista de fecal-oral comum no Brasil e de fecal-oral não endêmica no Brasil?",
+                        "Fecal-oral comum no Brasil e com surtos em creches: hepatite A. Fecal-oral não endêmica no Brasil: hepatite E."
+                    ],
+                    "guid": "o]OwN8KFi)",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hepatites — qual vírus é parenteral com forte relação com cronificação e CHC, e qual é sexual e pode vir com coinfecção por HIV?",
+                        "<b>Parenteral com maior relação com forma crônica e carcinoma hepatocelular: hepatite C.</b><br><br>Principalmente sexual, com possível coinfecção por HIV e evolução crônica: hepatite B. O vírus que precisa do HBV e é endêmico na Amazônia é a hepatite D."
+                    ],
+                    "guid": "cyz/TNTk+&",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Hepatites_Virais"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — família, gênero, tipos e a enzima que marca os retrovírus?",
+                        "<b>Retroviridae, gênero Lentivirus, vírus de RNA. Dois tipos: HIV-1 (o mais disseminado, com subtipos) e HIV-2. A marca dos retrovírus é a transcriptase reversa.</b><br><br>A transcriptase reversa transforma o RNA viral em DNA, que pode ser incorporado ao genoma humano."
+                    ],
+                    "guid": "tj1V:fdWp(",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — como é a partícula viral e quais glicoproteínas estão no envelope?",
+                        "Esférico, de ~80 a 120 nm, com envelope e capsídeo. No envelope há a GP120 e a GP41."
+                    ],
+                    "guid": "rrQVey~(jz",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — qual a função da GP120 e da GP41?",
+                        "GP120: liga o vírus ao receptor CD4 da célula. GP41: promove a fusão entre o envelope viral e a membrana celular."
+                    ],
+                    "guid": "m0y:1EHFKF",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — qual proteína do capsídeo é marcador diagnóstico?",
+                        "A P24, importante para a estrutura viral e usada como marcador diagnóstico."
+                    ],
+                    "guid": "Pm+A;F`aw)",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — qual a função da transcriptase reversa?",
+                        "Transforma o RNA viral em DNA."
+                    ],
+                    "guid": "CDUQL]aZD+",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — qual a função da integrase?",
+                        "Insere o DNA viral no genoma da célula humana."
+                    ],
+                    "guid": "FBcOG%88~h",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — qual a função da protease?",
+                        "Cliva e processa proteínas virais, permitindo a montagem de novas partículas."
+                    ],
+                    "guid": "qc3@,(2$]i",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — quais são as vias de transmissão?",
+                        "Sexual (contato desprotegido), sanguínea (agulhas compartilhadas, perfurocortantes) e vertical (gestação, parto e aleitamento materno)."
+                    ],
+                    "guid": "sP.j[dwici",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — qual é o principal alvo celular e que outras células podem ser infectadas?",
+                        "Linfócitos T CD4, que organizam a resposta imune. Também macrófagos e células dendríticas."
+                    ],
+                    "guid": "H_7/:S%%5L",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — como o vírus entra na célula, passo a passo?",
+                        "<b>GP120 liga ao CD4, depois a um correceptor (CCR5 ou CXCR4), o que muda as proteínas virais e permite à GP41 promover a fusão. Em seguida o material genético entra na célula.</b>"
+                    ],
+                    "guid": "rtdl2^6,]E",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — como é o ciclo dentro da célula, em ordem das enzimas?",
+                        "<b>Transcriptase reversa (RNA → DNA), integrase (DNA viral no genoma humano) e protease (processa proteínas para formar novas partículas), que são liberadas e infectam outras células.</b>"
+                    ],
+                    "guid": "Q@LG^Mv/YN",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — o que é o efeito cavalo de Troia e em quanto tempo ocorre?",
+                        "<b>O HIV usa células imunes (como as dendríticas) para se disseminar: elas capturam o vírus e migram para os linfonodos, onde favorecem a infecção dos CD4.</b><br><br>Células infectadas chegam aos linfonodos em ~2 dias e o vírus é detectado no plasma em ~5 dias."
+                    ],
+                    "guid": "y=KJ8=Yy}E",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "AIDS — o que é e como se relaciona com os CD4?",
+                        "É a forma mais avançada da infecção, com comprometimento importante da imunidade. O HIV destrói progressivamente os CD4, reduzindo a capacidade de combater infecções."
+                    ],
+                    "guid": "I@3T*X5t5i",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — como é o curso da infecção (CD4 e carga viral) ao longo do tempo?",
+                        "<b>Início com intensa multiplicação viral e queda dos CD4, depois latência clínica (pessoa sem sintomas importantes, vírus ainda presente) e, com a queda dos CD4, manifestações clínicas e doenças oportunistas.</b><br><br><img src=\"hiv_curso_infeccao.jpg\">"
+                    ],
+                    "guid": "kKhX]c2dr$",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "AIDS — qual o critério da aula e qual a ressalva?",
+                        "<b>CD4 ≤ 350 células/mm³ e/ou doenças definidoras (critério da aula).</b><br><br>ATENÇÃO: o corte de 350 é o da vigilância brasileira. A definição internacional (CDC/OMS) usa CD4 < 200. Confirmar com a professora qual cobrar."
+                    ],
+                    "guid": "igEp_-R0sG",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "AIDS — quais são as principais doenças oportunistas por fungos e por Pneumocystis?",
+                        "Candidíase esofágica (Candida no esôfago), pneumocistose (pneumonia por Pneumocystis jirovecii), criptococose (pulmonar e meningoencefálica) e histoplasmose extrapulmonar (forma disseminada)."
+                    ],
+                    "guid": "tWefXo8pUr",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "AIDS — quais outras doenças oportunistas foram citadas?",
+                        "Toxoplasmose (pode atingir o SNC), tuberculose extrapulmonar, citomegalovírus (infecção ocular e de outros órgãos) e sarcoma de Kaposi (neoplasia ligada à imunossupressão)."
+                    ],
+                    "guid": "c1U5LEKcv*",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — por que essas doenças são chamadas de oportunistas?",
+                        "Porque aproveitam a redução das defesas do organismo para causar infecções ou manifestações mais graves."
+                    ],
+                    "guid": "P`L*)`~}%I",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — o que detectam PCR, ELISA para P24, Western blot e ELISA anti-HIV?",
+                        "<b>PCR: RNA viral (e carga viral). ELISA P24: proteína do capsídeo. Western blot: proteínas virais, em etapas de confirmação conforme o protocolo apresentado. ELISA anti-HIV: anticorpos.</b>"
+                    ],
+                    "guid": "BGl#:A`0i{",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — como é o teste rápido (amostra, tempo, o que detecta e janelas)?",
+                        "Sangue (gota) ou fluido oral, resultado em ~15 min, detecta anticorpos. Janela de ~30 dias com sangue e de ~90 dias com fluido oral."
+                    ],
+                    "guid": "bcfbopv&~u",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — o que é janela imunológica?",
+                        "O período entre a infecção e o momento em que o marcador pesquisado pode ser detectado pelo exame."
+                    ],
+                    "guid": "n~v,m(95l/",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — quais são as duas possibilidades de confirmação diagnóstica apresentadas?",
+                        "Dois testes rápidos positivos de marcas diferentes, ou ELISA anti-HIV positivo associado à pesquisa de RNA viral por PCR em uma segunda amostra."
+                    ],
+                    "guid": "Rb<J-7UVv_",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — como se classificam os antirretrovirais da transcriptase reversa, com exemplos?",
+                        "Análogos de nucleosídeos: AZT, lamivudina e tenofovir. Não análogos: efavirenz e nevirapina."
+                    ],
+                    "guid": "Q@^FKz0ep?",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — quais outras classes de antirretrovirais existem, com exemplos?",
+                        "<b>Inibidores da protease: ritonavir e darunavir.</b><br><br>Inibidores de fusão: T20 e maraviroque. Inibidores da integrase: raltegravir e dolutegravir."
+                    ],
+                    "guid": "H[|u=Qi)37",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — quais são os alvos da terapia antirretroviral?",
+                        "Transcriptase reversa, integrase, protease, fusão viral e correceptor CCR5."
+                    ],
+                    "guid": "wSa[::_17^",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — qual o esquema inicial para adultos e o que o tratamento consegue?",
+                        "Tenofovir + lamivudina + dolutegravir. Reduz a multiplicação viral, pode levar a carga viral indetectável e ajuda a preservar a imunidade."
+                    ],
+                    "guid": "c.N@Dkje@G",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — o que é PEP e qual o prazo para iniciar?",
+                        "Profilaxia pós-exposição: antirretrovirais após possível exposição (perfurocortante, relação desprotegida), iniciados em até 72 horas."
+                    ],
+                    "guid": "rA2vz2i1v^",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV — o que é PrEP e para quem?",
+                        "Profilaxia pré-exposição para pessoas com maior risco de adquirir o HIV, com antirretrovirais contínuos ou sob demanda, conforme a indicação. Preservativos continuam sendo medida de prevenção."
+                    ],
+                    "guid": "qZu*6MQwgv",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HIV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HPV — como é o genoma e a estrutura, e quais tecidos infecta?",
+                        "DNA de fita dupla circular envolvido por capsídeo proteico. Infecta pele e mucosas (genital, anal e oral) e alcança a camada basal do epitélio, onde inicia a replicação."
+                    ],
+                    "guid": "L1NC%*K~q2",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HPV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HPV — qual a principal via de transmissão e a penetração é necessária?",
+                        "<b>Contato direto com pele ou mucosa infectada, principalmente sexual (oral-genital, genital-genital e manual-genital).</b><br><br>Não precisa de penetração. Pode haver transmissão no parto."
+                    ],
+                    "guid": "B-6>(6^HpP",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HPV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HPV — quais são as manifestações benignas e malignas?",
+                        "<b>Benignas: verrugas, papilomas e condilomas (inclusive papilomas laríngeos e orais). Malignas: câncer de colo do útero, de pênis e outros (região oral e esofágica), ligadas a tipos de alto risco.</b>"
+                    ],
+                    "guid": "e|XbZp?fKF",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HPV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HPV — quais tipos mais se associam ao câncer do colo do útero?",
+                        "HPV 16 e 18, associados a ~70% dos casos."
+                    ],
+                    "guid": "K/T,SQ?TaO",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HPV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HPV — qual a diferença entre baixo e alto risco oncogênico e exemplos de tipos?",
+                        "Baixo risco (ex.: 6 e 11): verrugas e condilomas, em geral sem evolução para câncer. Alto risco (ex.: 16, 18, 31, 45): alterações celulares persistentes podem evoluir para lesões pré-cancerosas e câncer."
+                    ],
+                    "guid": "n$7*a:-EQz",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HPV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HPV — qual o destino da maioria das infecções e qual é a principal preocupação?",
+                        "<b>A maioria é eliminada em até 24 meses. A preocupação é a infecção persistente por tipos de alto risco.</b><br><br>Em alguns o vírus fica em latência ou volta a se multiplicar, sobretudo com redução da imunidade."
+                    ],
+                    "guid": "b1yV!ih7LZ",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HPV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HPV — quais exames diagnosticam e rastreiam?",
+                        "Papanicolau (células do colo), colposcopia (visão detalhada do colo), histopatologia, biologia molecular, peniscopia (homens) e anuscopia (região anal)."
+                    ],
+                    "guid": "i$~iD|cH!V",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HPV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HPV — qual a principal prevenção e por que o preservativo não basta?",
+                        "Vacinação. O preservativo ajuda, mas não elimina o risco porque o HPV infecta regiões da pele não cobertas por ele."
+                    ],
+                    "guid": "sp#Y:S(i?z",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HPV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HPV — qual o esquema vacinal em 9 a 14 anos e em 15 a 19 anos não vacinados?",
+                        "Meninas e meninos de 9 a 14 anos: 1 dose. De 15 a 19 anos não vacinados: 1 dose (resgate vacinal)."
+                    ],
+                    "guid": "weM+5]`#$s",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HPV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HPV — quais públicos têm esquema especial e quantas doses?",
+                        "<b>Imunossuprimidos de 9 a 45, papilomatose respiratória recorrente e usuários de PrEP de 15 a 45: 3 doses. Violência sexual: 2 doses de 9 a 14 anos e 3 doses de 15 a 45.</b><br><br>Nos esquemas de 3 doses: 2 meses entre a 1ª e a 2ª e 6 meses entre a 1ª e a 3ª."
+                    ],
+                    "guid": "OH.F:]Vy.G",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HPV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HPV — quais são as três metas da OMS até 2030 para eliminar o câncer do colo do útero?",
+                        "90% das meninas vacinadas até os 15 anos, 70% das mulheres rastreadas com teste de alta qualidade aos 35 e aos 45 anos e 90% das mulheres com câncer do colo do útero tratadas."
+                    ],
+                    "guid": "hT,`&PP((J",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HPV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "HIV × HPV — como se comparam genoma, alvo, consequência e vacina?",
+                        "<b>HIV: RNA, Retroviridae, alvo CD4, imunodeficiência, vacina em desenvolvimento. HPV: DNA dupla circular, Papillomaviridae, alvo camada basal do epitélio, verrugas e alguns cânceres, vacina disponível.</b><br><br>Transmissão do HIV: sexual, sanguínea e vertical. Do HPV: contato direto, principalmente sexual. Prevenção: HIV com preservativos, PEP e PrEP. HPV com vacinação e preservativos."
+                    ],
+                    "guid": "f)(o?UmMQf",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::HPV"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fungos — quais características gerais de ambiente, metabolismo e mobilidade?",
+                        "Ubíquos, quimiorganotróficos, com exigências nutricionais simples e, em sua maioria, aeróbios e imóveis."
+                    ],
+                    "guid": "y70/xG,4+F",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micologia_Geral"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fungos — quais são as duas formas principais?",
+                        "Filamentosos (multicelulares, formados por hifas) e leveduras (unicelulares, reproduzem-se por brotamento ou fissão binária)."
+                    ],
+                    "guid": "y:#p})Z?CQ",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micologia_Geral"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fungos — o que diferencia estruturalmente de células animais e por que isso importa para drogas?",
+                        "<b>Parede celular e ergosterol na membrana. Ambos são alvos de antifúngicos.</b><br><br>A parede é composta principalmente de glucanas, mananas e quitina (além de proteínas e lipídios). O ergosterol faz papel semelhante ao do colesterol nas células animais. Os fungos também têm núcleo e outras organelas."
+                    ],
+                    "guid": "w)[H._`7(K",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micologia_Geral"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fungos filamentosos — o que são hifas, micélio vegetativo e micélio aéreo?",
+                        "Hifas são estruturas tubulares, contínuas ou septadas. O conjunto forma o micélio: vegetativo (sustentação e absorção de nutrientes) e aéreo (cresce acima do substrato e forma estruturas reprodutivas)."
+                    ],
+                    "guid": "c!inKJ+9oh",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micologia_Geral"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fungos — o que são conídios e por que facilitam a dispersão?",
+                        "Estruturas de reprodução e dispersão (sexuados ou assexuados) resistentes ao ressecamento."
+                    ],
+                    "guid": "kiR=??l#Xr",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micologia_Geral"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Leveduras — como crescem e se reproduzem?",
+                        "Unicelulares, geralmente anaeróbias facultativas, crescem rápido a 35–37 °C e se reproduzem por brotamento, fissão binária ou reprodução sexuada."
+                    ],
+                    "guid": "A{_/B?S`-5",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micologia_Geral"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fungos dimórficos — o que é dimorfismo e como a temperatura determina a forma?",
+                        "Capacidade de mudar de forma conforme a temperatura: filamentoso a ~25 °C (ambiente) e levedura a ~37 °C (corpo)."
+                    ],
+                    "guid": "q&SxHN&V3.",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micologia_Geral"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fungos — quais são os fatores de virulência?",
+                        "<b>Cápsula, biofilme e melanina na parede.</b><br><br>A cápsula (mucopolissacarídica) dificulta a fagocitose, como no Cryptococcus neoformans. O biofilme fixa o fungo a superfícies e o protege de substâncias externas e do sistema imune. A melanina protege contra substâncias externas e defesas do organismo."
+                    ],
+                    "guid": "z(UdS`F4av",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micologia_Geral"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Micoses — como são classificadas pela região atingida e forma de entrada?",
+                        "Em superficiais, cutâneas, subcutâneas, sistêmicas e oportunistas."
+                    ],
+                    "guid": "lmI8EI-<zX",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Micoses superficiais — o que atingem e que lesões causam?",
+                        "As regiões mais externas, especialmente a camada córnea, ou a parte livre dos pelos, com manchas pigmentadas ou nódulos ao longo dos pelos."
+                    ],
+                    "guid": "kR]!Y2n#fE",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Piedra negra — agente e características?",
+                        "Piedraia hortae: acomete pelos e forma nódulos de consistência dura na haste do pelo."
+                    ],
+                    "guid": "k:]gR5ohT;",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Piedra branca — agente e características?",
+                        "Trichosporon beigelii: acomete pelos do couro cabeludo, bigode e barba, com nódulos pastosos de cor creme."
+                    ],
+                    "guid": "m[dN$!v|t",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pitiríase versicolor — agente, local e característica do fungo?",
+                        "<b>Malassezia furfur, também conhecida como pano branco.</b><br><br>O fungo faz parte da microbiota normal da pele, em regiões ricas em glândulas sebáceas. As lesões ficam na parte superior do tronco, braços e abdome, com descamação."
+                    ],
+                    "guid": "E]ei=Q>JE",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tinea nigra — agente e aspecto?",
+                        "Exophiala werneckii: geralmente assintomática, com manchas bem delimitadas, principalmente em mãos e pés."
+                    ],
+                    "guid": "P*pI(>.ijE",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Micoses cutâneas — em que diferem das superficiais e que estruturas atingem?",
+                        "Atingem camada córnea, pelos e unhas e invadem toda a espessura da camada córnea, comprometendo estruturas queratinizadas, com manchas inflamatórias, alopecia e destruição da lâmina ungueal."
+                    ],
+                    "guid": "b63Dry?3|S",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tinha da cabeça e tinha crural — local e gêneros?",
+                        "Cabeça: couro cabeludo, queda de cabelo, Microsporum e Trichophyton. Crural: virilhas, Microsporum, Trichophyton e Epidermophyton."
+                    ],
+                    "guid": "d(&cR9Ex~7",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tinha do pé e onicomicose — nome popular, local e gêneros?",
+                        "Tinha do pé (pé de atleta): pés, Trichophyton e Epidermophyton. Onicomicose: unhas, com alteração ou destruição da lâmina ungueal, Trichophyton."
+                    ],
+                    "guid": "QMBveNE:?@",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Micoses subcutâneas — como o fungo entra e como se espalha?",
+                        "Entra por trauma ou perfuração da pele e se dissemina por contiguidade ou via linfática, com tumefação, inchaço ou lesões supuradas na pele e no tecido subcutâneo."
+                    ],
+                    "guid": "hkS,FN&V)4",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Esporotricose — agente, quem se infecta e como se espalha?",
+                        "<b>Sporothrix schenckii, ligado a jardineiros e fazendeiros (plantas, solo e materiais contaminados), que entra por perfuração e se espalha pelos vasos linfáticos.</b><br><br>Os gatos também são frequentemente infectados e podem transmitir a doença a humanos."
+                    ],
+                    "guid": "Ay:+kXWI2:",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Micoses sistêmicas — como são adquiridas e quem é mais exposto?",
+                        "<b>Por inalação de esporos, começando em geral nos pulmões (pode regredir espontaneamente).</b><br><br>Mais ligadas a quem trabalha em contato com o solo (trabalhadores rurais, jardineiros, terraplanagem). Pode haver disseminação pelo sangue com lesões extrapulmonares."
+                    ],
+                    "guid": "k0s7u}V`<O",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Histoplasmose — agente, fonte e evolução?",
+                        "<b>Histoplasma capsulatum, em solo contaminado com excretas de aves e morcegos.</b><br><br>Comprometimento pulmonar e febre, podendo evoluir para lesões tegumentares. A forma disseminada pode ser fatal."
+                    ],
+                    "guid": "MRvPY9T%R?",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Paracoccidioidomicose — agente, apresentação e perfil de risco?",
+                        "<b>Paracoccidioides brasiliensis, a principal micose sistêmica no Brasil. A forma pulmonar é a mais comum e o primeiro foco.</b><br><br>Causa lesões granulomatosas em diferentes regiões e atinge vísceras. É mais frequente em homens, fumantes e etilistas crônicos, com condições precárias de higiene, nutrição e situação socioeconômica."
+                    ],
+                    "guid": "tI#extj8q$",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Micoses oportunistas — que fungos causam, em quem, e quais as portas de entrada?",
+                        "<b>Fungos de baixa virulência e termotolerantes (crescem perto de 37 °C) que causam doença em pessoas com graves deficiências imunes.</b><br><br>Entram por cateteres, sondas, lesões de pele e inalação de esporos."
+                    ],
+                    "guid": "kSw5@lD:#A",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Criptococose — agente, fonte e órgãos mais atingidos?",
+                        "Cryptococcus neoformans (tem cápsula), em solo contaminado com fezes de aves, principalmente pombos. Atinge sobretudo pulmões e sistema nervoso central, com formas broncopulmonar, meningoencefálica, ganglionar e tegumentar."
+                    ],
+                    "guid": "e04Z;U*-eb",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Candidíase superficial — agente, formas e quadro genital?",
+                        "<b>Principalmente Candida albicans, em formas cutâneas, ungueais, periungueais ou mucosas (estomatite, vulvovaginite).</b><br><br>Atinge mucosa oral e vaginal, trato gastrointestinal e região retal. Na região genital causa coceira, ardor e corrimento vaginal."
+                    ],
+                    "guid": "ufIQuWei:i",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Candida auris — o que a torna preocupante e quais os fatores de risco?",
+                        "<b>Fungo emergente de infecções hospitalares, resistente a múltiplos antifúngicos, que pode causar infecção da corrente sanguínea e outras invasivas.</b><br><br>Fatores de risco: cateteres, imunocomprometimento, nutrição parenteral, hemodiálise, doença renal crônica e diabetes."
+                    ],
+                    "guid": "oz[l@oNDnj",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Diagnóstico das micoses — como funciona a microscopia direta e a cultura?",
+                        "Microscopia direta visualiza estruturas fúngicas na amostra, com colorações como Gram, Giemsa e Calcofluor. A cultura permite crescimento e isolamento do fungo para identificação."
+                    ],
+                    "guid": "BM1LYSA,QQ",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Diagnóstico das micoses — quais são os métodos histopatológicos, imunológicos, moleculares e bioquímicos?",
+                        "<b>Histopatologia com HE (rotina) e colorações especiais como PAS.</b><br><br>Imunofluorescência direta e métodos imunológicos. Moleculares: PCR e MALDI-TOF. Bioquímicos: identificam metabólitos, componentes da parede e enzimas dos fungos."
+                    ],
+                    "guid": "J@GP++@=iN",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cultura de fungos — quais meios e aditivos são usados?",
+                        "Ágar Sabouraud e BHI (Brain Heart Infusion), com fontes simples de nitrogênio e carboidratos. Para fungos clínicos podem ser adicionados gentamicina, cloranfenicol e cicloeximida."
+                    ],
+                    "guid": "w280,H8ieT",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Micoses"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Antifúngicos — o que distingue as três classes entre si?",
+                        "<b>A estrutura fúngica atingida: poliênicos agem na membrana, azóis na produção de ergosterol e equinocandinas na síntese da parede celular.</b>"
+                    ],
+                    "guid": "ec_#YQ.j3w",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Antifungicos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Poliênicos — mecanismo e exemplo?",
+                        "Danificam a membrana celular do fungo. Exemplo: anfotericina B."
+                    ],
+                    "guid": "e(m.w*%b5i",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Antifungicos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Azóis — mecanismo e exemplo?",
+                        "Inibem a produção de ergosterol. Exemplo: fluconazol."
+                    ],
+                    "guid": "zo&YWYWj(Z",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Antifungicos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Equinocandinas — mecanismo e exemplo?",
+                        "Inibem a síntese da parede celular. Exemplo: caspofungina."
+                    ],
+                    "guid": "dc-M`t7O}D",
+                    "note_model_uuid": "9da032ba-cdaa-11f1-a746-3e20219029c8",
+                    "tags": [
+                        "M2::MICROBIOLOGIA::Antifungicos"
                     ]
                 }
             ],
